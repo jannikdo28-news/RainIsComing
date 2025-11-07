@@ -19,3 +19,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Entsiegelung Regen',de,Mitigation,#679e2c,#61b00c,3,0.1173761163574029
 'Regen Dachbegrünung',de,Mitigation,#679e2c,#61d01c,1,0.1168950688299654
 'Unwettergefahr',de,Mitigation,#679e2c,#61d01c,1,0.1168950688299654
+'Niederschlagstage',de,Hazard,#4277e5,#638ed4,2,0.5
+'Regentage',de,Hazard,#6287e5,#638ed4,2,0.5
