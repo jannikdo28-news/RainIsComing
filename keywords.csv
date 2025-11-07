@@ -4,9 +4,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dauerregen',de,Hazard,#3288e5,#638ed4,3,0.2808683038584673
 'Starkregen',de,Hazard,#4287f5,#638ed4,3,0.2263414017353299
 'Unwetter',de,Hazard,#a89216,#77731f,1,0.2101023035264386
-'Pegelstände Dauerregen',de,Impacts,#a89216,#87830f,2,0.2073582648905306
 'Extremwetter Regen',de,Hazard,#a89216,#c4b03b,3,0.1779012631797982
 'Regenmengen',de,Impacts,#9e3215,#d64118,2,0.1767732832614419
+'Pegelstände Dauerregen',de,Impacts,#a89216,#87830f,1,0.176254525156951
 'Unwetterwarnung',de,Mitigation,#679e2c,#477515,2,0.1666471382124474
 'Hochwasser Regen',de,Impacts,#4287f5,#022f78,3,0.1628665546523352
 'Hochwasserwarnung Niederschlag',de,Mitigation,#a89216,#a89216,3,0.1597787967178619
