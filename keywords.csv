@@ -2,10 +2,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Regentage',de,Hazard,#6287e5,#638ed4,2,0.3651353885
 'Niederschlagstage',de,Hazard,#4277e5,#638ed4,1,0.3612499999999999
 'Dauerregen',de,Hazard,#3288e5,#638ed4,3,0.2808683038584673
-'Starkregen',de,Hazard,#4287f5,#638ed4,3,0.2263414017353299
 'Unwetter',de,Hazard,#a89216,#77731f,1,0.2101023035264386
+'Starkregen',de,Hazard,#4287f5,#638ed4,3,0.20643327556593952
 'Extremwetter Regen',de,Hazard,#a89216,#c4b03b,3,0.1779012631797982
-'Regenmengen',de,Impacts,#9e3215,#d64118,1,0.16821923940639177
+'Regenmengen',de,Impacts,#9e3215,#d64118,1,0.1682192394063917
 'Unwetterwarnung',de,Mitigation,#679e2c,#477515,2,0.1666471382124474
 'Hochwasser Regen',de,Impacts,#4287f5,#022f78,3,0.1628665546523352
 'Erdrutsche Regen',de,Impacts,#9e3215,#802d16,3,0.1595944288565655
