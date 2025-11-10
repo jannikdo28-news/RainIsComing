@@ -1,7 +1,12 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Deutsche Wetterdienst,Deutsche Wetterdienst,ORG,-0.30833333333333335,0.0,de,4
-DWD,DWD,ORG,-0.3333333333333333,0.0,de,3
+Deutsche Wetterdienst,Deutsche Wetterdienst,ORG,-0.32592592592592595,0.0,de,9
+DWD,DWD,ORG,-0.2,0.0,de,5
 Deutschem Wetterdienst,Deutschem Wetterdienst,ORG,0.0,0.0,de,1
 ge…,ge…,ORG,0.0,0.0,de,1
+Schnellstra…,Schnellstra…,ORG,0.7,0.0,de,1
+Deutschen Wetterdienst,Deutschen Wetterdienst,ORG,0.0,0.0,de,1
+nä…,nä…,ORG,0.0,0.0,de,1
+Reg…,Reg…,ORG,-0.85,0.0,de,1
+NACHRICHTEN,NACHRICHTEN,ORG,0.7,0.0,de,1
 GEO,GEO,ORG,1.0,0.0,de,1
 Deutschen Wetterdienstes,Deutschen Wetterdienstes,ORG,0.0,0.0,de,1

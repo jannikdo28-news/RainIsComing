@@ -1,45 +1,87 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Harz,Harz,LOC,-0.25,0.0,de,4
+Starkregen,Starkregen,LOC,-0.37777777777777777,0.0,de,9
+Rheinland-Pfalz,Rheinland-Pfalz,LOC,-0.3444444444444444,0.0,de,6
+Saarland,Saarland,LOC,-0.28888888888888886,0.0,de,6
+Sturmböen,Sturmböen,LOC,-0.3499999999999999,0.0,de,6
+Nordsee,Nordsee,LOC,-0.13666666666666666,0.3,de,5
+Deutschland,Deutschland,LOC,-0.06000000000000001,0.0,de,5
+Mallorca,Mallorca,LOC,0.0,0.0,de,4
+Philippinen,Philippinen,LOC,0.0,0.0,de,4
 Hamburg,Hamburg,LOC,0.0,0.0,de,4
 Dauerregen,Dauerregen,LOC,0.0,0.0,de,4
-Bayerns Alpen,Bayerns Alpen,LOC,0.0,0.0,de,3
-Nordsee,Nordsee,LOC,-0.11666666666666665,0.5,de,3
-Elbe,Elbe,LOC,0.0,0.0,de,3
+Ibiza,Ibiza,LOC,0.0,0.0,de,4
+Harz,Harz,LOC,-0.25,0.0,de,4
+Orkanböen,Orkanböen,LOC,-0.6666666666666666,0.0,de,3
+Gewitter,Gewitter,LOC,0.0,0.0,de,3
 Korsika,Korsika,LOC,0.0,0.0,de,3
-Stadt München,Stadt München,LOC,0.0,0.16666666666666666,de,2
-Fährausfälle,Fährausfälle,LOC,0.0,0.0,de,2
-Nordseeküste,Nordseeküste,LOC,0.0,0.0,de,2
-Fango,Fango,LOC,0.0,0.0,de,2
+Bayerns Alpen,Bayerns Alpen,LOC,0.0,0.0,de,3
+Elbe,Elbe,LOC,0.0,0.0,de,3
+Balearen,Balearen,LOC,0.0,0.0,de,2
 Verkehrsbehinderungen,Verkehrsbehinderungen,LOC,0.0,0.0,de,2
-München,München,LOC,0.5,0.0,de,2
-Bayern,Bayern,LOC,0.0,0.0,de,2
+Böen,Böen,LOC,0.0,0.0,de,2
+lrs,lrs,LOC,-0.16666666666666666,0.0,de,2
+Spanien,Spanien,LOC,0.0,0.0,de,2
+Fährausfälle,Fährausfälle,LOC,0.0,0.0,de,2
+Gewittern,Gewittern,LOC,-1.0,0.0,de,2
+Fango,Fango,LOC,0.0,0.0,de,2
+Festlands,Festlands,LOC,0.0,0.0,de,2
+Nordseeküste,Nordseeküste,LOC,0.0,0.0,de,2
 Wochenanfang,Wochenanfang,LOC,-0.7,0.0,de,2
-Surfern,Surfern,LOC,0.5249999999999999,0.25,de,2
 Stadt,Stadt,LOC,0.0,0.0,de,2
-Münchner Eisbach,Münchner Eisbach,LOC,0.0,0.0,de,1
-Pegeln,Pegeln,LOC,0.0,0.0,de,1
-Leipz…,Leipz…,LOC,0.0,0.0,de,1
-Eisbach,Eisbach,LOC,0.0,0.3333333333333333,de,1
-Kreis Bergstraße,Kreis Bergstraße,LOC,0.0,0.0,de,1
-Eisbach von,Eisbach von,LOC,0.35,0.5,de,1
-Landkreis Fulda,Landkreis Fulda,LOC,0.0,0.0,de,1
-Landkreis Bergstraße,Landkreis Bergstraße,LOC,-0.7,0.0,de,1
-Deutschlands,Deutschlands,LOC,0.0,1.0,de,1
-Sturmflut,Sturmflut,LOC,0.0,0.0,de,1
-Böen fegen,Böen fegen,LOC,0.0,0.0,de,1
-Europa,Europa,LOC,0.0,0.0,de,1
-Küste,Küste,LOC,0.0,0.0,de,1
+München,München,LOC,0.5,0.0,de,2
+Vietnam,Vietnam,LOC,0.0,0.0,de,2
+Insel-Hauptstadt,Insel-Hauptstadt,LOC,0.0,0.0,de,2
+Stadt München,Stadt München,LOC,0.0,0.16666666666666666,de,2
+Bayern,Bayern,LOC,0.0,0.0,de,2
+Surfern,Surfern,LOC,0.5249999999999999,0.25,de,2
+Südostasien,Südostasien,LOC,-0.35,0.0,de,2
+Karibik,Karibik,LOC,0.0,0.0,de,2
 Bäume,Bäume,LOC,-1.0,0.0,de,1
-Deutschland,Deutschland,LOC,-1.0,0.0,de,1
-Westeuropa,Westeuropa,LOC,-1.0,0.0,de,1
-d…,d…,LOC,0.0,0.0,de,1
-Joshua,Joshua,LOC,0.0,0.0,de,1
-Schwaben,Schwaben,LOC,0.0,0.0,de,1
-Franken,Franken,LOC,0.0,0.0,de,1
-Niederbayern,Niederbayern,LOC,-0.7,0.0,de,1
-Meteorologen,Meteorologen,LOC,0.0,0.0,de,1
-Bergen,Bergen,LOC,0.0,0.0,de,1
-Neuschnee,Neuschnee,LOC,0.0,0.0,de,1
-Freistaat,Freistaat,LOC,0.0,0.0,de,1
-Alpen,Alpen,LOC,0.0,0.0,de,1
 Münchens,Münchens,LOC,0.7,0.0,de,1
+Pazifik,Pazifik,LOC,0.0,0.0,de,1
+Westeuropa,Westeuropa,LOC,-1.0,0.0,de,1
+Europa,Europa,LOC,0.0,0.0,de,1
+Kalmaegi,Kalmaegi,LOC,0.0,0.0,de,1
+Küste,Küste,LOC,0.0,0.0,de,1
+Landkreis Fulda,Landkreis Fulda,LOC,0.0,0.0,de,1
+Eisbach,Eisbach,LOC,0.0,0.3333333333333333,de,1
+Eisbach von,Eisbach von,LOC,0.35,0.5,de,1
+d…,d…,LOC,0.0,0.0,de,1
+Münchner Eisbach,Münchner Eisbach,LOC,0.0,0.0,de,1
+Leipz…,Leipz…,LOC,0.0,0.0,de,1
+Pegeln,Pegeln,LOC,0.0,0.0,de,1
+Böen fegen,Böen fegen,LOC,0.0,0.0,de,1
+Sturmflut,Sturmflut,LOC,0.0,0.0,de,1
+Deutschlands,Deutschlands,LOC,0.0,1.0,de,1
+Kreis Bergstraße,Kreis Bergstraße,LOC,0.0,0.0,de,1
+Landkreis Bergstraße,Landkreis Bergstraße,LOC,-0.7,0.0,de,1
+Regenschauer,Regenschauer,LOC,0.0,0.0,de,1
+Joshua,Joshua,LOC,0.0,0.0,de,1
+Spaniens,Spaniens,LOC,0.0,0.0,de,1
+Alpen,Alpen,LOC,0.0,0.0,de,1
+Freistaat,Freistaat,LOC,0.0,0.0,de,1
+Neuschnee,Neuschnee,LOC,0.0,0.0,de,1
+Bergen,Bergen,LOC,0.0,0.0,de,1
+Meteorologen,Meteorologen,LOC,0.0,0.0,de,1
+Niederbayern,Niederbayern,LOC,-0.7,0.0,de,1
+Franken,Franken,LOC,0.0,0.0,de,1
+Schwaben,Schwaben,LOC,0.0,0.0,de,1
+Ibizia,Ibizia,LOC,0.0,0.0,de,1
+Tornados,Tornados,LOC,-1.0,0.0,de,1
+Mittelmeer,Mittelmeer,LOC,0.0,0.0,de,1
+Tief Alice,Tief Alice,LOC,0.0,0.0,de,1
+Valencia,Valencia,LOC,0.0,0.0,de,1
+Zentralmexiko,Zentralmexiko,LOC,0.0,0.0,de,1
+Alicante,Alicante,LOC,0.0,0.0,de,1
+Murcia,Murcia,LOC,0.0,0.0,de,1
+Katastrophen-Alarm,Katastrophen-Alarm,LOC,0.0,0.0,de,1
+Sturmtief Alice,Sturmtief Alice,LOC,0.0,0.0,de,1
+Katastrophengebiete,Katastrophengebiete,LOC,0.0,0.0,de,1
+Flut,Flut,LOC,0.0,0.0,de,1
+Sturmböen…,Sturmböen…,LOC,0.0,0.0,de,1
+Mainz/Saarbrücken,Mainz/Saarbrücken,LOC,-0.3333333333333333,0.0,de,1
+Anmarsch,Anmarsch,LOC,0.0,0.0,de,1
+Saarbrücken/Kaiserslautern/Laumersheim,Saarbrücken/Kaiserslautern/Laumersheim,LOC,0.0,0.0,de,1
+Mexiko,Mexiko,LOC,0.7,0.0,de,1
+nan,nan,LOC,0.0,0.0,de,1
+Südchinesischen Meer,Südchinesischen Meer,LOC,0.0,0.0,de,1

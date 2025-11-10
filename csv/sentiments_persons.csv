@@ -1,2 +1,5 @@
 ,phrase,label,sentiment,subjectivity,language,count
+Sturmtief Alice,Sturmtief Alice,PER,0.0,0.0,de,2
+Sturmtief „Joshua“,Sturmtief „Joshua“,PER,0.0,0.0,de,1
+Joshua ungemütliches,Joshua ungemütliches,PER,-1.0,0.0,de,1
 "Sturmtief ""Joshua","Sturmtief ""Joshua",PER,-1.0,0.0,de,1
