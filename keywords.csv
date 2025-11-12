@@ -16,8 +16,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdrutsche Regen',de,Impacts,#9e3215,#802d16,2,0.1356558495280806
 'Kanalisation Regen',de,Impacts,#9e3215,#b55035,1,0.1300638589594351
 'Regenrückhalt',de,Mitigation,#9e3215,#f64118,1,0.1270814404896551
-'Entsiegelung Regen',de,Mitigation,#679e2c,#61b00c,3,0.1173761163574029
 'Regen Dachbegrünung',de,Mitigation,#679e2c,#61d01c,1,0.1168950688299654
 'Hochwasserwarnung Niederschlag',de,Mitigation,#a89216,#a89216,1,0.1154401806286552
 'Hangrutschung Niederschlag',de,Impacts,#679e2c,#679e2c,1,0.1141979535948584
+'Entsiegelung Regen',de,Mitigation,#679e2c,#61b00c,1,0.09976969890379246
 'Unwettergefahr',de,Mitigation,#679e2c,#61d01c,1,0.0995108235054706
