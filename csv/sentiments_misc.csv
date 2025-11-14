@@ -1,29 +1,63 @@
-,phrase,label,sentiment,subjectivity,language,count
+,phrase,label,sentiment,subjectivity,language,count,geonames,geotype,latitude,longitude,country,ipcc
 "Link
 ","Link
-",MISC,,,de,10
-Münchner,Münchner,MISC,,,de,3
-Wetter“,Wetter“,MISC,,,de,3
-spanischen,spanischen,MISC,,,de,2
-deutscher,deutscher,MISC,,,de,2
-stern,stern,MISC,,,de,2
-“,“,MISC,,,de,2
-ORANGE,ORANGE,MISC,,,de,2
-AEMET,AEMET,MISC,,,de,2
-Alice“,Alice“,MISC,,,de,1
-Deutscher,Deutscher,MISC,,,de,1
-IGSM,IGSM,MISC,,,de,1
-goldenen Herbst,goldenen Herbst,MISC,,,de,1
-"Wind, Regen","Wind, Regen",MISC,,,de,1
-Capital</li><li>4,Capital</li><li>4,MISC,,,de,1
-stern+,stern+,MISC,,,de,1
-stern+statt,stern+statt,MISC,,,de,1
-Joshua“,Joshua“,MISC,,,de,1
-Starkregen“,Starkregen“,MISC,,,de,1
-näc…,näc…,MISC,,,de,1
-Ein Herbsts…,Ein Herbsts…,MISC,,,de,1
-Sturm und Schnee,Sturm und Schnee,MISC,,,de,1
-M…,M…,MISC,,,de,1
-v… Liebe Leser,v… Liebe Leser,MISC,,,de,1
-Ge…,Ge…,MISC,,,de,1
-Taifun in diesem Jahr,Taifun in diesem Jahr,MISC,,,de,1
+",MISC,,,de,25,,,,,,
+“,“,MISC,,,de,17,,,,,,
+Wetter“,Wetter“,MISC,,,de,5,,,,,,
+spanischen,spanischen,MISC,,,de,5,,,,,,
+deutscher,deutscher,MISC,,,de,4,,,,,,
+"Wind, Regen","Wind, Regen",MISC,,,de,4,,,,,,
+Tornado,Tornado,MISC,,,de,4,,,,,,
+Münchner,Münchner,MISC,,,de,3,,,,,,
+deutscher Zeit,deutscher Zeit,MISC,,,de,3,,,,,,
+Unwetterschäden,Unwetterschäden,MISC,,,de,3,,,,,,
+ORANGE,ORANGE,MISC,,,de,2,,,,,,
+andalusische,andalusische,MISC,,,de,2,,,,,,
+stern,stern,MISC,,,de,2,,,,,,
+Risikos von Überflutungen und Erdrutschen,Risikos von Überflutungen und Erdrutschen,MISC,,,de,2,,,,,,
+mexikanischen,mexikanischen,MISC,,,de,2,,,,,,
+Capital</li><li>4,Capital</li><li>4,MISC,,,de,2,,,,,,
+stern+,stern+,MISC,,,de,2,,,,,,
+stern+statt,stern+statt,MISC,,,de,2,,,,,,
+Taifun in diesem Jahr,Taifun in diesem Jahr,MISC,,,de,2,,,,,,
+Katastrophen-Rangliste,Katastrophen-Rangliste,MISC,,,de,2,,,,,,
+Deutscher,Deutscher,MISC,,,de,2,,,,,,
+Flut-Hölle,Flut-Hölle,MISC,,,de,2,,,,,,
+Qualifying,Qualifying,MISC,,,de,2,,,,,,
+AEMET,AEMET,MISC,,,de,2,,,,,,
+Ukraine-Krieg,Ukraine-Krieg,MISC,,,de,1,,,,,,
+’s,’s,MISC,,,de,1,,,,,,
+Samstag…,Samstag…,MISC,,,de,1,,,,,,
+Unwetterkatastrophe,Unwetterkatastrophe,MISC,,,de,1,,,,,,
+Erdrutsche a,Erdrutsche a,MISC,,,de,1,,,,,,
+russischen Angriffskrieg,russischen Angriffskrieg,MISC,,,de,1,,,,,,
+Todesopfer auf mindestens 40,Todesopfer auf mindestens 40,MISC,,,de,1,,,,,,
+Katastrophenschutzbehörde…,Katastrophenschutzbehörde…,MISC,,,de,1,,,,,,
+IGSM,IGSM,MISC,,,de,1,,,,,,
+Katastrophe,Katastrophe,MISC,,,de,1,,,,,,
+Hause,Hause,MISC,,,de,1,,,,,,
+Riesen-Regenchaos,Riesen-Regenchaos,MISC,,,de,1,,,,,,
+Uh... Alarmstufe Orange,Uh... Alarmstufe Orange,MISC,,,de,1,,,,,,
+Hurrikan,Hurrikan,MISC,,,de,1,,,,,,
+Joshua“,Joshua“,MISC,,,de,1,,,,,,
+Tragödie auf Korsika,Tragödie auf Korsika,MISC,,,de,1,,,,,,
+Kräftiger Wind,Kräftiger Wind,MISC,,,de,1,,,,,,
+Betrof…,Betrof…,MISC,,,de,1,,,,,,
+Alice“,Alice“,MISC,,,de,1,,,,,,
+Erdrutsche un…,Erdrutsche un…,MISC,,,de,1,,,,,,
+v… Liebe Leser,v… Liebe Leser,MISC,,,de,1,,,,,,
+Naturkatastrophe“,Naturkatastrophe“,MISC,,,de,1,,,,,,
+Regenfällen in Mexiko,Regenfällen in Mexiko,MISC,,,de,1,,,,,,
+JavaScript,JavaScript,MISC,,,de,1,,,,,,
+Browser,Browser,MISC,,,de,1,,,,,,
+Starkregen“,Starkregen“,MISC,,,de,1,,,,,,
+Sturm auf Korsika,Sturm auf Korsika,MISC,,,de,1,,,,,,
+Ge…,Ge…,MISC,,,de,1,,,,,,
+Sturmtief,Sturmtief,MISC,0.0,0.0,de,1,,,,,,
+Tagen st…,Tagen st…,MISC,,,de,1,,,,,,
+M…,M…,MISC,,,de,1,,,,,,
+Ein Herbsts…,Ein Herbsts…,MISC,,,de,1,,,,,,
+näc…,näc…,MISC,,,de,1,,,,,,
+goldenen Herbst,goldenen Herbst,MISC,,,de,1,,,,,,
+Familien-Ausflug,Familien-Ausflug,MISC,,,de,1,,,,,,
+Sturm und Schnee,Sturm und Schnee,MISC,,,de,1,,,,,,
