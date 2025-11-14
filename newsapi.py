@@ -214,6 +214,7 @@ def removeDuplicates(df1):
     df3 = df1[df1['similarity']<0.8]
     df3 = df3.drop(columns=['md5', 'group', 'similarity'])
     df3 = df3.sort_values(by=['published'], ascending=True)
+    df3 = df3.sort_values(by=['valid','published'], ascending=True)
     return df3
 
 def archiveUrl(data):
@@ -309,14 +310,50 @@ def extractData(article, language, keyWord):
             'image':image, 'content':content, 'quote':'', 'language': language, 'keyword':keyWord, 'hash':hashStr}
     return data  
 
-def checkKeywordInQuote(keyword, quote, case=True):
+def checkKeywordInQuote(keyword, quote, case=True, anyKey=False):
+    allKeywords = []
+    anyKeywords = []
+    noneKeywords = []
+    keyword = keyword.strip("'")
+    if(not case):
+      keywords = keyword.lower()
+      quote = quote.lower()
+    keywords = keyword.split(" ")  
+    for keyw in keywords:
+       if('+' in keyw):
+          allKeywords.append(keyw.replace("+",""))
+          anyKeywords.append(keyw.replace("+",""))
+       elif('-' in keyw):
+          noneKeywords.append(keyw.replace("-",""))
+       elif(anyKey):
+          anyKeywords.append(keyw)
+       else:
+          allKeywords.append(keyw)
+          anyKeywords.append(keyw)
+    found = False
+    for keyw in anyKeywords:
+       found = found or (keyw in quote)   
+    for keyw in allKeywords:
+       found = found and (keyw in quote)  
+    for keyw in noneKeywords:
+       found = found and (not keyw in quote)  
+    return found
+
+def checkKeywordInQuoteOld(keyword, quote, case=True, anyKey=False):
+    keyword = keyword.replace("+","").replace("-","")
     keywords = keyword.strip("'").split(" ")
     if(not case):
         keywords = keyword.strip("'").lower().split(" ")
         quote = quote.lower()
-    allFound = True
-    for keyw in keywords:
-        allFound = allFound and (keyw in quote)    
+    if(anyKey):
+      allFound = False
+      for keyw in keywords:
+        allFound = allFound or (keyw in quote)    
+    else:
+      allFound = True
+      for keyw in keywords:
+        allFound = allFound and (keyw in quote)  
+
     return allFound
 
 def checkArticlesForKeywords(articles, keywordsDF, seldomDF, language, keyWord):
@@ -328,20 +365,23 @@ def checkArticlesForKeywords(articles, keywordsDF, seldomDF, language, keyWord):
       fullQuote = str(data['content'])
       foundKeywords = []
       found = False
+      valid = 0.1
       for index2, column2 in keywordsLangDF.iterrows(): 
          keyword = column2['keyword']
          if(keyword.strip("'") in searchQuote):
              foundKeywords.append(keyword) 
              found = True
+             valid = max(valid,0.9)
          allFound = checkKeywordInQuote(keyword, searchQuote, case=True)
          if(allFound):
              foundKeywords.append(keyword) 
              found = True
-             
+             valid = max(valid,0.8)
          allFound = checkKeywordInQuote(keyword, searchQuote, case=False)
          if(allFound):
              foundKeywords.append(keyword) 
              found = True
+             max(valid,0.7)
       # add seldom keywords twice if
       keywordsSeldomLangDF = seldomDF[seldomDF['language']==language]
       for index2, column2 in keywordsSeldomLangDF.iterrows(): 
@@ -356,10 +396,22 @@ def checkArticlesForKeywords(articles, keywordsDF, seldomDF, language, keyWord):
            if(allFound):
              foundKeywords.append(keyword) 
              found = True
-      if(found):
+             max(valid,0.6) 
+      if(not found):
+        for index2, column2 in keywordsLangDF.iterrows(): 
+           allFound = checkKeywordInQuote(keyword, fullQuote, case=True, anyKey=True)
+           if(allFound):
+             foundKeywords.append(keyword) 
+             found = True
+             max(valid,0.2) 
+      data['valid'] = valid
+      if(valid>0.15):
         foundKeywords.append(keyWord) 
         data['keyword'] = random.choice(foundKeywords)
         foundArticles.append(data)
+      else:
+        data['keyword'] = keyWord
+        #foundArticles.append(data)
 
     return foundArticles
 
@@ -461,8 +513,7 @@ def inqRandomNews():
             'apiKey='+apiKey
             #'excludeDomains=www.zeit.de,www.reuters.com'
             )
-            
-            # sortBy=relevancy   : relevancy, popularity, publishedAt
+        print(['query', 'q='+keyWord+'&'])    
         response = requests.get(url)
         response.encoding = response.apparent_encoding
         
@@ -491,9 +542,9 @@ def inqRandomNews():
                     print("sleep")   
                     time.sleep(60)
                 print("add to collection")
-
-
-                currRatio += len(newArticles)/len(jsonData['articles'])
+                ##currRatio += len(newArticles)/len(jsonData['articles'])
+                for oneArticle in newArticles:
+                  currRatio += oneArticle['valid']/len(jsonData['articles'])
                 if(currRatio>0.5):
                     deltaLimit += 1
                     #newLimit = max(currPage+2,limitPages)
