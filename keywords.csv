@@ -3,7 +3,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Unwetter',de,Hazard,#a89216,#77731f,3,0.2078667610288064
 'Dauerregen',de,Hazard,#3288e5,#638ed4,2,0.1989136604554682
 'Regentage',de,Hazard,#6287e5,#638ed4,1,0.195769975496928
-'Starkregen',de,Hazard,#4287f5,#638ed4,3,0.1886026224128667
+'Starkregen',de,Hazard,#4287f5,#638ed4,3,0.16935565814184578
 'Regenmengen',de,Impacts,#9e3215,#d64118,1,0.1682192394063917
 'Unwetterwarnung',de,Mitigation,#679e2c,#477515,2,0.1666471382124474
 'Überflutung Regen',de,Impacts,#4287f5,#315fa8,3,0.1547588477004197
