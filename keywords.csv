@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Niederschlagstage',de,Hazard,#4277e5,#638ed4,1,0.2610031249999999
-'Unwetter',de,Hazard,#a89216,#77731f,3,0.2339090434563498
+'Unwetter',de,Hazard,#a89216,#77731f,3,0.2078667610288064
 'Dauerregen',de,Hazard,#3288e5,#638ed4,2,0.1989136604554682
 'Regentage',de,Hazard,#6287e5,#638ed4,1,0.195769975496928
 'Starkregen',de,Hazard,#4287f5,#638ed4,3,0.1886026224128667
