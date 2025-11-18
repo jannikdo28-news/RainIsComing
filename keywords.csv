@@ -1,11 +1,11 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Niederschlagstage',de,Hazard,#4277e5,#638ed4,1,0.2610031249999999
-'Unwetter',de,Hazard,#a89216,#77731f,3,0.2078667610288064
+'Unwetter',de,Hazard,#a89216,#77731f,3,0.18164001687448544
 'Dauerregen',de,Hazard,#3288e5,#638ed4,1,0.1690770763871479
 'Regenmengen',de,Impacts,#9e3215,#d64118,1,0.1682192394063917
 'Unwetterwarnung',de,Mitigation,#679e2c,#477515,2,0.1666471382124474
 'Überflutung Regen',de,Impacts,#4287f5,#315fa8,3,0.1547588477004197
-'Starkregen',de,Hazard,#4287f5,#638ed4,3,0.15299913473475615
+'Starkregen',de,Hazard,#4287f5,#638ed4,3,0.1529991347347561
 'Hochwasser Starkregen',de,Hazard,#4287f5,#537ee4,2,0.1362694044506345
 'Hochwasser Regen',de,Impacts,#4287f5,#022f78,3,0.134500252437925
 'Kanalisation Regen',de,Impacts,#9e3215,#b55035,1,0.1300638589594351
