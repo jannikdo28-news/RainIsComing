@@ -1,67 +1,78 @@
-,phrase,label,sentiment,subjectivity,language,count,geonames,geotype,latitude,longitude,country,ipcc
+,phrase,label,sentiment,subjectivity,language,count
 "Link
 ","Link
-",MISC,,,de,26,,,,,,
-“,“,MISC,,,de,18,,,,,,
-spanischen,spanischen,MISC,,,de,5,,,,,,
-Wetter“,Wetter“,MISC,,,de,5,,,,,,
-deutscher,deutscher,MISC,,,de,4,,,,,,
-Tornado,Tornado,MISC,,,de,4,,,,,,
-"Wind, Regen","Wind, Regen",MISC,,,de,4,,,,,,
-Münchner,Münchner,MISC,,,de,3,,,,,,
-Capital</li><li>4,Capital</li><li>4,MISC,,,de,3,,,,,,
-stern+statt,stern+statt,MISC,,,de,3,,,,,,
-Unwetterschäden,Unwetterschäden,MISC,,,de,3,,,,,,
-stern+,stern+,MISC,,,de,3,,,,,,
-deutscher Zeit,deutscher Zeit,MISC,,,de,3,,,,,,
-andalusische,andalusische,MISC,,,de,2,,,,,,
-mexikanischen,mexikanischen,MISC,,,de,2,,,,,,
-AEMET,AEMET,MISC,,,de,2,,,,,,
-stern,stern,MISC,,,de,2,,,,,,
-Flut-Hölle,Flut-Hölle,MISC,,,de,2,,,,,,
-ORANGE,ORANGE,MISC,,,de,2,,,,,,
-Deutscher,Deutscher,MISC,,,de,2,,,,,,
-Risikos von Überflutungen und Erdrutschen,Risikos von Überflutungen und Erdrutschen,MISC,,,de,2,,,,,,
-Qualifying,Qualifying,MISC,,,de,2,,,,,,
-Taifun in diesem Jahr,Taifun in diesem Jahr,MISC,,,de,2,,,,,,
-Katastrophen-Rangliste,Katastrophen-Rangliste,MISC,,,de,2,,,,,,
-Samstag…,Samstag…,MISC,,,de,1,,,,,,
-Möglicher Tornado,Möglicher Tornado,MISC,,,de,1,,,,,,
-Unwetterkatastrophe,Unwetterkatastrophe,MISC,,,de,1,,,,,,
-’s,’s,MISC,,,de,1,,,,,,
-Hurrikan,Hurrikan,MISC,,,de,1,,,,,,
-Riesen-Regenchaos,Riesen-Regenchaos,MISC,,,de,1,,,,,,
-Katastrophenschutzbehörde…,Katastrophenschutzbehörde…,MISC,,,de,1,,,,,,
-Ukraine-Krieg,Ukraine-Krieg,MISC,,,de,1,,,,,,
-russischen Angriffskrieg,russischen Angriffskrieg,MISC,,,de,1,,,,,,
-Todesopfer auf mindestens 40,Todesopfer auf mindestens 40,MISC,,,de,1,,,,,,
-IGSM,IGSM,MISC,,,de,1,,,,,,
-Uh... Alarmstufe Orange,Uh... Alarmstufe Orange,MISC,,,de,1,,,,,,
-kroatischen,kroatischen,MISC,,,de,1,,,,,,
-Hause,Hause,MISC,,,de,1,,,,,,
-Wyk auf Föhr,Wyk auf Föhr,MISC,,,de,1,,,,,,
-näc…,näc…,MISC,,,de,1,,,,,,
-Katastrophe,Katastrophe,MISC,,,de,1,,,,,,
-Tragödie auf Korsika,Tragödie auf Korsika,MISC,,,de,1,,,,,,
-goldenen Herbst,goldenen Herbst,MISC,,,de,1,,,,,,
-v… Liebe Leser,v… Liebe Leser,MISC,,,de,1,,,,,,
-Erdrutsche a,Erdrutsche a,MISC,,,de,1,,,,,,
-Betrof…,Betrof…,MISC,,,de,1,,,,,,
-Alice“,Alice“,MISC,,,de,1,,,,,,
-Erdrutsche un…,Erdrutsche un…,MISC,,,de,1,,,,,,
-Naturkatastrophe“,Naturkatastrophe“,MISC,,,de,1,,,,,,
-Regenfällen in Mexiko,Regenfällen in Mexiko,MISC,,,de,1,,,,,,
-JavaScript,JavaScript,MISC,,,de,1,,,,,,
-Browser,Browser,MISC,,,de,1,,,,,,
-Kräftiger Wind,Kräftiger Wind,MISC,,,de,1,,,,,,
-Starkregen“,Starkregen“,MISC,,,de,1,,,,,,
-Ge…,Ge…,MISC,,,de,1,,,,,,
-Sturmtief,Sturmtief,MISC,0.0,0.0,de,1,,,,,,
-Tagen st…,Tagen st…,MISC,,,de,1,,,,,,
-M…,M…,MISC,,,de,1,,,,,,
-Sturm und Schnee,Sturm und Schnee,MISC,,,de,1,,,,,,
-Ein Herbsts…,Ein Herbsts…,MISC,,,de,1,,,,,,
-Joshua“,Joshua“,MISC,,,de,1,,,,,,
-Familien-Ausflug,Familien-Ausflug,MISC,,,de,1,,,,,,
-Sturm auf Korsika,Sturm auf Korsika,MISC,,,de,1,,,,,,
-norditalienischen,norditalienischen,MISC,,,de,1,,,,,,
+",MISC,,,de,6.4
+“,“,MISC,,,de,4.6
+deutscher Zeit,deutscher Zeit,MISC,,,de,2.6
+we…,we…,MISC,,,de,1.9
+andalusische,andalusische,MISC,,,de,1.9
+Qualifying,Qualifying,MISC,,,de,1.8
+Ukraine-Krieg,Ukraine-Krieg,MISC,,,de,1.0
+IGSM,IGSM,MISC,,,de,1.0
+Münchner,Münchner,MISC,,,de,1.0
+Katastrophenschutzbehörde…,Katastrophenschutzbehörde…,MISC,,,de,1.0
+Todesopfer auf mindestens 40,Todesopfer auf mindestens 40,MISC,,,de,1.0
+russischen Angriffskrieg,russischen Angriffskrieg,MISC,,,de,1.0
+Risikos von Überflutungen und Erdrutschen,Risikos von Überflutungen und Erdrutschen,MISC,,,de,1.0
+Samstag…,Samstag…,MISC,,,de,1.0
+’s,’s,MISC,,,de,1.0
+Unwetterkatastrophe,Unwetterkatastrophe,MISC,,,de,1.0
+Hurrikan,Hurrikan,MISC,,,de,1.0
+Wyk auf Föhr,Wyk auf Föhr,MISC,,,de,1.0
+Das stürmische Wetter,Das stürmische Wetter,MISC,,,de,1.0
+kroatischen,kroatischen,MISC,,,de,1.0
+Taifun in diesem Jahr,Taifun in diesem Jahr,MISC,,,de,1.0
+Katastrophen-Rangliste,Katastrophen-Rangliste,MISC,,,de,1.0
+Unwetterschäden,Unwetterschäden,MISC,,,de,1.0
+Tragödie auf Korsika,Tragödie auf Korsika,MISC,,,de,1.0
+Hause,Hause,MISC,,,de,1.0
+Riesen-Regenchaos,Riesen-Regenchaos,MISC,,,de,1.0
+Uh... Alarmstufe Orange,Uh... Alarmstufe Orange,MISC,,,de,1.0
+Tornado,Tornado,MISC,,,de,1.0
+Ein Supertaifun,Ein Supertaifun,MISC,,,de,1.0
+Kalmaegi“,Kalmaegi“,MISC,,,de,1.0
+Not…,Not…,MISC,,,de,1.0
+picture allian…,picture allian…,MISC,,,de,1.0
+Möglicher Tornado,Möglicher Tornado,MISC,,,de,1.0
+norditalienischen,norditalienischen,MISC,,,de,1.0
+portugiesischen,portugiesischen,MISC,,,de,1.0
+Sturm bedrohte am …,Sturm bedrohte am …,MISC,,,de,1.0
+Schlimmes Unwetter und Erdrutsche,Schlimmes Unwetter und Erdrutsche,MISC,,,de,1.0
+Katastrophe,Katastrophe,MISC,,,de,1.0
+Familien-Ausflug,Familien-Ausflug,MISC,,,de,1.0
+Sturm auf Korsika,Sturm auf Korsika,MISC,,,de,1.0
+Wetter“,Wetter“,MISC,,,de,1.0
+Browser,Browser,MISC,,,de,1.0
+JavaScript,JavaScript,MISC,,,de,1.0
+Regenfällen in Mexiko,Regenfällen in Mexiko,MISC,,,de,1.0
+Naturkatastrophe“,Naturkatastrophe“,MISC,,,de,1.0
+Flut-Hölle,Flut-Hölle,MISC,,,de,1.0
+spanischen,spanischen,MISC,,,de,1.0
+Erdrutsche un…,Erdrutsche un…,MISC,,,de,1.0
+Alice“,Alice“,MISC,,,de,1.0
+Betrof…,Betrof…,MISC,,,de,1.0
+mexikanischen,mexikanischen,MISC,,,de,1.0
+Erdrutsche a,Erdrutsche a,MISC,,,de,1.0
+v… Liebe Leser,v… Liebe Leser,MISC,,,de,1.0
+ORANGE,ORANGE,MISC,,,de,1.0
+AEMET,AEMET,MISC,,,de,1.0
+goldenen Herbst,goldenen Herbst,MISC,,,de,1.0
+stern+statt,stern+statt,MISC,,,de,1.0
+stern+,stern+,MISC,,,de,1.0
+Capital</li><li>4,Capital</li><li>4,MISC,,,de,1.0
+Sturm und Schnee,Sturm und Schnee,MISC,,,de,1.0
+deutscher,deutscher,MISC,,,de,1.0
+Deutscher,Deutscher,MISC,,,de,1.0
+Joshua“,Joshua“,MISC,,,de,1.0
+näc…,näc…,MISC,,,de,1.0
+Sturm,Sturm,MISC,,,de,1.0
+Ein Herbsts…,Ein Herbsts…,MISC,,,de,1.0
+M…,M…,MISC,,,de,1.0
+"Wind, Regen","Wind, Regen",MISC,,,de,1.0
+Tagen st…,Tagen st…,MISC,,,de,1.0
+Sturmtief,Sturmtief,MISC,0.0,0.0,de,1.0
+stern,stern,MISC,,,de,1.0
+Ge…,Ge…,MISC,,,de,1.0
+Starkregen“,Starkregen“,MISC,,,de,1.0
+Kräftiger Wind,Kräftiger Wind,MISC,,,de,1.0
+s…,s…,MISC,,,de,1.0

@@ -1,16 +1,18 @@
-,phrase,label,sentiment,subjectivity,language,count,geonames,geotype,latitude,longitude,country,ipcc
-Sturmtief Alice,Sturmtief Alice,PER,0.0,0.3333333333333333,de,3,,,,,,
-Sturmtief Joshua,Sturmtief Joshua,PER,0.5083333333333333,0.08333333333333333,de,3,,,,,,
-Laura Velázquez,Laura Velázquez,PER,-0.7,0.0,de,2,,,,,,
-Oliver Szerkus,Oliver Szerkus,PER,-0.925,0.0,de,2,,,,,,
-Alice“ Mallorca,Alice“ Mallorca,PER,0.0,0.0,de,1,,,,,,
-Schlager-Ikone Jack White,Schlager-Ikone Jack White,PER,-1.0,0.0,de,1,,,,,,
-Jack White,Jack White,PER,-1.0,0.0,de,1,,,,,,
-Sturmtief „Joshua“,Sturmtief „Joshua“,PER,0.0,0.0,de,1,,,,,,
-Joshua ungemütliches,Joshua ungemütliches,PER,-1.0,0.0,de,1,,,,,,
-"Sturmtief ""Joshua","Sturmtief ""Joshua",PER,-1.0,0.0,de,1,,,,,,
-Carlos Mazon,Carlos Mazon,PER,0.0,0.0,de,1,,,,,,
-Sturmtief „Joshua,Sturmtief „Joshua,PER,1.0,0.0,de,1,,,,,,
-Katrin Sass,Katrin Sass,PER,-0.85,0.0,de,1,,,,,,
-Valery Tscheplanowa,Valery Tscheplanowa,PER,-0.85,0.0,de,1,,,,,,
-Alarmstufe Orange,Alarmstufe Orange,PER,0.0,0.0,de,1,,,,,,
+,phrase,label,sentiment,subjectivity,language,count
+Heftiger Sturm,Heftiger Sturm,PER,-0.7368421052631579,0.0,de,1.9
+Carlos Mazon,Carlos Mazon,PER,0.0,0.0,de,1.0
+"Supertaifun ""Fung-Wong","Supertaifun ""Fung-Wong",PER,0.0,0.0,de,1.0
+Alarmstufe Orange,Alarmstufe Orange,PER,0.0,0.0,de,1.0
+Oliver Szerkus,Oliver Szerkus,PER,-1.85,0.0,de,1.0
+Valery Tscheplanowa,Valery Tscheplanowa,PER,-1.85,0.0,de,1.0
+Katrin Sass,Katrin Sass,PER,-1.85,0.0,de,1.0
+Sturmtief „Joshua,Sturmtief „Joshua,PER,1.0,0.0,de,1.0
+Sturmtief Alice,Sturmtief Alice,PER,0.0,1.0,de,1.0
+Alice“ Mallorca,Alice“ Mallorca,PER,0.0,0.0,de,1.0
+Joshua ungemütliches,Joshua ungemütliches,PER,-1.0,0.0,de,1.0
+Sturmtief „Joshua“,Sturmtief „Joshua“,PER,0.0,0.0,de,1.0
+Sturmtief Joshua,Sturmtief Joshua,PER,1.525,0.25,de,1.0
+Jack White,Jack White,PER,-1.0,0.0,de,1.0
+Schlager-Ikone Jack White,Schlager-Ikone Jack White,PER,-1.0,0.0,de,1.0
+Laura Velázquez,Laura Velázquez,PER,-1.4,0.0,de,1.0
+"Sturmtief ""Joshua","Sturmtief ""Joshua",PER,-1.0,0.0,de,1.0
