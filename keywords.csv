@@ -8,13 +8,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hochwasser Starkregen',de,Hazard,#4287f5,#537ee4,2,0.1362694044506345
 'Hochwasser Regen',de,Impacts,#4287f5,#022f78,3,0.134500252437925
 'Regenmengen',de,Impacts,#9e3215,#d64118,1,0.133058914971118
-'Kanalisation Regen',de,Impacts,#9e3215,#b55035,1,0.1300638589594351
 'Extremwetter Regen',de,Hazard,#a89216,#c4b03b,2,0.1294338291474041
 'Regenrückhalt',de,Mitigation,#9e3215,#f64118,1,0.1270814404896551
 'Regentage',de,Hazard,#6287e5,#638ed4,1,0.1256300264270508
 'Starkniederschlag',de,Hazard,#9e3215,#9e3215,1,0.1189133075270311
 'Erdrutsche Regen',de,Impacts,#9e3215,#802d16,2,0.1163580720988685
 'Hangrutschung Niederschlag',de,Impacts,#679e2c,#679e2c,1,0.1141979535948584
+'Kanalisation Regen',de,Impacts,#9e3215,#b55035,1,0.11160438511551982
 'Regenmassen',de,Hazard,#9e3215,#e64118,1,0.108542376071612
 'Pegelstände Dauerregen',de,Impacts,#a89216,#87830f,1,0.1082423102620124
 'Entsiegelung Regen',de,Mitigation,#679e2c,#61b00c,1,0.0997696989037924
