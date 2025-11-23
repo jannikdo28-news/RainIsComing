@@ -19,5 +19,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hochwasserwarnung Niederschlag',de,Mitigation,#a89216,#a89216,1,0.0981241535343569
 'Hangrutschung Niederschlag',de,Impacts,#679e2c,#679e2c,1,0.0970682605556296
 'Kanalisation Regen',de,Impacts,#9e3215,#b55035,1,0.0957638173481918
-'Starkniederschlag',de,Hazard,#9e3215,#9e3215,1,0.08591486468827994
-'Regen Dachbegrünung',de,Mitigation,#679e2c,#61d01c,1,0.0722824835702025
+'Starkniederschlag',de,Hazard,#9e3215,#9e3215,1,0.0859148646882799
+'Regen Dachbegrünung',de,Mitigation,#679e2c,#61d01c,1,0.06159012603467213
