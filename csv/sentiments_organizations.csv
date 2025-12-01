@@ -1,30 +1,38 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Deutsche Wetterdienst,Deutsche Wetterdienst,ORG,-0.9348659003831418,0.1149425287356322,de,8.7
-DWD,DWD,ORG,-0.40517241379310354,0.2586206896551725,de,5.799999999999999
+Deutsche Wetterdienst,Deutsche Wetterdienst,ORG,-0.7748538011695905,0.08771929824561403,de,11.4
+DWD,DWD,ORG,-0.3092105263157895,0.19736842105263158,de,7.6
+US-Medien,US-Medien,ORG,-0.7777777777777776,0.0,de,2.7
 GEO,GEO,ORG,1.4285714285714286,0.0,de,2.1
-US-Medien,US-Medien,ORG,-0.7777777777777777,0.0,de,1.8
+AEMET,AEMET,ORG,0.0,0.0,de,1.9
+Umweltministerium am Donnerstag,Umweltministerium am Donnerstag,ORG,0.0,0.0,de,1.8
 Formel 1,Formel 1,ORG,-0.5882352941176471,0.0,de,1.7
 Deutschen Wetterdienstes,Deutschen Wetterdienstes,ORG,0.0,0.0,de,1.6
-Sparta Prag,Sparta Prag,ORG,0.0,0.7142857142857143,de,1.4
-D…,D…,ORG,0.0,0.0,de,1.4
-Reg…,Reg…,ORG,-0.6071428571428572,0.0,de,1.4
-Conference League,Conference League,ORG,0.0,0.7142857142857143,de,1.4
 HNK Rijeka,HNK Rijeka,ORG,0.0,0.7142857142857143,de,1.4
+Conference League,Conference League,ORG,0.0,0.7142857142857143,de,1.4
+D…,D…,ORG,0.0,0.0,de,1.4
+Sparta Prag,Sparta Prag,ORG,0.0,0.7142857142857143,de,1.4
+Reg…,Reg…,ORG,-0.6071428571428572,0.0,de,1.4
 ntv.de,ntv.de,ORG,-0.7692307692307692,0.0,de,1.3
 Deutschem Wetterdienst,Deutschem Wetterdienst,ORG,0.0,0.0,de,1.0
-Das Erste,Das Erste,ORG,-1.0,0.0,de,1.0
-Sturmtief,Sturmtief,ORG,-1.0,0.0,de,1.0
-Unwetter-Warnung!,Unwetter-Warnung!,ORG,0.0,0.0,de,1.0
-Munich Re,Munich Re,ORG,0.0,0.0,de,1.0
-Ü…,Ü…,ORG,0.0,0.0,de,1.0
-Bundesbank,Bundesbank,ORG,-1.0,0.0,de,1.0
 Jahrhundertflut,Jahrhundertflut,ORG,-0.5666666666666667,0.0,de,1.0
+Bundesbank,Bundesbank,ORG,-1.0,0.0,de,1.0
 picture alliance,picture alliance,ORG,0.0,0.0,de,1.0
+Nachbarregion Friaul-Julisch Venetien,Nachbarregion Friaul-Julisch Venetien,ORG,0.0,0.0,de,1.0
 Anadolu,Anadolu,ORG,0.0,0.0,de,1.0
-TV-Tipps,TV-Tipps,ORG,0.0,0.0,de,1.0
-Valencia,Valencia,ORG,0.0,0.0,de,1.0
+Munich Re,Munich Re,ORG,0.0,0.0,de,1.0
+Erdrutsch,Erdrutsch,ORG,0.7,0.0,de,1.0
+Sonntag …,Sonntag …,ORG,0.0,0.0,de,1.0
+Le…,Le…,ORG,0.0,0.0,de,1.0
+Umweltministerium am Sonntag,Umweltministerium am Sonntag,ORG,-0.7,0.0,de,1.0
+Umweltministerium,Umweltministerium,ORG,-0.7,0.0,de,1.0
+Unwetter-Warnung!,Unwetter-Warnung!,ORG,0.0,0.0,de,1.0
 Um…,Um…,ORG,0.7,0.0,de,1.0
+Sturmtief,Sturmtief,ORG,-1.0,0.0,de,1.0
+Das Erste,Das Erste,ORG,-1.0,0.0,de,1.0
+TV-Tipps,TV-Tipps,ORG,0.0,0.0,de,1.0
+Ü…,Ü…,ORG,0.0,0.0,de,1.0
 ber…,ber…,ORG,0.0,0.0,de,1.0
+Valencia,Valencia,ORG,0.0,0.0,de,1.0
 H…,H…,ORG,0.0,0.0,de,1.0
 NACHRICHTEN,NACHRICHTEN,ORG,0.7,0.0,de,1.0
 nä…,nä…,ORG,0.0,0.0,de,1.0
@@ -34,4 +42,4 @@ BILDSTRECKE,BILDSTRECKE,ORG,0.0,0.0,de,1.0
 no…,no…,ORG,0.0,0.0,de,1.0
 Schnellstra…,Schnellstra…,ORG,0.7,0.0,de,1.0
 ge…,ge…,ORG,0.0,0.0,de,1.0
-Nachbarregion Friaul-Julisch Venetien,Nachbarregion Friaul-Julisch Venetien,ORG,0.0,0.0,de,1.0
+Last…,Last…,ORG,0.0,0.0,de,1.0
