@@ -16,8 +16,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Regenrückhalt',de,Mitigation,#9e3215,#f64118,1,0.0918163407537757
 'Regentage',de,Hazard,#6287e5,#638ed4,1,0.0916002773435441
 'Unwettergefahr',de,Mitigation,#679e2c,#61d01c,1,0.08608434997965
-'Entsiegelung Regen',de,Mitigation,#679e2c,#61b00c,1,0.0848042440682235
+'Entsiegelung Regen',de,Mitigation,#679e2c,#61b00c,1,0.07223362245798998
 'Starkniederschlag',de,Hazard,#9e3215,#9e3215,1,0.0620734897372822
-'Kanalisation Regen',de,Impacts,#9e3215,#b55035,1,0.06127645085395823
+'Kanalisation Regen',de,Impacts,#9e3215,#b55035,1,0.0612764508539582
 'Regen Dachbegrünung',de,Mitigation,#679e2c,#61d01c,1,0.0523516071294712
 'Hangrutschung Niederschlag',de,Impacts,#679e2c,#679e2c,1,0.050670238686667
