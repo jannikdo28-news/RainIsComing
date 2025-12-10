@@ -14,11 +14,9 @@
 ---
   
 ### GeonamesAPI  
-:no_entry: Geonames key **missing**:  
-1. Please register with username (i.e.: jannikdo28_news) at https://www.geonames.org/login  
-2. Assign the choosen username as new organization secret at https://github.com/organizations/jannikdo28-news/settings/secrets/actions/new  
-   * Name:  **GEONAMES_KEY**   
-   * Value: **Your username here**   
+:white_check_mark: Geonames key exists  
+:white_check_mark: Geonames respone fine  
+:no_entry: **Not** enabled at Geonames - enable at https://www.geonames.org/manageaccount   
 
 ---
   
@@ -49,11 +47,8 @@ If it doesn't help, **recheck** the registration and the key entry:
   
 ### RapidAPI: News-API-14  
 :white_check_mark: News-API-14 respone fine  
-:no_entry: **Not** subscribed to News-API-14  
-Subscribe to News-API-14 API:  
-1. Login and 'Subscribe to Test' at https://rapidapi.com/bonaipowered/api/news-api14  
-2. Make sure to enter 'Start Free Plan' and press 'Subscribe' - **don't** enter credit card data!  
-   
+:white_check_mark: News-API-14 status fine  
+:white_check_mark: News-API-14 results found  
 
 ---
   
