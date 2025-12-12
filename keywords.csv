@@ -12,12 +12,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Regenmengen',de,Impacts,#9e3215,#d64118,1,0.0853856732066377
 'Hochwasser Regen',de,Impacts,#4287f5,#022f78,2,0.0834788069909406
 'Hochwasserwarnung Niederschlag',de,Mitigation,#a89216,#a89216,1,0.0834055305042033
-'Regenrückhalt',de,Mitigation,#9e3215,#f64118,1,0.07804388964070935
+'Regenrückhalt',de,Mitigation,#9e3215,#f64118,1,0.0780438896407093
 'Unwetter Regen',de,Hazard,#a89216,#77731f,2,0.0770482574530779
 'Unwettergefahr',de,Mitigation,#679e2c,#61d01c,1,0.0745218324827025
 'Entsiegelung Regen',de,Mitigation,#679e2c,#61b00c,1,0.0722336224579899
 'Überflutung Regen',de,Impacts,#4287f5,#315fa8,1,0.0686673569649919
 'Starkniederschlag',de,Hazard,#9e3215,#9e3215,1,0.0620734897372822
 'Kanalisation Regen',de,Impacts,#9e3215,#b55035,1,0.0531350882258644
-'Regen Dachbegrünung',de,Mitigation,#679e2c,#61d01c,1,0.0523516071294712
 'Hangrutschung Niederschlag',de,Impacts,#679e2c,#679e2c,1,0.050670238686667
+'Regen Dachbegrünung',de,Mitigation,#679e2c,#61d01c,1,0.04464888106005052
