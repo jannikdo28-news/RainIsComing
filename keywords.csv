@@ -18,6 +18,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Überflutung Regen',de,Impacts,#4287f5,#315fa8,1,0.0686673569649919
 'Regentage',de,Hazard,#6287e5,#638ed4,1,0.0673588181307106
 'Kanalisation Regen',de,Impacts,#9e3215,#b55035,1,0.0531350882258644
-'Starkniederschlag',de,Hazard,#9e3215,#9e3215,1,0.05276246627668987
 'Hangrutschung Niederschlag',de,Impacts,#679e2c,#679e2c,1,0.050670238686667
+'Starkniederschlag',de,Hazard,#9e3215,#9e3215,1,0.04484809633518633
 'Regen Dachbegrünung',de,Mitigation,#679e2c,#61d01c,1,0.0381015639010429
