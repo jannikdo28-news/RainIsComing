@@ -6,7 +6,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Niederschlagstage',de,Hazard,#4277e5,#638ed4,1,0.084421696844807
 'Unwetterwarnung',de,Mitigation,#679e2c,#477515,2,0.0804245090616512
 'Hochwasser Regen',de,Impacts,#4287f5,#022f78,2,0.0793575709422995
-'Pegelstände Dauerregen',de,Impacts,#a89216,#87830f,1,0.0782050691643039
 'Regenrückhalt',de,Mitigation,#9e3215,#f64118,1,0.0780438896407093
 'Unwetter Regen',de,Hazard,#a89216,#77731f,2,0.0770482574530779
 'Extremwetter Regen',de,Hazard,#a89216,#c4b03b,1,0.0745597245072641
@@ -15,7 +14,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdrutsche Regen',de,Impacts,#9e3215,#802d16,2,0.0737978468779839
 'Entsiegelung Regen',de,Mitigation,#679e2c,#61b00c,1,0.0722336224579899
 'Regentage',de,Hazard,#6287e5,#638ed4,1,0.0673588181307106
-'Hochwasserwarnung Niederschlag',de,Mitigation,#a89216,#a89216,1,0.06026049578928679
+'Pegelstände Dauerregen',de,Impacts,#a89216,#87830f,1,0.06647430878965832
+'Hochwasserwarnung Niederschlag',de,Mitigation,#a89216,#a89216,1,0.0602604957892867
 'Überflutung Regen',de,Impacts,#4287f5,#315fa8,1,0.0583672534202431
 'Kanalisation Regen',de,Impacts,#9e3215,#b55035,1,0.0531350882258644
 'Starkniederschlag',de,Hazard,#9e3215,#9e3215,1,0.0448480963351863
