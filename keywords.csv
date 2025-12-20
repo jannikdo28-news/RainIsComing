@@ -11,13 +11,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Unwettergefahr',de,Mitigation,#679e2c,#61d01c,1,0.0745218324827025
 'Regenmassen',de,Hazard,#9e3215,#e64118,1,0.0741485985306976
 'Erdrutsche Regen',de,Impacts,#9e3215,#802d16,2,0.0737978468779839
-'Niederschlagstage',de,Hazard,#4277e5,#638ed4,1,0.07250851731808595
+'Niederschlagstage',de,Hazard,#4277e5,#638ed4,1,0.0725085173180859
 'Entsiegelung Regen',de,Mitigation,#679e2c,#61b00c,1,0.0722336224579899
 'Regentage',de,Hazard,#6287e5,#638ed4,1,0.0673588181307106
 'Pegelstände Dauerregen',de,Impacts,#a89216,#87830f,1,0.0664743087896583
 'Hochwasserwarnung Niederschlag',de,Mitigation,#a89216,#a89216,1,0.0602604957892867
 'Überflutung Regen',de,Impacts,#4287f5,#315fa8,1,0.0583672534202431
-'Kanalisation Regen',de,Impacts,#9e3215,#b55035,1,0.0531350882258644
+'Kanalisation Regen',de,Impacts,#9e3215,#b55035,1,0.045464854991984736
 'Starkniederschlag',de,Hazard,#9e3215,#9e3215,1,0.0448480963351863
 'Hangrutschung Niederschlag',de,Impacts,#679e2c,#679e2c,1,0.0430697028836669
 'Regen Dachbegrünung',de,Mitigation,#679e2c,#61d01c,1,0.0381015639010429
