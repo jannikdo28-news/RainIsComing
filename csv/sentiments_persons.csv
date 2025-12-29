@@ -1,21 +1,24 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Bob Ferguson,Bob Ferguson,PER,-0.5,0.0,de,2.8
+Bob Ferguson,Bob Ferguson,PER,-0.5675675675675675,0.0,de,3.6999999999999997
 Sturmtief Alice,Sturmtief Alice,PER,0.0,0.4,de,2.5
 Tag zu Tag,Tag zu Tag,PER,-1.0526315789473684,0.0,de,1.9
 Laura Velázquez,Laura Velázquez,PER,-0.7777777777777777,0.0,de,1.8
 Heftiger Sturm,Heftiger Sturm,PER,-0.7777777777777777,0.0,de,1.8
 Sturmtief Joshua,Sturmtief Joshua,PER,0.8472222222222222,0.1388888888888889,de,1.7999999999999998
-Valery Tscheplanowa,Valery Tscheplanowa,PER,-1.85,0.0,de,1.0
+Prabowo Subianto,Prabowo Subianto,PER,-1.5384615384615383,0.0,de,1.3
+Oliver Szerkus,Oliver Szerkus,PER,-1.85,0.0,de,1.0
+Friedrich Merz,Friedrich Merz,PER,0.0,0.0,de,1.0
 Ibiza Starkregen,Ibiza Starkregen,PER,0.0,0.0,de,1.0
 "Supertaifun ""Fung-Wong","Supertaifun ""Fung-Wong",PER,0.0,0.0,de,1.0
 Alarmstufe Orange,Alarmstufe Orange,PER,0.0,0.0,de,1.0
-Oliver Szerkus,Oliver Szerkus,PER,-1.85,0.0,de,1.0
 Katrin Sass,Katrin Sass,PER,-1.85,0.0,de,1.0
-Schlager-Ikone Jack White,Schlager-Ikone Jack White,PER,-1.0,0.0,de,1.0
+Valery Tscheplanowa,Valery Tscheplanowa,PER,-1.85,0.0,de,1.0
 Alice“ Mallorca,Alice“ Mallorca,PER,0.0,0.0,de,1.0
+Sturmtief „Joshua,Sturmtief „Joshua,PER,1.0,0.0,de,1.0
 Carlos Mazon,Carlos Mazon,PER,0.0,0.0,de,1.0
 "Sturmtief ""Joshua","Sturmtief ""Joshua",PER,-1.0,0.0,de,1.0
 Joshua ungemütliches,Joshua ungemütliches,PER,-1.0,0.0,de,1.0
 Sturmtief „Joshua“,Sturmtief „Joshua“,PER,0.0,0.0,de,1.0
 Jack White,Jack White,PER,-1.0,0.0,de,1.0
-Sturmtief „Joshua,Sturmtief „Joshua,PER,1.0,0.0,de,1.0
+Schlager-Ikone Jack White,Schlager-Ikone Jack White,PER,-1.0,0.0,de,1.0
+Gavin Newsom,Gavin Newsom,PER,0.0,0.0,de,1.0

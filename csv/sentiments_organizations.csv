@@ -1,58 +1,64 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Deutsche Wetterdienst,Deutsche Wetterdienst,ORG,-0.8023809523809521,0.07142857142857142,de,14.000000000000002
-DWD,DWD,ORG,-0.43181818181818177,0.13636363636363635,de,11.000000000000002
+Deutsche Wetterdienst,Deutsche Wetterdienst,ORG,-0.7156177156177154,0.06993006993006992,de,14.300000000000002
+DWD,DWD,ORG,-0.3073770491803278,0.12295081967213112,de,12.200000000000003
 GEO,GEO,ORG,1.3333333333333333,0.0,de,3.0
 US-Medien,US-Medien,ORG,-0.7777777777777776,0.0,de,2.7
+US-Wetterdienst,US-Wetterdienst,ORG,-0.455128205128205,0.0,de,2.6
 Deutschen Wetterdienstes,Deutschen Wetterdienstes,ORG,0.0,0.0,de,2.4000000000000004
 AEMET,AEMET,ORG,0.0,0.0,de,1.9
 Aemet,Aemet,ORG,-0.6578947368421053,0.0,de,1.9
+lby,lby,ORG,-0.7368421052631579,0.0,de,1.9
+Deutschen Wetterdienst,Deutschen Wetterdienst,ORG,0.0,0.0,de,1.9
+NWS,NWS,ORG,-0.2685185185185185,0.0,de,1.8
 Umweltministerium am Donnerstag,Umweltministerium am Donnerstag,ORG,0.0,0.0,de,1.8
 Formel 1,Formel 1,ORG,-0.5882352941176471,0.0,de,1.7
-Reg…,Reg…,ORG,-0.6071428571428572,0.0,de,1.4
-Sparta Prag,Sparta Prag,ORG,0.0,0.7142857142857143,de,1.4
 HNK Rijeka,HNK Rijeka,ORG,0.0,0.7142857142857143,de,1.4
+Sparta Prag,Sparta Prag,ORG,0.0,0.7142857142857143,de,1.4
 Conference League,Conference League,ORG,0.0,0.7142857142857143,de,1.4
 D…,D…,ORG,0.0,0.0,de,1.4
+Reg…,Reg…,ORG,-0.6071428571428572,0.0,de,1.4
 ntv.de,ntv.de,ORG,-0.7692307692307692,0.0,de,1.3
-Schla…,Schla…,ORG,0.0,0.0,de,1.0
-Deutschem Wetterdienst,Deutschem Wetterdienst,ORG,0.0,0.0,de,1.0
-Le…,Le…,ORG,0.0,0.0,de,1.0
-Umweltministerium,Umweltministerium,ORG,-0.7,0.0,de,1.0
-Sonntag …,Sonntag …,ORG,0.0,0.0,de,1.0
-Erdrutsch,Erdrutsch,ORG,0.7,0.0,de,1.0
-Umweltministerium am Sonntag,Umweltministerium am Sonntag,ORG,-0.7,0.0,de,1.0
-Last…,Last…,ORG,0.0,0.0,de,1.0
-he…,he…,ORG,0.0,0.0,de,1.0
 zude…,zude…,ORG,0.0,0.0,de,1.0
+Le…,Le…,ORG,0.0,0.0,de,1.0
+Hamas von Israel,Hamas von Israel,ORG,0.0,0.0,de,1.0
+Schla…,Schla…,ORG,0.0,0.0,de,1.0
+Umweltministerium am Sonntag,Umweltministerium am Sonntag,ORG,-0.7,0.0,de,1.0
+Umweltministerium,Umweltministerium,ORG,-0.7,0.0,de,1.0
+Pegel…,Pegel…,ORG,-0.7,0.0,de,1.0
+he…,he…,ORG,0.0,0.0,de,1.0
+CDU-Politiker,CDU-Politiker,ORG,0.0,0.0,de,1.0
 mi…,mi…,ORG,0.0,0.0,de,1.0
+Last…,Last…,ORG,0.0,0.0,de,1.0
 Colombo,Colombo,ORG,0.0,0.0,de,1.0
-lby,lby,ORG,-0.7,0.0,de,1.0
+Zeltl…,Zeltl…,ORG,0.0,0.0,de,1.0
 Leb…,Leb…,ORG,0.0,0.0,de,1.0
 Außenwelt …,Außenwelt …,ORG,0.0,0.0,de,1.0
+Sonntag …,Sonntag …,ORG,0.0,0.0,de,1.0
 Kaltfront,Kaltfront,ORG,0.0,0.0,de,1.0
 Aemet mi… Ibiza,Aemet mi… Ibiza,ORG,0.0,0.0,de,1.0
 jüngs…,jüngs…,ORG,-0.7,0.0,de,1.0
-Nachbarregion Friaul-Julisch Venetien,Nachbarregion Friaul-Julisch Venetien,ORG,0.0,0.0,de,1.0
-Unwetter-Warnung!,Unwetter-Warnung!,ORG,0.0,0.0,de,1.0
-Anadolu,Anadolu,ORG,0.0,0.0,de,1.0
-picture alliance,picture alliance,ORG,0.0,0.0,de,1.0
+örtli…,örtli…,ORG,0.0,0.0,de,1.0
+Deutschem Wetterdienst,Deutschem Wetterdienst,ORG,0.0,0.0,de,1.0
+Erdrutsch,Erdrutsch,ORG,0.7,0.0,de,1.0
+ber…,ber…,ORG,0.0,0.0,de,1.0
 ge…,ge…,ORG,0.0,0.0,de,1.0
 Schnellstra…,Schnellstra…,ORG,0.7,0.0,de,1.0
 no…,no…,ORG,0.0,0.0,de,1.0
 BILDSTRECKE,BILDSTRECKE,ORG,0.0,0.0,de,1.0
 HGM,HGM,ORG,0.0,0.0,de,1.0
-Deutschen Wetterdienst,Deutschen Wetterdienst,ORG,0.0,0.0,de,1.0
 nä…,nä…,ORG,0.0,0.0,de,1.0
 NACHRICHTEN,NACHRICHTEN,ORG,0.7,0.0,de,1.0
 H…,H…,ORG,0.0,0.0,de,1.0
 Valencia,Valencia,ORG,0.0,0.0,de,1.0
-ber…,ber…,ORG,0.0,0.0,de,1.0
 Um…,Um…,ORG,0.7,0.0,de,1.0
+Nachbarregion Friaul-Julisch Venetien,Nachbarregion Friaul-Julisch Venetien,ORG,0.0,0.0,de,1.0
 Ü…,Ü…,ORG,0.0,0.0,de,1.0
 TV-Tipps,TV-Tipps,ORG,0.0,0.0,de,1.0
 Das Erste,Das Erste,ORG,-1.0,0.0,de,1.0
 Sturmtief,Sturmtief,ORG,-1.0,0.0,de,1.0
 Munich Re,Munich Re,ORG,0.0,0.0,de,1.0
+Unwetter-Warnung!,Unwetter-Warnung!,ORG,0.0,0.0,de,1.0
 Bundesbank,Bundesbank,ORG,-1.0,0.0,de,1.0
+picture alliance,picture alliance,ORG,0.0,0.0,de,1.0
+Anadolu,Anadolu,ORG,0.0,0.0,de,1.0
 Jahrhundertflut,Jahrhundertflut,ORG,-0.5666666666666667,0.0,de,1.0
-örtli…,örtli…,ORG,0.0,0.0,de,1.0
