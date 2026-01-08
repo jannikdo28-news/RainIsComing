@@ -14,10 +14,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Überflutung Regen',de,Impacts,#4287f5,#315fa8,1,0.0496121654072066
 'Pegelstände Dauerregen',de,Impacts,#a89216,#87830f,1,0.048027688100528
 'Kanalisation Regen',de,Impacts,#9e3215,#b55035,1,0.0454648549919847
-'Hangrutschung Niederschlag',de,Impacts,#679e2c,#679e2c,1,0.0430697028836669
 'Niederschlagstage',de,Hazard,#4277e5,#638ed4,1,0.042473323627472
+'Hangrutschung Niederschlag',de,Impacts,#679e2c,#679e2c,1,0.036609247451116864
 'Regenrückhalt',de,Mitigation,#9e3215,#f64118,1,0.0346284884417463
 'Regen Dachbegrünung',de,Mitigation,#679e2c,#61d01c,1,0.0325363443158864
 'Unwettergefahr',de,Mitigation,#679e2c,#61d01c,1,0.0293204853640526
-'Regentage',de,Hazard,#6287e5,#638ed4,1,0.025820653910468838
+'Regentage',de,Hazard,#6287e5,#638ed4,1,0.0258206539104688
 'Starkniederschlag',de,Hazard,#9e3215,#9e3215,1,0.0234109865875692
