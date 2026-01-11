@@ -12,10 +12,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Regenmassen',de,Hazard,#9e3215,#e64118,1,0.0538498901884289
 'Entsiegelung Regen',de,Mitigation,#679e2c,#61b00c,1,0.0445963719795129
 'Überflutung Regen',de,Impacts,#4287f5,#315fa8,1,0.0433704605961256
-'Niederschlagstage',de,Hazard,#4277e5,#638ed4,1,0.042473323627472
 'Pegelstände Dauerregen',de,Impacts,#a89216,#87830f,1,0.0408235348854488
 'Kanalisation Regen',de,Impacts,#9e3215,#b55035,1,0.0390951717431869
 'Hangrutschung Niederschlag',de,Impacts,#679e2c,#679e2c,1,0.0366092474511168
+'Niederschlagstage',de,Hazard,#4277e5,#638ed4,1,0.0361023250833512
 'Regenrückhalt',de,Mitigation,#9e3215,#f64118,1,0.0346284884417463
 'Regen Dachbegrünung',de,Mitigation,#679e2c,#61d01c,1,0.0276558926685034
 'Unwettergefahr',de,Mitigation,#679e2c,#61d01c,1,0.0250724275594447
