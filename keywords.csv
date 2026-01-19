@@ -2,7 +2,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Unwetterwarnung',de,Mitigation,#679e2c,#477515,2,0.1505258356673827
 'Starkregen',de,Hazard,#4287f5,#638ed4,3,0.1105912247708715
 'Extremwetter Regen',de,Hazard,#a89216,#c4b03b,1,0.1095695577790653
-'Unwetter Regen',de,Hazard,#a89216,#77731f,3,0.08515399516795014
+'Unwetter Regen',de,Hazard,#a89216,#77731f,3,0.0851539951679501
 'Unwettergefahr',de,Mitigation,#679e2c,#61d01c,2,0.0753534475164371
 'Dauerregen',de,Hazard,#3288e5,#638ed4,2,0.0729198689264306
 'Hochwasser Starkregen',de,Hazard,#4287f5,#537ee4,1,0.0620913488218897
@@ -19,5 +19,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Regenrückhalt',de,Mitigation,#9e3215,#f64118,1,0.0250190828991616
 'Regen Dachbegrünung',de,Mitigation,#679e2c,#61d01c,1,0.0235075087682278
 'Niederschlagstage',de,Hazard,#4277e5,#638ed4,1,0.022171340391813
-'Starkniederschlag',de,Hazard,#9e3215,#9e3215,1,0.0198993385994338
+'Starkniederschlag',de,Hazard,#9e3215,#9e3215,1,0.01691443780951873
 'Regentage',de,Hazard,#6287e5,#638ed4,1,0.0168933376952665
