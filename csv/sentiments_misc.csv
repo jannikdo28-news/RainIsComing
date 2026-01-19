@@ -1,146 +1,122 @@
 ,phrase,label,sentiment,subjectivity,language,count
 "Link
 ","Link
-",MISC,,,de,43.19999999999998
-“,“,MISC,0.0,0.7142857142857143,de,20.2
+",MISC,,,de,50.799999999999976
+“,“,MISC,-1.3076923076923077,2.3076923076923075,de,24.99999999999999
 Weihnachten,Weihnachten,MISC,,,de,9.100000000000003
-spanischen,spanischen,MISC,,,de,6.800000000000001
+Wetter“,Wetter“,MISC,,,de,8.4
+spanischen,spanischen,MISC,,,de,7.700000000000001
 Deutscher,Deutscher,MISC,,,de,6.8
 indonesischen,indonesischen,MISC,,,de,5.8999999999999995
-Wetter“,Wetter“,MISC,,,de,5.4
 Sumatra,Sumatra,MISC,-0.06796116504854367,0.29126213592233,de,5.1
 Starkregen sucht den Nordwesten der USA,Starkregen sucht den Nordwesten der USA,MISC,,,de,4.6
-"Wind, Regen","Wind, Regen",MISC,,,de,4.6
+"Wind, Regen","Wind, Regen",MISC,,,de,4.1
 stern+statt,stern+statt,MISC,,,de,3.9999999999999996
 Capital</li><li>4,Capital</li><li>4,MISC,,,de,3.9999999999999996
 stern+,stern+,MISC,,,de,3.9999999999999996
 deutscher,deutscher,MISC,,,de,3.6999999999999997
-Todesopfer durch Überschwemmungen und Erdrutsche,Todesopfer durch Überschwemmungen und Erdrutsche,MISC,,,de,3.4000000000000004
 Zahl der Toten,Zahl der Toten,MISC,,,de,3.4000000000000004
+Todesopfer durch Überschwemmungen und Erdrutsche,Todesopfer durch Überschwemmungen und Erdrutsche,MISC,,,de,3.4000000000000004
+Unwetterwarnung“,Unwetterwarnung“,MISC,,,de,3.0
 spanische,spanische,MISC,,,de,2.9
+Bundesliga-Auftakt 2026,Bundesliga-Auftakt 2026,MISC,,,de,2.8
 norditalienischen,norditalienischen,MISC,,,de,2.8
-Zeit,Zeit,MISC,,,de,2.7
 we…,we…,MISC,,,de,2.7
+marokkanischen,marokkanischen,MISC,,,de,2.6
 deutscher Zeit,deutscher Zeit,MISC,,,de,2.0
-Winterwetter“,Winterwetter“,MISC,,,de,1.9
-Hamburger,Hamburger,MISC,,,de,1.9
-andalusische,andalusische,MISC,,,de,1.9
-deutsche,deutsche,MISC,,,de,1.9
+Null-Grad-Grenze,Null-Grad-Grenze,MISC,,,de,1.9000000000000001
+Zeit,Zeit,MISC,,,de,1.9000000000000001
 mexikanischen,mexikanischen,MISC,,,de,1.9
-Deutschen,Deutschen,MISC,,,de,1.9
+deutsche,deutsche,MISC,,,de,1.9
+Risikos von Überflutungen und Erdrutschen,Risikos von Überflutungen und Erdrutschen,MISC,,,de,1.9
+andalusische,andalusische,MISC,,,de,1.9
+NZZ Format,NZZ Format,MISC,,,de,1.9
+AEMET,AEMET,MISC,,,de,1.9
+Glatteis-Gefahr,Glatteis-Gefahr,MISC,-0.25,0.0,de,1.9
+Wetter-Extreme,Wetter-Extreme,MISC,,,de,1.9
+MV“,MV“,MISC,,,de,1.9
 Deutsche,Deutsche,MISC,,,de,1.9
 ORANGE,ORANGE,MISC,,,de,1.9
-AEMET,AEMET,MISC,,,de,1.9
-Risikos von Überflutungen und Erdrutschen,Risikos von Überflutungen und Erdrutschen,MISC,,,de,1.9
-NZZ Format,NZZ Format,MISC,,,de,1.9
-Unwetterwarnung“,Unwetterwarnung“,MISC,,,de,1.9
-Regenzeit,Regenzeit,MISC,,,de,1.8
+Deutschen,Deutschen,MISC,,,de,1.9
+s…,s…,MISC,,,de,1.8
 Außenwelt,Außenwelt,MISC,0.0,0.21978021978021978,de,1.8
+Regenzeit,Regenzeit,MISC,,,de,1.8
 Flut-Hölle,Flut-Hölle,MISC,,,de,1.8
+Glatteis-Warnungen,Glatteis-Warnungen,MISC,,,de,1.8
+tü…,tü…,MISC,,,de,1.8
 stern,stern,MISC,,,de,1.7
 Taifun in diesem Jahr,Taifun in diesem Jahr,MISC,,,de,1.6
 Unwetterschäden,Unwetterschäden,MISC,,,de,1.6
-Null-Grad-Grenze,Null-Grad-Grenze,MISC,,,de,1.6
-marokkanischen,marokkanischen,MISC,,,de,1.6
 Warnstufe Gelb,Warnstufe Gelb,MISC,,,de,1.5
 Qualifying,Qualifying,MISC,,,de,1.5
-Tornado,Tornado,MISC,,,de,1.4000000000000001
+Tornado,Tornado,MISC,,,de,1.3000000000000003
 Katastrophen-Rangliste,Katastrophen-Rangliste,MISC,,,de,1.3
-s…,s…,MISC,,,de,1.3
+Unwettergefahr“,Unwettergefahr“,MISC,,,de,1.2000000000000002
+Glätte-Warnung,Glätte-Warnung,MISC,,,de,1.2000000000000002
 Münchner,Münchner,MISC,,,de,1.2000000000000002
-Au…,Au…,MISC,,,de,1.0
-Vietnam,Vietnam,MISC,-0.023474178403755874,0.0,de,1.0
-Erdrutschen u…,Erdrutschen u…,MISC,,,de,1.0
-Hochphas…,Hochphas…,MISC,,,de,1.0
-Die sintflutartige Regenfälle,Die sintflutartige Regenfälle,MISC,,,de,1.0
-DOK-FILM,DOK-FILM,MISC,,,de,1.0
-dpa,dpa,MISC,,,de,1.0
-VermissteMehr,VermissteMehr,MISC,,,de,1.0
-Men…,Men…,MISC,,,de,1.0
-30.11.2025,30.11.2025,MISC,,,de,1.0
-Flutkatastrophen,Flutkatastrophen,MISC,,,de,1.0
-Erzgebirge“,Erzgebirge“,MISC,,,de,1.0
+Hamburger,Hamburger,MISC,,,de,1.2
+Winterwetter“,Winterwetter“,MISC,,,de,1.2
+Hause,Hause,MISC,,,de,1.1
+Erdrutsche a,Erdrutsche a,MISC,,,de,1.0
+Der Himmel über Bayern,Der Himmel über Bayern,MISC,,,de,1.0
+französische,französische,MISC,,,de,1.0
 Der zweite Advent,Der zweite Advent,MISC,,,de,1.0
-Todesopfer in Asien,Todesopfer in Asien,MISC,,,de,1.0
+Dauerregen“,Dauerregen“,MISC,,,de,1.0
+v… Liebe Leser,v… Liebe Leser,MISC,,,de,1.0
+z…,z…,MISC,,,de,1.0
+Deu…,Deu…,MISC,,,de,1.0
 Krieg,Krieg,MISC,,,de,1.0
-Hambur…,Hambur…,MISC,,,de,1.0
+Wintersturm sucht zerstörtes Gaza,Wintersturm sucht zerstörtes Gaza,MISC,,,de,1.0
+kanadischen,kanadischen,MISC,,,de,1.0
+kalifornischen,kalifornischen,MISC,,,de,1.0
+demokratische,demokratische,MISC,,,de,1.0
+Wetterbericht“,Wetterbericht“,MISC,,,de,1.0
+Sonne“,Sonne“,MISC,,,de,1.0
+Fr…,Fr…,MISC,,,de,1.0
+Klimawandel-Stresstest,Klimawandel-Stresstest,MISC,,,de,1.0
+palästinensischen,palästinensischen,MISC,,,de,1.0
+Krieg in Nahost,Krieg in Nahost,MISC,,,de,1.0
+mi…,mi…,MISC,,,de,1.0
+US-W…,US-W…,MISC,,,de,1.0
+Ge…,Ge…,MISC,,,de,1.0
+Starke Regenfälle und Schnee,Starke Regenfälle und Schnee,MISC,,,de,1.0
+Anfang des Jahres,Anfang des Jahres,MISC,,,de,1.0
+Sachsen,Sachsen,MISC,0.0,0.0,de,1.0
+Wegen Glatteis-Warnung,Wegen Glatteis-Warnung,MISC,,,de,1.0
+V…,V…,MISC,,,de,1.0
+DWD-Meteorologin Sab…,DWD-Meteorologin Sab…,MISC,,,de,1.0
+Wetter-Geschehen,Wetter-Geschehen,MISC,,,de,1.0
+Gunda“,Gunda“,MISC,,,de,1.0
+Bildungsministerium,Bildungsministerium,MISC,,,de,1.0
+Glatteis-Gefahr“,Glatteis-Gefahr“,MISC,,,de,1.0
+Wegen der Gefahr,Wegen der Gefahr,MISC,,,de,1.0
+Glatteisgefahr,Glatteisgefahr,MISC,0.0,0.0,de,1.0
+d…,d…,MISC,0.0,0.0,de,1.0
+"Link2
+","Link2
+",MISC,,,de,1.0
+Schöner Tag,Schöner Tag,MISC,,,de,1.0
+Verkehr“,Verkehr“,MISC,,,de,1.0
+Bundesliga-Auftakt,Bundesliga-Auftakt,MISC,,,de,1.0
+goldenen Herbst,goldenen Herbst,MISC,,,de,1.0
+Entwarnung für Berlin,Entwarnung für Berlin,MISC,,,de,1.0
+Senat,Senat,MISC,,,de,1.0
+Klimarisiko,Klimarisiko,MISC,,,de,1.0
+Todesopfer in Asien,Todesopfer in Asien,MISC,,,de,1.0
 Vancouver,Vancouver,MISC,0.0,0.0,de,1.0
+Hambur…,Hambur…,MISC,,,de,1.0
+Erzgebirge“,Erzgebirge“,MISC,,,de,1.0
+Euro we…,Euro we…,MISC,,,de,1.0
 Glückssache,Glückssache,MISC,,,de,1.0
 Hauptreisezeit,Hauptreisezeit,MISC,,,de,1.0
 Überschw…,Überschw…,MISC,,,de,1.0
-Anfang des Jahres,Anfang des Jahres,MISC,,,de,1.0
-Starke Regenfälle und Schnee,Starke Regenfälle und Schnee,MISC,,,de,1.0
-kalifornischen,kalifornischen,MISC,,,de,1.0
-US-W…,US-W…,MISC,,,de,1.0
-französische,französische,MISC,,,de,1.0
-z…,z…,MISC,,,de,1.0
-Senat,Senat,MISC,,,de,1.0
-Wintersturm sucht zerstörtes Gaza,Wintersturm sucht zerstörtes Gaza,MISC,,,de,1.0
-Der Himmel über Bayern,Der Himmel über Bayern,MISC,,,de,1.0
-kanadischen,kanadischen,MISC,,,de,1.0
-demokratische,demokratische,MISC,,,de,1.0
-mi…,mi…,MISC,,,de,1.0
-Krieg in Nahost,Krieg in Nahost,MISC,,,de,1.0
-Entwarnung für Berlin,Entwarnung für Berlin,MISC,,,de,1.0
-Klimawandel-Stresstest,Klimawandel-Stresstest,MISC,,,de,1.0
-Sonne“,Sonne“,MISC,,,de,1.0
-Wetterbericht“,Wetterbericht“,MISC,,,de,1.0
-Fr…,Fr…,MISC,,,de,1.0
-Deu…,Deu…,MISC,,,de,1.0
-Dauerregen“,Dauerregen“,MISC,,,de,1.0
-Euro we…,Euro we…,MISC,,,de,1.0
-palästinensischen,palästinensischen,MISC,,,de,1.0
-Möglicher Tornado,Möglicher Tornado,MISC,,,de,1.0
-Ka…,Ka…,MISC,,,de,1.0
-Sturmtief,Sturmtief,MISC,0.0,0.0,de,1.0
-kroatischen,kroatischen,MISC,,,de,1.0
-Katastrophe,Katastrophe,MISC,,,de,1.0
-Tragödie auf Korsika,Tragödie auf Korsika,MISC,,,de,1.0
-Sturm auf Korsika,Sturm auf Korsika,MISC,,,de,1.0
-Familien-Ausflug,Familien-Ausflug,MISC,,,de,1.0
-Joshua“,Joshua“,MISC,,,de,1.0
-näc…,näc…,MISC,,,de,1.0
-Sturm,Sturm,MISC,0.0,0.0,de,1.0
-Ein Herbsts…,Ein Herbsts…,MISC,,,de,1.0
-Sturm und Schnee,Sturm und Schnee,MISC,,,de,1.0
-M…,M…,MISC,0.0,0.0,de,1.0
-Tagen st…,Tagen st…,MISC,,,de,1.0
-Ge…,Ge…,MISC,,,de,1.0
-Umweltministerium am Samstag,Umweltministerium am Samstag,MISC,,,de,1.0
-Starkregen“,Starkregen“,MISC,,,de,1.0
-Kräftiger Wind,Kräftiger Wind,MISC,,,de,1.0
-Browser,Browser,MISC,,,de,1.0
-JavaScript,JavaScript,MISC,,,de,1.0
-Regenfällen in Mexiko,Regenfällen in Mexiko,MISC,,,de,1.0
-Naturkatastrophe“,Naturkatastrophe“,MISC,,,de,1.0
-Erdrutsche un…,Erdrutsche un…,MISC,,,de,1.0
-Alice“,Alice“,MISC,,,de,1.0
+Der Dauerregen,Der Dauerregen,MISC,,,de,1.0
 Betrof…,Betrof…,MISC,,,de,1.0
-Erdrutsche a,Erdrutsche a,MISC,,,de,1.0
-v… Liebe Leser,v… Liebe Leser,MISC,,,de,1.0
-goldenen Herbst,goldenen Herbst,MISC,,,de,1.0
-Das stürmische Wetter,Das stürmische Wetter,MISC,,,de,1.0
-Wyk auf Föhr,Wyk auf Föhr,MISC,,,de,1.0
-Hurrikan,Hurrikan,MISC,,,de,1.0
-Unwetterkatastrophe,Unwetterkatastrophe,MISC,,,de,1.0
-Na…,Na…,MISC,,,de,1.0
-Tag davor turnt der spanische,Tag davor turnt der spanische,MISC,,,de,1.0
-Schlimmes Unwetter und Erdrutsche,Schlimmes Unwetter und Erdrutsche,MISC,,,de,1.0
-Alarm an der US-Westküste,Alarm an der US-Westküste,MISC,,,de,1.0
-Sturm bedrohte am …,Sturm bedrohte am …,MISC,,,de,1.0
-portugiesischen,portugiesischen,MISC,,,de,1.0
-picture allian…,picture allian…,MISC,,,de,1.0
-Not…,Not…,MISC,,,de,1.0
-Kalmaegi“,Kalmaegi“,MISC,,,de,1.0
-Ein Supertaifun,Ein Supertaifun,MISC,,,de,1.0
-Sam…,Sam…,MISC,,,de,1.0
-Unwetterwarnung für Küste,Unwetterwarnung für Küste,MISC,,,de,1.0
-kanarischen,kanarischen,MISC,,,de,1.0
-Drei Tote,Drei Tote,MISC,,,de,1.0
+Erdrutschen u…,Erdrutschen u…,MISC,,,de,1.0
+Hochphas…,Hochphas…,MISC,,,de,1.0
 Sturm reißt die Menschen ins Meer,Sturm reißt die Menschen ins Meer,MISC,,,de,1.0
 Uh... Alarmstufe Orange,Uh... Alarmstufe Orange,MISC,,,de,1.0
 Riesen-Regenchaos,Riesen-Regenchaos,MISC,,,de,1.0
-Hause,Hause,MISC,,,de,1.0
 IGSM,IGSM,MISC,,,de,1.0
 Katastrophenschutzbehörde…,Katastrophenschutzbehörde…,MISC,,,de,1.0
 Todesopfer auf mindestens 40,Todesopfer auf mindestens 40,MISC,,,de,1.0
@@ -148,4 +124,55 @@ russischen Angriffskrieg,russischen Angriffskrieg,MISC,,,de,1.0
 Ukraine-Krieg,Ukraine-Krieg,MISC,,,de,1.0
 Samstag…,Samstag…,MISC,,,de,1.0
 ’s,’s,MISC,,,de,1.0
-Verkehr“,Verkehr“,MISC,,,de,1.0
+Unwetterkatastrophe,Unwetterkatastrophe,MISC,,,de,1.0
+Hurrikan,Hurrikan,MISC,,,de,1.0
+Wyk auf Föhr,Wyk auf Föhr,MISC,,,de,1.0
+Das stürmische Wetter,Das stürmische Wetter,MISC,,,de,1.0
+kroatischen,kroatischen,MISC,,,de,1.0
+Katastrophe,Katastrophe,MISC,,,de,1.0
+Tragödie auf Korsika,Tragödie auf Korsika,MISC,,,de,1.0
+Sturm auf Korsika,Sturm auf Korsika,MISC,,,de,1.0
+Familien-Ausflug,Familien-Ausflug,MISC,,,de,1.0
+Kräftiger Wind,Kräftiger Wind,MISC,,,de,1.0
+Starkregen“,Starkregen“,MISC,,,de,1.0
+Joshua“,Joshua“,MISC,,,de,1.0
+näc…,näc…,MISC,,,de,1.0
+Sturm,Sturm,MISC,0.0,0.0,de,1.0
+Ein Herbsts…,Ein Herbsts…,MISC,,,de,1.0
+Sturm und Schnee,Sturm und Schnee,MISC,,,de,1.0
+M…,M…,MISC,0.0,0.0,de,1.0
+Tagen st…,Tagen st…,MISC,,,de,1.0
+Sturmtief,Sturmtief,MISC,0.0,0.0,de,1.0
+Drei Tote,Drei Tote,MISC,,,de,1.0
+kanarischen,kanarischen,MISC,,,de,1.0
+Unwetterwarnung für Küste,Unwetterwarnung für Küste,MISC,,,de,1.0
+Naturkatastrophe“,Naturkatastrophe“,MISC,,,de,1.0
+dpa,dpa,MISC,,,de,1.0
+VermissteMehr,VermissteMehr,MISC,,,de,1.0
+Men…,Men…,MISC,,,de,1.0
+30.11.2025,30.11.2025,MISC,,,de,1.0
+Alice“,Alice“,MISC,,,de,1.0
+Au…,Au…,MISC,,,de,1.0
+Flutkatastrophen,Flutkatastrophen,MISC,,,de,1.0
+DOK-FILM,DOK-FILM,MISC,,,de,1.0
+Die sintflutartige Regenfälle,Die sintflutartige Regenfälle,MISC,,,de,1.0
+Vietnam,Vietnam,MISC,-0.023419203747072605,0.0,de,1.0
+Erdrutsche un…,Erdrutsche un…,MISC,,,de,1.0
+Ka…,Ka…,MISC,,,de,1.0
+Umweltministerium am Samstag,Umweltministerium am Samstag,MISC,,,de,1.0
+Na…,Na…,MISC,,,de,1.0
+Sam…,Sam…,MISC,,,de,1.0
+Tag davor turnt der spanische,Tag davor turnt der spanische,MISC,,,de,1.0
+Regenfällen in Mexiko,Regenfällen in Mexiko,MISC,,,de,1.0
+Schlimmes Unwetter und Erdrutsche,Schlimmes Unwetter und Erdrutsche,MISC,,,de,1.0
+Alarm an der US-Westküste,Alarm an der US-Westküste,MISC,,,de,1.0
+JavaScript,JavaScript,MISC,,,de,1.0
+Sturm bedrohte am …,Sturm bedrohte am …,MISC,,,de,1.0
+portugiesischen,portugiesischen,MISC,,,de,1.0
+Browser,Browser,MISC,,,de,1.0
+Möglicher Tornado,Möglicher Tornado,MISC,,,de,1.0
+picture allian…,picture allian…,MISC,,,de,1.0
+Not…,Not…,MISC,,,de,1.0
+Kalmaegi“,Kalmaegi“,MISC,,,de,1.0
+Ein Supertaifun,Ein Supertaifun,MISC,,,de,1.0
+Glatteis“,Glatteis“,MISC,,,de,1.0
