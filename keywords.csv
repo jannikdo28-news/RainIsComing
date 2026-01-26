@@ -3,12 +3,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Extremwetter Regen',de,Hazard,#a89216,#c4b03b,1,0.1044654091817826
 'Unwetter Regen',de,Hazard,#a89216,#77731f,3,0.0871393844633893
 'Starkregen',de,Hazard,#4287f5,#638ed4,3,0.08707294406322
-'Unwettergefahr',de,Mitigation,#679e2c,#61d01c,3,0.08485572579125912
+'Unwettergefahr',de,Mitigation,#679e2c,#61d01c,3,0.0848557257912591
 'Dauerregen',de,Hazard,#3288e5,#638ed4,2,0.0729198689264306
 'Hochwasser Starkregen',de,Hazard,#4287f5,#537ee4,1,0.0620913488218897
-'Erdrutsche Regen',de,Impacts,#9e3215,#802d16,2,0.0570696381193433
 'Hochwasser Regen',de,Impacts,#4287f5,#022f78,2,0.0553509151404502
 'Regenmengen',de,Impacts,#9e3215,#d64118,1,0.0518158030680723
+'Erdrutsche Regen',de,Impacts,#9e3215,#802d16,2,0.050759417401441805
 'Hochwasserwarnung Niederschlag',de,Mitigation,#a89216,#a89216,1,0.0435382082077596
 'Überflutung Regen',de,Impacts,#4287f5,#315fa8,1,0.0380650115067067
 'Entsiegelung Regen',de,Mitigation,#679e2c,#61b00c,1,0.0379069161825859
