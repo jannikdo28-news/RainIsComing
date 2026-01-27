@@ -18,6 +18,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Regenmassen',de,Hazard,#9e3215,#e64118,1,0.0241723049211161
 'Regen Dachbegrünung',de,Mitigation,#679e2c,#61d01c,1,0.0235075087682278
 'Niederschlagstage',de,Hazard,#4277e5,#638ed4,1,0.022171340391813
-'Regenrückhalt',de,Mitigation,#9e3215,#f64118,1,0.0212662204642873
+'Regenrückhalt',de,Mitigation,#9e3215,#f64118,1,0.018076287394644203
 'Regentage',de,Hazard,#6287e5,#638ed4,1,0.0146593670409765
 'Starkniederschlag',de,Hazard,#9e3215,#9e3215,1,0.0143772721380908
