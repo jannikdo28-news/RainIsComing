@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Unwetterwarnung',de,Mitigation,#679e2c,#477515,3,0.12371854291421897
+'Unwetterwarnung',de,Mitigation,#679e2c,#477515,3,0.11011625147708606
 'Extremwetter Regen',de,Hazard,#a89216,#c4b03b,1,0.1044654091817826
 'Starkregen',de,Hazard,#4287f5,#638ed4,3,0.08707294406322
 'Unwettergefahr',de,Mitigation,#679e2c,#61d01c,3,0.0848557257912591
