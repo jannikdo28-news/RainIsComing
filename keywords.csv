@@ -18,6 +18,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Regen Dachbegrünung',de,Mitigation,#679e2c,#61d01c,1,0.0235075087682278
 'Regenmassen',de,Hazard,#9e3215,#e64118,1,0.0205464591829486
 'Niederschlagstage',de,Hazard,#4277e5,#638ed4,1,0.0160187934330848
-'Regenrückhalt',de,Mitigation,#9e3215,#f64118,1,0.0153648442854475
 'Starkniederschlag',de,Hazard,#9e3215,#9e3215,1,0.0143772721380908
+'Regenrückhalt',de,Mitigation,#9e3215,#f64118,1,0.013060117642630374
 'Regentage',de,Hazard,#6287e5,#638ed4,1,0.01276049198483
