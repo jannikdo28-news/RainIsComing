@@ -1,15 +1,15 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Unwetterwarnung',de,Mitigation,#679e2c,#477515,3,0.1446024698929107
 'Unwettergefahr',de,Mitigation,#679e2c,#61d01c,3,0.0852604001043884
-'Extremwetter Regen',de,Hazard,#a89216,#c4b03b,1,0.07908411888383791
+'Extremwetter Regen',de,Hazard,#a89216,#c4b03b,1,0.0790841188838379
 'Starkregen',de,Hazard,#4287f5,#638ed4,3,0.0770540579222421
 'Dauerregen',de,Hazard,#3288e5,#638ed4,2,0.0632784587033077
 'Hochwasser Starkregen',de,Hazard,#4287f5,#537ee4,1,0.0620913488218897
 'Unwetter Regen',de,Hazard,#a89216,#77731f,3,0.061267538212917
 'Hochwasser Regen',de,Impacts,#4287f5,#022f78,2,0.0553509151404502
 'Erdrutsche Regen',de,Impacts,#9e3215,#802d16,2,0.0450956997912255
-'Hochwasserwarnung Niederschlag',de,Mitigation,#a89216,#a89216,1,0.0435382082077596
 'Überflutung Regen',de,Impacts,#4287f5,#315fa8,1,0.0380650115067067
+'Hochwasserwarnung Niederschlag',de,Mitigation,#a89216,#a89216,1,0.03700747697659566
 'Regenmengen',de,Impacts,#9e3215,#d64118,1,0.0353163545216797
 'Entsiegelung Regen',de,Mitigation,#679e2c,#61b00c,1,0.032220878755198
 'Hangrutschung Niederschlag',de,Impacts,#679e2c,#679e2c,1,0.0264501812834318
