@@ -9,14 +9,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dauerregen',de,Hazard,#3288e5,#638ed4,2,0.0539371998978115
 'Erdrutsche Regen',de,Impacts,#9e3215,#802d16,2,0.0450956997912255
 'Überflutung Regen',de,Impacts,#4287f5,#315fa8,1,0.0380650115067067
-'Hochwasserwarnung Niederschlag',de,Mitigation,#a89216,#a89216,1,0.0370074769765956
 'Regenmengen',de,Impacts,#9e3215,#d64118,1,0.0353163545216797
 'Entsiegelung Regen',de,Mitigation,#679e2c,#61b00c,1,0.032220878755198
+'Hochwasserwarnung Niederschlag',de,Mitigation,#a89216,#a89216,1,0.03145635543010626
 'Pegelstände Dauerregen',de,Impacts,#a89216,#87830f,1,0.0250707533615261
 'Kanalisation Regen',de,Impacts,#9e3215,#b55035,1,0.0250586772717845
 'Regenmassen',de,Hazard,#9e3215,#e64118,1,0.0205464591829486
 'Hangrutschung Niederschlag',de,Impacts,#679e2c,#679e2c,1,0.0191102559772794
-'Regen Dachbegrünung',de,Mitigation,#679e2c,#61d01c,1,0.01698417508504456
+'Regen Dachbegrünung',de,Mitigation,#679e2c,#61d01c,1,0.0169841750850445
 'Niederschlagstage',de,Hazard,#4277e5,#638ed4,1,0.013615974418122
 'Regentage',de,Hazard,#6287e5,#638ed4,1,0.01276049198483
 'Starkniederschlag',de,Hazard,#9e3215,#9e3215,1,0.0103875791197705
