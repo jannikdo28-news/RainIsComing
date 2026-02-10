@@ -6,10 +6,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Unwettergefahr',de,Mitigation,#679e2c,#61d01c,3,0.0783290171436024
 'Unwetter Regen',de,Hazard,#a89216,#77731f,3,0.061267538212917
 'Dauerregen',de,Hazard,#3288e5,#638ed4,2,0.0539371998978115
-'Hochwasser Regen',de,Impacts,#4287f5,#022f78,2,0.04794886286938267
+'Hochwasser Regen',de,Impacts,#4287f5,#022f78,2,0.0479488628693826
 'Erdrutsche Regen',de,Impacts,#9e3215,#802d16,2,0.0450956997912255
-'Überflutung Regen',de,Impacts,#4287f5,#315fa8,1,0.0380650115067067
 'Regenmengen',de,Impacts,#9e3215,#d64118,1,0.0353163545216797
+'Überflutung Regen',de,Impacts,#4287f5,#315fa8,1,0.033555379780700695
 'Entsiegelung Regen',de,Mitigation,#679e2c,#61b00c,1,0.032220878755198
 'Hochwasserwarnung Niederschlag',de,Mitigation,#a89216,#a89216,1,0.0314563554301062
 'Pegelstände Dauerregen',de,Impacts,#a89216,#87830f,1,0.0250707533615261
