@@ -1,23 +1,28 @@
 ,phrase,label,sentiment,subjectivity,language,count
-DWD,DWD,ORG,-0.311111111111111,0.06666666666666665,de,22.500000000000004
-Deutsche Wetterdienst,Deutsche Wetterdienst,ORG,-0.6896825396825387,0.04761904761904756,de,21.000000000000025
+DWD,DWD,ORG,-0.24705882352941178,0.04411764705882354,de,33.99999999999999
+Deutsche Wetterdienst,Deutsche Wetterdienst,ORG,-0.5486111111111106,0.03787878787878785,de,26.400000000000016
 US-Wetterdienst,US-Wetterdienst,ORG,-0.22079772079772075,0.0,de,11.700000000000001
 NWS,NWS,ORG,-0.04475308641975308,0.0,de,10.800000000000002
 Deutschen Wetterdienstes,Deutschen Wetterdienstes,ORG,0.17857142857142852,0.0,de,5.600000000000001
 GEO,GEO,ORG,1.2244897959183674,0.0,de,4.8999999999999995
 lby,lby,ORG,-0.4722222222222222,0.0,de,3.6
-MV,MV,ORG,-0.5344827586206895,0.0,de,2.900000000000001
+GDV,GDV,ORG,0.0,0.30303030303030304,de,3.3
+MV,MV,ORG,-0.5344827586206894,0.0,de,2.9000000000000012
 US-Medien,US-Medien,ORG,-0.7777777777777776,0.0,de,2.7
+Der Deutsche Wetterdienst,Der Deutsche Wetterdienst,ORG,-0.25925925925925924,0.0,de,2.7
+BER,BER,ORG,-0.2692307692307692,0.0,de,2.6
 THW,THW,ORG,0.3541666666666667,0.0,de,2.4
-GDV,GDV,ORG,0.0,0.0,de,2.4
 mv,mv,ORG,0.0,0.0,de,2.1
-Umweltministerium,Umweltministerium,ORG,-0.3684210526315789,0.0,de,1.9
+DWD-Unwetterwarnung,DWD-Unwetterwarnung,ORG,0.0,0.0,de,2.1
+Deutschen Wetterdiensts,Deutschen Wetterdiensts,ORG,0.0,0.0,de,2.1
+Deutschen Wetterdienst,Deutschen Wetterdienst,ORG,0.0,0.0,de,1.9
 AEMET,AEMET,ORG,0.0,0.0,de,1.9
 Ahrflut,Ahrflut,ORG,0.3684210526315789,0.0,de,1.9
-Deutschen Wetterdienst,Deutschen Wetterdienst,ORG,0.0,0.0,de,1.9
+Deutsche Wetterdienst von Fahrten,Deutsche Wetterdienst von Fahrten,ORG,0.0,0.0,de,1.9
+Umweltministerium,Umweltministerium,ORG,-0.3684210526315789,0.0,de,1.9
+bb,bb,ORG,0.0,0.0,de,1.9
 Umweltministerium am Donnerstag,Umweltministerium am Donnerstag,ORG,0.0,0.0,de,1.8
 Reg…,Reg…,ORG,-0.4722222222222222,0.0,de,1.8
-Der Deutsche Wetterdienst,Der Deutsche Wetterdienst,ORG,-0.38888888888888884,0.0,de,1.8
 D…,D…,ORG,0.0,0.0,de,1.7000000000000002
 lhe,lhe,ORG,-0.5,0.0,de,1.7
 ntv.de,ntv.de,ORG,-0.6666666666666666,0.0,de,1.5
@@ -25,59 +30,57 @@ Formel 1,Formel 1,ORG,-0.6666666666666666,0.0,de,1.5
 Aemet,Aemet,ORG,-0.8333333333333334,0.0,de,1.5
 Fußball-Bundesliga,Fußball-Bundesliga,ORG,0.0,0.0,de,1.2000000000000002
 Unwetter-Warnung,Unwetter-Warnung,ORG,0.0,0.0,de,1.2000000000000002
-HNK Rijeka,HNK Rijeka,ORG,0.0,0.8333333333333334,de,1.2
-Sparta Prag,Sparta Prag,ORG,0.0,0.8333333333333334,de,1.2
 Conference League,Conference League,ORG,0.0,0.8333333333333334,de,1.2
-Dortmund,Dortmund,ORG,0.0,0.0,de,1.1
-Borussia Dortmund,Borussia Dortmund,ORG,0.0,0.0,de,1.1
+Sparta Prag,Sparta Prag,ORG,0.0,0.8333333333333334,de,1.2
+HNK Rijeka,HNK Rijeka,ORG,0.0,0.8333333333333334,de,1.2
+of…,of…,ORG,0.0,0.0,de,1.2
 BVB,BVB,ORG,-0.7727272727272726,0.0,de,1.1
-of…,of…,ORG,0.0,0.0,de,1.1
 FDP,FDP,ORG,0.0,0.0,de,1.1
+Borussia Dortmund,Borussia Dortmund,ORG,0.0,0.0,de,1.1
 Deutschem Wetterdienst,Deutschem Wetterdienst,ORG,0.6363636363636362,0.0,de,1.1
-Deutschen Wetterdiensts,Deutschen Wetterdiensts,ORG,0.0,0.0,de,1.1
+Dortmund,Dortmund,ORG,0.0,0.0,de,1.1
 Deutsche Wetterdienst erw…,Deutsche Wetterdienst erw…,ORG,0.0,0.0,de,1.1
-DWD-Unwetterwarnung,DWD-Unwetterwarnung,ORG,0.0,0.0,de,1.1
-Eintracht Frankfurt,Eintracht Frankfurt,ORG,0.7,0.0,de,1.0
-Pandemie,Pandemie,ORG,0.0,0.0,de,1.0
+Eintracht Frankf…,Eintracht Frankf…,ORG,0.0,0.0,de,1.0
+Verkeh…,Verkeh…,ORG,0.0,0.0,de,1.0
+Deutsc…,Deutsc…,ORG,0.0,0.0,de,1.0
 la…,la…,ORG,0.0,0.0,de,1.0
+Die oppositionelle FDP,Die oppositionelle FDP,ORG,0.0,0.0,de,1.0
+verg…,verg…,ORG,0.0,0.0,de,1.0
+Pandemie,Pandemie,ORG,0.0,0.0,de,1.0
 RTL,RTL,ORG,0.7,0.0,de,1.0
 eigentli…,eigentli…,ORG,0.7,0.0,de,1.0
-Die oppositionelle FDP,Die oppositionelle FDP,ORG,0.0,0.0,de,1.0
-Ei…,Ei…,ORG,0.0,0.0,de,1.0
-Pretty On The Inside,Pretty On The Inside,ORG,0.7,0.0,de,1.0
-Verkeh…,Verkeh…,ORG,0.0,0.0,de,1.0
-Eintracht Frankf…,Eintracht Frankf…,ORG,0.0,0.0,de,1.0
 Un…,Un…,ORG,0.0,0.0,de,1.0
 DW…,DW…,ORG,0.0,0.0,de,1.0
 Das Sturmtief «Leonardo,Das Sturmtief «Leonardo,ORG,-0.7,0.0,de,1.0
+Ei…,Ei…,ORG,0.0,0.0,de,1.0
 Sturmt…,Sturmt…,ORG,0.0,0.0,de,1.0
 süds…,süds…,ORG,-0.7,0.0,de,1.0
 Bevölk…,Bevölk…,ORG,0.0,0.0,de,1.0
+Eintracht Frankfurt,Eintracht Frankfurt,ORG,0.7,0.0,de,1.0
 Fasnet-Fans,Fasnet-Fans,ORG,-0.7,0.0,de,1.0
-ADAC,ADAC,ORG,-1.0,0.0,de,1.0
-G…,G…,ORG,-1.0,0.0,de,1.0
-Ca…,Ca…,ORG,0.7,0.0,de,1.0
-Hohe Glätte-Gefahr,Hohe Glätte-Gefahr,ORG,0.0,0.0,de,1.0
-TAP,TAP,ORG,-1.0,0.0,de,1.0
-Eisrege…,Eisrege…,ORG,0.0,0.0,de,1.0
-TTS-Player,TTS-Player,ORG,0.0,0.0,de,1.0
-Technische Hilfswerk,Technische Hilfswerk,ORG,0.0,0.0,de,1.0
-Deutschland,Deutschland,ORG,0.0,0.0,de,1.0
-Tagesverlauf wi,Tagesverlauf wi,ORG,0.0,0.0,de,1.0
-Sachsen-Anhalt ,Sachsen-Anhalt ,ORG,0.7,0.0,de,1.0
-Wetter-News,Wetter-News,ORG,0.0,0.0,de,1.0
-Unwetter-Warnung für Berlin,Unwetter-Warnung für Berlin,ORG,0.0,0.0,de,1.0
-angeor…,angeor…,ORG,1.0,0.0,de,1.0
-Deutsche We…,Deutsche We…,ORG,0.0,0.0,de,1.0
 Rostock,Rostock,ORG,0.0,0.0,de,1.0
-Deutsc…,Deutsc…,ORG,0.0,0.0,de,1.0
-verg…,verg…,ORG,0.0,0.0,de,1.0
+ADAC,ADAC,ORG,-1.0,0.0,de,1.0
+TAP,TAP,ORG,-1.0,0.0,de,1.0
+G…,G…,ORG,-1.0,0.0,de,1.0
+We…,We…,ORG,0.0,0.0,de,1.0
+Ca…,Ca…,ORG,0.7,0.0,de,1.0
+Technische Hilfswerk,Technische Hilfswerk,ORG,0.0,0.0,de,1.0
+Eisrege…,Eisrege…,ORG,0.0,0.0,de,1.0
+Tagesverlauf wi,Tagesverlauf wi,ORG,0.0,0.0,de,1.0
+Wetter-News,Wetter-News,ORG,0.0,0.0,de,1.0
+TTS-Player,TTS-Player,ORG,0.0,0.0,de,1.0
+Hohe Glätte-Gefahr,Hohe Glätte-Gefahr,ORG,0.0,0.0,de,1.0
+Deutschland,Deutschland,ORG,0.0,0.0,de,1.0
+Unwetter-Warnung für Berlin,Unwetter-Warnung für Berlin,ORG,0.0,0.0,de,1.0
+Deutsche We…,Deutsche We…,ORG,0.0,0.0,de,1.0
+Sachsen-Anhalt ,Sachsen-Anhalt ,ORG,0.7,0.0,de,1.0
 Diens…,Diens…,ORG,0.0,0.0,de,1.0
 K…,K…,ORG,0.7,0.0,de,1.0
 SPD,SPD,ORG,0.0,0.0,de,1.0
 Teile Mecklenburg-Vorpommerns,Teile Mecklenburg-Vorpommerns,ORG,0.0,0.0,de,1.0
-We…,We…,ORG,0.0,0.0,de,1.0
-Notstand …,Notstand …,ORG,0.0,0.0,de,1.0
+angeor…,angeor…,ORG,1.0,0.0,de,1.0
+Pretty On The Inside,Pretty On The Inside,ORG,0.7,0.0,de,1.0
+picture alliance/dpa/ZUMA Press Wire,picture alliance/dpa/ZUMA Press Wire,ORG,-1.0,0.0,de,1.0
 Südw…,Südw…,ORG,0.0,0.0,de,1.0
 Ü…,Ü…,ORG,0.0,0.0,de,1.0
 Nachbarregion Friaul-Julisch Venetien,Nachbarregion Friaul-Julisch Venetien,ORG,0.0,0.0,de,1.0
@@ -108,8 +111,8 @@ Le…,Le…,ORG,0.0,0.0,de,1.0
 Schla…,Schla…,ORG,0.0,0.0,de,1.0
 Winter-Sturm!,Winter-Sturm!,ORG,-0.7,0.0,de,1.0
 US-Luftraum…,US-Luftraum…,ORG,0.0,0.0,de,1.0
-picture alliance/dpa/ZUMA Press Wire,picture alliance/dpa/ZUMA Press Wire,ORG,-1.0,0.0,de,1.0
 REUTERS,REUTERS,ORG,0.0,0.0,de,1.0
+Notstand …,Notstand …,ORG,0.0,0.0,de,1.0
 Freitag …,Freitag …,ORG,-0.7,0.0,de,1.0
 Hamas von Israel,Hamas von Israel,ORG,0.0,0.0,de,1.0
 Pegel…,Pegel…,ORG,-0.7,0.0,de,1.0
