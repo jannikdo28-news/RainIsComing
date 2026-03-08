@@ -16,8 +16,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kanalisation Regen',de,Impacts,#9e3215,#b55035,1,0.0217499206810168
 'Regentage',de,Hazard,#6287e5,#638ed4,1,0.0208248040186262
 'Hangrutschung Niederschlag',de,Impacts,#679e2c,#679e2c,1,0.0162437175806874
-'Regen Dachbegrünung',de,Mitigation,#679e2c,#61d01c,1,0.0144365488222878
 'Regenmassen',de,Hazard,#9e3215,#e64118,1,0.0136674491707282
+'Regen Dachbegrünung',de,Mitigation,#679e2c,#61d01c,1,0.012271066498944631
 'Regenrückhalt',de,Mitigation,#9e3215,#f64118,1,0.0049256170429233
 'Starkniederschlag',de,Hazard,#9e3215,#9e3215,1,0.0039176704335376
 'Niederschlagstage',de,Hazard,#4277e5,#638ed4,1,0.0031536904153954
