@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Unwetterwarnung',de,Mitigation,#679e2c,#477515,3,0.1103445033920905
-'Starkregen',de,Hazard,#4287f5,#638ed4,3,0.10571879442704757
-'Hochwasser Regen',de,Impacts,#4287f5,#022f78,3,0.0833782850539777
+'Starkregen',de,Hazard,#4287f5,#638ed4,3,0.1057187944270475
+'Hochwasser Regen',de,Impacts,#4287f5,#022f78,2,0.07087248729588104
 'Regenmengen',de,Impacts,#9e3215,#d64118,1,0.0635539914502407
 'Dauerregen',de,Hazard,#3288e5,#638ed4,3,0.0614779551416643
 'Unwettergefahr',de,Mitigation,#679e2c,#61d01c,2,0.0590020620582414
