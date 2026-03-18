@@ -1,15 +1,15 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Unwetterwarnung',de,Mitigation,#679e2c,#477515,3,0.1103445033920905
-'Starkregen',de,Hazard,#4287f5,#638ed4,3,0.10708509753571765
+'Starkregen',de,Hazard,#4287f5,#638ed4,3,0.1070850975357176
 'Regenmengen',de,Impacts,#9e3215,#d64118,1,0.0732480918227988
 'Hochwasser Regen',de,Impacts,#4287f5,#022f78,2,0.0603643705712739
 'Hochwasser Starkregen',de,Hazard,#4287f5,#537ee4,1,0.0549594617111324
 'Dauerregen',de,Hazard,#3288e5,#638ed4,2,0.0522568018704146
 'Unwettergefahr',de,Mitigation,#679e2c,#61d01c,1,0.0501517677495051
-'Regenmassen',de,Hazard,#9e3215,#e64118,1,0.0491880751594733
 'Pegelstände Dauerregen',de,Impacts,#a89216,#87830f,1,0.0485121583566987
 'Erdrutsche Regen',de,Impacts,#9e3215,#802d16,2,0.0450956997912255
 'Unwetter Regen',de,Hazard,#a89216,#77731f,2,0.0428501683868151
+'Regenmassen',de,Hazard,#9e3215,#e64118,1,0.0424099238855523
 'Extremwetter Regen',de,Hazard,#a89216,#c4b03b,1,0.036864069505484
 'Überflutung Regen',de,Impacts,#4287f5,#315fa8,1,0.0339769508078226
 'Entsiegelung Regen',de,Mitigation,#679e2c,#61b00c,1,0.0273877469419183
