@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Pegelstände Dauerregen',de,Impacts,#a89216,#87830f,1,0.1604800899127147
+'Pegelstände Dauerregen',de,Impacts,#a89216,#87830f,1,0.2042081064258075
 'Regenmengen',de,Impacts,#9e3215,#d64118,1,0.1099611480493789
 'Starkregen',de,Hazard,#4287f5,#638ed4,3,0.1070850975357176
 'Hochwasser Regen',de,Impacts,#4287f5,#022f78,2,0.0603643705712739
@@ -12,7 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Regenmassen',de,Hazard,#9e3215,#e64118,1,0.0424099238855523
 'Extremwetter Regen',de,Hazard,#a89216,#c4b03b,1,0.036864069505484
 'Überflutung Regen',de,Impacts,#4287f5,#315fa8,1,0.0339769508078226
-'Entsiegelung Regen',de,Mitigation,#679e2c,#61b00c,1,0.023279584900630555
+'Entsiegelung Regen',de,Mitigation,#679e2c,#61b00c,1,0.0232795849006305
 'Hochwasserwarnung Niederschlag',de,Mitigation,#a89216,#a89216,1,0.0227272167982516
 'Regentage',de,Hazard,#6287e5,#638ed4,1,0.0189012034158322
 'Kanalisation Regen',de,Impacts,#9e3215,#b55035,1,0.0187874625788642
