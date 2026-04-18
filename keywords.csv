@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Pegelstände Dauerregen',de,Impacts,#a89216,#87830f,1,0.17357689046193636
+'Pegelstände Dauerregen',de,Impacts,#a89216,#87830f,1,0.1735768904619363
 'Regenmengen',de,Impacts,#9e3215,#d64118,1,0.1052100429848292
 'Starkregen',de,Hazard,#4287f5,#638ed4,3,0.0924383871745656
-'Hochwasser Regen',de,Impacts,#4287f5,#022f78,3,0.0731008322356914
+'Hochwasser Regen',de,Impacts,#4287f5,#022f78,2,0.06213593240033769
 'Unwetter Regen',de,Hazard,#a89216,#77731f,2,0.0543467046741891
 'Dauerregen',de,Hazard,#3288e5,#638ed4,2,0.0522568018704146
 'Überflutung Regen',de,Impacts,#4287f5,#315fa8,1,0.0511584579586518
