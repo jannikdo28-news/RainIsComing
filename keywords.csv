@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Regenmassen',de,Hazard,#9e3215,#e64118,1,0.11838526552016594
 'Starkregen',de,Hazard,#4287f5,#638ed4,3,0.1166867456960754
-'Regenmassen',de,Hazard,#9e3215,#e64118,1,0.11254804676580611
 'Regenmengen',de,Impacts,#9e3215,#d64118,2,0.1019963619481235
 'Unwetterwarnung',de,Mitigation,#679e2c,#477515,1,0.0534460059461928
 'Dauerregen',de,Hazard,#3288e5,#638ed4,1,0.0463626975148855
