@@ -17,7 +17,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kanalisation Regen',de,Impacts,#9e3215,#b55035,1,0.0142340077132293
 'Hochwasserwarnung Niederschlag',de,Mitigation,#a89216,#a89216,1,0.0118637492137921
 'Regen Dachbegrünung',de,Mitigation,#679e2c,#61d01c,1,0.0088658455454874
-'Hangrutschung Niederschlag',de,Impacts,#679e2c,#679e2c,1,0.00612631021750534
-'Regenrückhalt',de,Mitigation,#9e3215,#f64118,1,0.0021855224492855
+'Hangrutschung Niederschlag',de,Impacts,#679e2c,#679e2c,1,0.0061263102175053
+'Regenrückhalt',de,Mitigation,#9e3215,#f64118,1,0.001857694081892675
 'Starkniederschlag',de,Hazard,#9e3215,#9e3215,1,0.0006555956780548
 'Niederschlagstage',de,Hazard,#4277e5,#638ed4,1,0.0006208809220057
