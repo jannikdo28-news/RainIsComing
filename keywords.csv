@@ -15,7 +15,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Extremwetter Regen',de,Hazard,#a89216,#c4b03b,1,0.0253821709600552
 'Entsiegelung Regen',de,Mitigation,#679e2c,#61b00c,1,0.0168195000907055
 'Kanalisation Regen',de,Impacts,#9e3215,#b55035,1,0.0142340077132293
-'Hochwasserwarnung Niederschlag',de,Mitigation,#a89216,#a89216,1,0.0118637492137921
+'Hochwasserwarnung Niederschlag',de,Mitigation,#a89216,#a89216,1,0.010084186831723284
 'Regen Dachbegrünung',de,Mitigation,#679e2c,#61d01c,1,0.0064055734066145
 'Hangrutschung Niederschlag',de,Impacts,#679e2c,#679e2c,1,0.0023105349311005
 'Regenrückhalt',de,Mitigation,#9e3215,#f64118,1,0.0009697279213358
