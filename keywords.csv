@@ -14,10 +14,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Regentage',de,Hazard,#6287e5,#638ed4,1,0.0278592122524505
 'Extremwetter Regen',de,Hazard,#a89216,#c4b03b,1,0.0253821709600552
 'Erdrutsche Regen',de,Impacts,#9e3215,#802d16,1,0.0220432490488029
-'Entsiegelung Regen',de,Mitigation,#679e2c,#61b00c,1,0.0103292754932044
+'Entsiegelung Regen',de,Mitigation,#679e2c,#61b00c,1,0.00877988416922374
 'Hochwasserwarnung Niederschlag',de,Mitigation,#a89216,#a89216,1,0.0085715588069647
 'Regen Dachbegrünung',de,Mitigation,#679e2c,#61d01c,1,0.005005679943337
 'Hangrutschung Niederschlag',de,Impacts,#679e2c,#679e2c,1,0.0019639546914354
-'Regenrückhalt',de,Mitigation,#9e3215,#f64118,1,0.00059553415969025
+'Regenrückhalt',de,Mitigation,#9e3215,#f64118,1,0.0005955341596902
 'Starkniederschlag',de,Hazard,#9e3215,#9e3215,1,0.000247257592424
 'Niederschlagstage',de,Hazard,#4277e5,#638ed4,1,0.0002341649389951
