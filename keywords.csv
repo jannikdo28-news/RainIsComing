@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Starkregen',de,Hazard,#4287f5,#638ed4,3,0.1723356409448626
-'Kanalisation Regen',de,Impacts,#9e3215,#b55035,1,0.1019946313881506
+'Kanalisation Regen',de,Impacts,#9e3215,#b55035,1,0.10503317667992801
 'Unwetterwarnung',de,Mitigation,#679e2c,#477515,2,0.0926295642442005
 'Hochwasser Starkregen',de,Hazard,#4287f5,#537ee4,1,0.0924093841573474
 'Unwetter Regen',de,Hazard,#a89216,#77731f,3,0.090119437741139
