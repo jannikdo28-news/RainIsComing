@@ -15,7 +15,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Regentage',de,Hazard,#6287e5,#638ed4,1,0.0229035583523954
 'Erdrutsche Regen',de,Impacts,#9e3215,#802d16,1,0.0220432490488029
 'Entsiegelung Regen',de,Mitigation,#679e2c,#61b00c,1,0.0074629015438401
-'Regen Dachbegrünung',de,Mitigation,#679e2c,#61d01c,1,0.0048548879518364
+'Regen Dachbegrünung',de,Mitigation,#679e2c,#61d01c,1,0.004576699759060939
 'Hochwasserwarnung Niederschlag',de,Mitigation,#a89216,#a89216,1,0.004474407269478
 'Hangrutschung Niederschlag',de,Impacts,#679e2c,#679e2c,1,0.00166936148772
 'Regenrückhalt',de,Mitigation,#9e3215,#f64118,1,0.0003108725534466
