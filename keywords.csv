@@ -12,12 +12,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hochwasser Regen',de,Impacts,#4287f5,#022f78,1,0.0442805240689683
 'Dauerregen',de,Hazard,#3288e5,#638ed4,1,0.0418095227894655
 'Überflutung Regen',de,Impacts,#4287f5,#315fa8,1,0.0375170413751259
-'Regentage',de,Hazard,#6287e5,#638ed4,1,0.0294406539096055
 'Pegelstände Dauerregen',de,Impacts,#a89216,#87830f,1,0.029046919879457
+'Regentage',de,Hazard,#6287e5,#638ed4,1,0.02607466082316467
 'Erdrutsche Regen',de,Impacts,#9e3215,#802d16,1,0.0194868366914824
 'Regen Dachbegrünung',de,Mitigation,#679e2c,#61d01c,1,0.0045766997590609
 'Hochwasserwarnung Niederschlag',de,Mitigation,#a89216,#a89216,1,0.0038032461790563
 'Hangrutschung Niederschlag',de,Impacts,#679e2c,#679e2c,1,0.00166936148772
-'Regenrückhalt',de,Mitigation,#9e3215,#f64118,1,0.00022460541986515998
+'Regenrückhalt',de,Mitigation,#9e3215,#f64118,1,0.0002246054198651
 'Starkniederschlag',de,Hazard,#9e3215,#9e3215,1,0.0001518470689473
 'Niederschlagstage',de,Hazard,#4277e5,#638ed4,1,0.0001039002274332
