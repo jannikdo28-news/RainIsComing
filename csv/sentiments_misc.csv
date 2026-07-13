@@ -1,61 +1,63 @@
 ,phrase,label,sentiment,subjectivity,language,count
 "Link
 ","Link
-",MISC,,,de,159.60000000000042
+",MISC,,,de,168.60000000000048
 “,“,MISC,-1.626984126984127,1.6666666666666665,de,75.90000000000002
 Wetter“,Wetter“,MISC,,,de,25.099999999999987
 Deutscher,Deutscher,MISC,,,de,13.200000000000001
 spanischen,spanischen,MISC,,,de,11.200000000000001
 Zeit,Zeit,MISC,,,de,10.800000000000002
 Weihnachten,Weihnachten,MISC,,,de,9.100000000000003
-stern+,stern+,MISC,,,de,8.5
 Capital</li><li>4,Capital</li><li>4,MISC,,,de,8.5
+stern+,stern+,MISC,,,de,8.5
 stern+statt,stern+statt,MISC,,,de,8.5
 deutschen,deutschen,MISC,,,de,7.300000000000001
 Starkregen“,Starkregen“,MISC,,,de,7.300000000000001
 Deutsche,Deutsche,MISC,,,de,6.500000000000001
 indonesischen,indonesischen,MISC,,,de,5.8999999999999995
 Tages,Tages,MISC,,,de,5.5
+Unwettergefahr,Unwettergefahr,MISC,-0.08333333333333331,0.0,de,5.5
 Sumatra,Sumatra,MISC,-0.06796116504854367,0.29126213592233,de,5.1
+italienischen,italienischen,MISC,,,de,4.6
+britische,britische,MISC,,,de,4.6
 Starkregen sucht den Nordwesten der USA,Starkregen sucht den Nordwesten der USA,MISC,,,de,4.6
 deutsche,deutsche,MISC,,,de,4.6
-britische,britische,MISC,,,de,4.6
-italienischen,italienischen,MISC,,,de,4.6
 Unwettergefahr“,Unwettergefahr“,MISC,,,de,4.2
 "Wind, Regen","Wind, Regen",MISC,,,de,4.1
 spanische,spanische,MISC,,,de,4.0
 Hamburger,Hamburger,MISC,,,de,3.9
+Deutschen,Deutschen,MISC,,,de,3.8
+norditalienischen,norditalienischen,MISC,,,de,3.6999999999999997
 deutscher,deutscher,MISC,,,de,3.6999999999999997
 Stufe 2,Stufe 2,MISC,,,de,3.6999999999999997
-Autobahn 9,Autobahn 9,MISC,0.3684210526315789,0.0,de,3.6999999999999997
 S…,S…,MISC,,,de,3.6999999999999997
+Autobahn 9,Autobahn 9,MISC,0.3684210526315789,0.0,de,3.6999999999999997
 WM 2026,WM 2026,MISC,,,de,3.6
 Hitzewelle des Jahres,Hitzewelle des Jahres,MISC,,,de,3.6
+Zahl der Toten,Zahl der Toten,MISC,,,de,3.4000000000000004
 Todesopfer durch Überschwemmungen und Erdrutsche,Todesopfer durch Überschwemmungen und Erdrutsche,MISC,,,de,3.4000000000000004
 Berlin Tennis Open,Berlin Tennis Open,MISC,,,de,3.4000000000000004
-Zahl der Toten,Zahl der Toten,MISC,,,de,3.4000000000000004
 Unwetterwarnung“,Unwetterwarnung“,MISC,,,de,3.3000000000000003
+’s,’s,MISC,,,de,3.3
 Wochenmitte,Wochenmitte,MISC,-2.7833333333333328,0.3888888888888888,de,3.2
 Wettervorhersage“,Wettervorhersage“,MISC,,,de,3.1
-Deutschen,Deutschen,MISC,,,de,2.9
 M…,M…,MISC,0.38888888888888884,0.5555555555555556,de,2.8000000000000003
-Marta,Marta,MISC,,,de,2.8
-Unwettergefahr,Unwettergefahr,MISC,-0.1075268817204301,0.0,de,2.8
 WM-Spiel,WM-Spiel,MISC,,,de,2.8
-Hause bleiben</li><li,Hause bleiben</li><li,MISC,,,de,2.8
-d…,d…,MISC,0.0,0.0,de,2.8
-WM-Aus,WM-Aus,MISC,,,de,2.8
-Gewitter“,Gewitter“,MISC,,,de,2.8
-norditalienischen,norditalienischen,MISC,,,de,2.8
 A36-Unfall,A36-Unfall,MISC,,,de,2.8
-Das Wetter,Das Wetter,MISC,,,de,2.8
+Gewitter“,Gewitter“,MISC,,,de,2.8
+d…,d…,MISC,0.0,0.0,de,2.8
+Marta,Marta,MISC,,,de,2.8
 Euro,Euro,MISC,,,de,2.8
-Karlsruhe,Karlsruhe,MISC,,,de,2.7
+z…,z…,MISC,,,de,2.8
+Hause bleiben</li><li,Hause bleiben</li><li,MISC,,,de,2.8
+Das Wetter,Das Wetter,MISC,,,de,2.8
+WM-Aus,WM-Aus,MISC,,,de,2.8
 we…,we…,MISC,,,de,2.7
-marokkanischen,marokkanischen,MISC,,,de,2.6
+weiterlesenErst,weiterlesenErst,MISC,,,de,2.7
+Karlsruhe,Karlsruhe,MISC,,,de,2.7
 Unwetter in der Ägäis,Unwetter in der Ägäis,MISC,,,de,2.6
-’s,’s,MISC,,,de,2.4
-Tornado,Tornado,MISC,,,de,2.2
+marokkanischen,marokkanischen,MISC,,,de,2.6
+Tornado,Tornado,MISC,,,de,2.3000000000000003
 Verkehr“,Verkehr“,MISC,,,de,2.1999999999999997
 südchinesischen,südchinesischen,MISC,,,de,2.1
 V…,V…,MISC,,,de,2.1
@@ -63,276 +65,225 @@ stern,stern,MISC,,,de,2.1
 Hause,Hause,MISC,,,de,2.0
 deutscher Zeit,deutscher Zeit,MISC,,,de,2.0
 Null-Grad-Grenze,Null-Grad-Grenze,MISC,,,de,1.9000000000000001
-Deu…,Deu…,MISC,,,de,1.9
-Mexiko-Spiel,Mexiko-Spiel,MISC,,,de,1.9
-Warnung vor Sturm,Warnung vor Sturm,MISC,,,de,1.9
-z…,z…,MISC,,,de,1.9
-NZZ Format,NZZ Format,MISC,,,de,1.9
-Das bringt das Wetter,Das bringt das Wetter,MISC,,,de,1.9
-tunesische,tunesische,MISC,,,de,1.9
+steirischen,steirischen,MISC,,,de,1.9
+e…,e…,MISC,,,de,1.9
+Nachbarn,Nachbarn,MISC,0.7,0.0,de,1.9
 Klimakrise,Klimakrise,MISC,0.0,0.0,de,1.9
+Katastrophe,Katastrophe,MISC,,,de,1.9
+Ein Jahr nach dem schweren Zugunglück von Riedlingen,Ein Jahr nach dem schweren Zugunglück von Riedlingen,MISC,,,de,1.9
+El Niño,El Niño,MISC,,,de,1.9
+Deu…,Deu…,MISC,,,de,1.9
+Warnung vor Sturm,Warnung vor Sturm,MISC,,,de,1.9
+Wiener,Wiener,MISC,,,de,1.9
+türkischen,türkischen,MISC,,,de,1.9
+Sommer-Monsun,Sommer-Monsun,MISC,,,de,1.9
+NZZ Format,NZZ Format,MISC,,,de,1.9
+T-Shirt-Wetter,T-Shirt-Wetter,MISC,,,de,1.9
+Frühlingsfreude,Frühlingsfreude,MISC,,,de,1.9
+tunesische,tunesische,MISC,,,de,1.9
+Ge…,Ge…,MISC,,,de,1.9
 Stuttgart/Ulm,Stuttgart/Ulm,MISC,,,de,1.9
+lsw,lsw,MISC,-0.23333333333333328,0.0,de,1.9
+Das bringt das Wetter,Das bringt das Wetter,MISC,,,de,1.9
+Mexiko-Spiel,Mexiko-Spiel,MISC,,,de,1.9
 Erdrutsch,Erdrutsch,MISC,0.0,0.0,de,1.9
 TTS-Player,TTS-Player,MISC,0.8947368421052632,0.0,de,1.9
-Sommer-Monsun,Sommer-Monsun,MISC,,,de,1.9
-Deutschem …,Deutschem …,MISC,,,de,1.9
-türkischen,türkischen,MISC,,,de,1.9
-T-Shirt-Wetter,T-Shirt-Wetter,MISC,,,de,1.9
-steirischen,steirischen,MISC,,,de,1.9
-Ein Jahr nach dem schweren Zugunglück von Riedlingen,Ein Jahr nach dem schweren Zugunglück von Riedlingen,MISC,,,de,1.9
-D…,D…,MISC,0.0,0.0,de,1.9
-Weltmarktpreise,Weltmarktpreise,MISC,,,de,1.9
-Frühlingsfreude,Frühlingsfreude,MISC,,,de,1.9
-Wiener,Wiener,MISC,,,de,1.9
-Nachbarn,Nachbarn,MISC,0.7,0.0,de,1.9
-lsw,lsw,MISC,-0.2745098039215686,0.0,de,1.9
-Milliarden-Schäden,Milliarden-Schäden,MISC,,,de,1.9
 WM-Partie,WM-Partie,MISC,,,de,1.9
-Risikos von Überflutungen und Erdrutschen,Risikos von Überflutungen und Erdrutschen,MISC,,,de,1.9
-Katastrophe,Katastrophe,MISC,,,de,1.9
-Ge…,Ge…,MISC,,,de,1.9
-andalusische,andalusische,MISC,,,de,1.9
 AEMET,AEMET,MISC,,,de,1.9
+Risikos von Überflutungen und Erdrutschen,Risikos von Überflutungen und Erdrutschen,MISC,,,de,1.9
+Milliarden-Schäden,Milliarden-Schäden,MISC,,,de,1.9
 ORANGE,ORANGE,MISC,,,de,1.9
+Die Hitzewelle,Die Hitzewelle,MISC,,,de,1.9
+Deutschem …,Deutschem …,MISC,,,de,1.9
 mexikanischen,mexikanischen,MISC,,,de,1.9
+Weltmarktpreise,Weltmarktpreise,MISC,,,de,1.9
+D…,D…,MISC,0.0,0.0,de,1.9
+andalusische,andalusische,MISC,,,de,1.9
 Regenzeit,Regenzeit,MISC,,,de,1.8
+Hochwassersaison in China,Hochwassersaison in China,MISC,,,de,1.8
+Fastnachts-Wochenende,Fastnachts-Wochenende,MISC,,,de,1.8
+James-Webb-Teleskop,James-Webb-Teleskop,MISC,,,de,1.8
+s…,s…,MISC,,,de,1.8
+Plötzlich rauschen Wasserfälle,Plötzlich rauschen Wasserfälle,MISC,,,de,1.8
+Außenwelt,Außenwelt,MISC,0.0,0.21978021978021978,de,1.8
 NINA-Warn-App,NINA-Warn-App,MISC,,,de,1.8
 Instagram,Instagram,MISC,,,de,1.8
-Plötzlich rauschen Wasserfälle,Plötzlich rauschen Wasserfälle,MISC,,,de,1.8
-Hochwassersaison in China,Hochwassersaison in China,MISC,,,de,1.8
-weiterlesenErst,weiterlesenErst,MISC,,,de,1.8
-Fastnachts-Wochenende,Fastnachts-Wochenende,MISC,,,de,1.8
-Flut-Hölle,Flut-Hölle,MISC,,,de,1.8
-James-Webb-Teleskop,James-Webb-Teleskop,MISC,,,de,1.8
 Wetter-Alarm in der Ägäis,Wetter-Alarm in der Ägäis,MISC,,,de,1.8
-s…,s…,MISC,,,de,1.8
-Außenwelt,Außenwelt,MISC,0.0,0.21978021978021978,de,1.8
-Sachsen,Sachsen,MISC,0.015706806282722516,0.0,de,1.6000000000000003
-Unwetterschäden,Unwetterschäden,MISC,,,de,1.6
+Flut-Hölle,Flut-Hölle,MISC,,,de,1.8
+eisglatt,eisglatt,MISC,,,de,1.7000000000000002
+Gefährlicher Wettermix,Gefährlicher Wettermix,MISC,,,de,1.7000000000000002
+Sachsen,Sachsen,MISC,0.014354066985645937,0.0,de,1.6000000000000003
 Taifun in diesem Jahr,Taifun in diesem Jahr,MISC,,,de,1.6
+Unwetterschäden,Unwetterschäden,MISC,,,de,1.6
+Neue Woche,Neue Woche,MISC,,,de,1.6
 Warnstufe Gelb,Warnstufe Gelb,MISC,,,de,1.5
 Bürger,Bürger,MISC,,,de,1.5
 Qualifying,Qualifying,MISC,,,de,1.5
 Glätte-Warnung,Glätte-Warnung,MISC,-0.7,0.0,de,1.4000000000000004
-Winterwetter“,Winterwetter“,MISC,,,de,1.4000000000000001
 Deutschem,Deutschem,MISC,,,de,1.4000000000000001
+Winterwetter“,Winterwetter“,MISC,,,de,1.4000000000000001
 Glatteis-Gefahr,Glatteis-Gefahr,MISC,-0.5384615384615383,0.0,de,1.3000000000000003
-Glatteis-Warnungen,Glatteis-Warnungen,MISC,,,de,1.3
-tü…,tü…,MISC,,,de,1.3
-Schwerin,Schwerin,MISC,0.0,0.0,de,1.3
-Schnee und Regen,Schnee und Regen,MISC,,,de,1.3
 Katastrophen-Rangliste,Katastrophen-Rangliste,MISC,,,de,1.3
+Schnee und Regen,Schnee und Regen,MISC,,,de,1.3
 Berliner,Berliner,MISC,,,de,1.3
-Münchner,Münchner,MISC,,,de,1.2000000000000002
-MV“,MV“,MISC,,,de,1.2000000000000002
-eisglatt,eisglatt,MISC,,,de,1.2000000000000002
-Gefährlicher Wettermix,Gefährlicher Wettermix,MISC,,,de,1.2000000000000002
+Schwerin,Schwerin,MISC,0.0,0.0,de,1.3
+tü…,tü…,MISC,,,de,1.3
+Glatteis-Warnungen,Glatteis-Warnungen,MISC,,,de,1.3
 Bundesliga-Auftakt 2026,Bundesliga-Auftakt 2026,MISC,,,de,1.2000000000000002
+MV“,MV“,MISC,,,de,1.2000000000000002
 Winter“,Winter“,MISC,,,de,1.2000000000000002
-Buslinien,Buslinien,MISC,,,de,1.1
-Wetter-Extreme,Wetter-Extreme,MISC,,,de,1.1
-Gefahr für Leib und Leben,Gefahr für Leib und Leben,MISC,,,de,1.1
-DWD-Meteorologin,DWD-Meteorologin,MISC,,,de,1.1
+Münchner,Münchner,MISC,,,de,1.2000000000000002
 Der Deutsche Wetterdienst,Der Deutsche Wetterdienst,MISC,,,de,1.1
 Rote Glatteiswarnung,Rote Glatteiswarnung,MISC,,,de,1.1
-Neue Woche,Neue Woche,MISC,,,de,1.1
-Star…,Star…,MISC,,,de,1.0
-Erwärmung global,Erwärmung global,MISC,,,de,1.0
-Ibiza Medieval,Ibiza Medieval,MISC,,,de,1.0
-Astrid-Lindgren-Gedächtnispreis,Astrid-Lindgren-Gedächtnispreis,MISC,,,de,1.0
-Sturm,Sturm,MISC,0.0,0.0,de,1.0
-West-Ost-Gefälle,West-Ost-Gefälle,MISC,,,de,1.0
-Der Rohrbacher Fischerei-Revierobmann,Der Rohrbacher Fischerei-Revierobmann,MISC,,,de,1.0
-RiskLab,RiskLab,MISC,,,de,1.0
-Spezial-Wagen,Spezial-Wagen,MISC,,,de,1.0
-…,…,MISC,0.0,0.0,de,1.0
-Morg…,Morg…,MISC,,,de,1.0
-E…,E…,MISC,,,de,1.0
-Der freundliche Frühling,Der freundliche Frühling,MISC,,,de,1.0
-Gefahrenindex…,Gefahrenindex…,MISC,,,de,1.0
-Gefahr von Waldbränden,Gefahr von Waldbränden,MISC,,,de,1.0
-goldenen Herbst,goldenen Herbst,MISC,,,de,1.0
-kanadische,kanadische,MISC,,,de,1.0
-Auditori Caló de sOli 8,Auditori Caló de sOli 8,MISC,,,de,1.0
-Sturm auf Korsika,Sturm auf Korsika,MISC,,,de,1.0
-Donnersta…,Donnersta…,MISC,,,de,1.0
-Saharastaub,Saharastaub,MISC,0.0,0.0,de,1.0
-England-Kracher,England-Kracher,MISC,,,de,1.0
-A24,A24,MISC,0.25,0.0,de,1.0
-X/visegrad24,X/visegrad24,MISC,,,de,1.0
-Sahara-Staub,Sahara-Staub,MISC,,,de,1.0
-Ein Herbsts…,Ein Herbsts…,MISC,,,de,1.0
-Ze…,Ze…,MISC,,,de,1.0
-Mitten im Frühling,Mitten im Frühling,MISC,,,de,1.0
-niederösterreichischen,niederösterreichischen,MISC,,,de,1.0
-Sä…,Sä…,MISC,,,de,1.0
-Proteste“,Proteste“,MISC,,,de,1.0
-Mittwoch gibts,Mittwoch gibts,MISC,,,de,1.0
-Die Brücke,Die Brücke,MISC,,,de,1.0
-Videos,Videos,MISC,,,de,1.0
-Messungen im Jahr 1858,Messungen im Jahr 1858,MISC,,,de,1.0
-Extremwetterereignisse wie Dürren,Extremwetterereignisse wie Dürren,MISC,,,de,1.0
-Herausforderu…,Herausforderu…,MISC,,,de,1.0
-e…,e…,MISC,,,de,1.0
-NRW-Kommune,NRW-Kommune,MISC,,,de,1.0
-Das Jahr 2026,Das Jahr 2026,MISC,,,de,1.0
-Tragödie auf Korsika,Tragödie auf Korsika,MISC,,,de,1.0
-Flutsaison“,Flutsaison“,MISC,,,de,1.0
-Grand Prix am Sonntag,Grand Prix am Sonntag,MISC,,,de,1.0
-Formel-1-Rennen,Formel-1-Rennen,MISC,,,de,1.0
-Wonnemonat Mai,Wonnemonat Mai,MISC,,,de,1.0
-näc…,näc…,MISC,,,de,1.0
+Wetter-Extreme,Wetter-Extreme,MISC,,,de,1.1
+Buslinien,Buslinien,MISC,,,de,1.1
+DWD-Meteorologin,DWD-Meteorologin,MISC,,,de,1.1
+Gefahr für Leib und Leben,Gefahr für Leib und Leben,MISC,,,de,1.1
 Gewitterfront,Gewitterfront,MISC,0.0,0.0,de,1.0
+Die Brücke,Die Brücke,MISC,,,de,1.0
+Was…,Was…,MISC,,,de,1.0
+RiskLab,RiskLab,MISC,,,de,1.0
+…,…,MISC,0.0,0.0,de,1.0
+Rekord-Trockenheit,Rekord-Trockenheit,MISC,,,de,1.0
+West-Ost-Gefälle,West-Ost-Gefälle,MISC,,,de,1.0
+Astrid-Lindgren-Gedächtnispreis,Astrid-Lindgren-Gedächtnispreis,MISC,,,de,1.0
+kanadische,kanadische,MISC,,,de,1.0
+Herausforderu…,Herausforderu…,MISC,,,de,1.0
+Mitten im Frühling,Mitten im Frühling,MISC,,,de,1.0
+Extremwetterereignisse wie Dürren,Extremwetterereignisse wie Dürren,MISC,,,de,1.0
+Videos,Videos,MISC,,,de,1.0
+Sahara-Staub,Sahara-Staub,MISC,,,de,1.0
+Deutschland v,Deutschland v,MISC,,,de,1.0
+Saharastaub,Saharastaub,MISC,0.0,0.0,de,1.0
+Hundert…,Hundert…,MISC,,,de,1.0
+Messungen im Jahr 1858,Messungen im Jahr 1858,MISC,,,de,1.0
+Gefahr von Waldbränden,Gefahr von Waldbränden,MISC,,,de,1.0
+Gefahrenindex…,Gefahrenindex…,MISC,,,de,1.0
+Morg…,Morg…,MISC,,,de,1.0
+Der Rohrbacher Fischerei-Revierobmann,Der Rohrbacher Fischerei-Revierobmann,MISC,,,de,1.0
+02.04.2026,02.04.2026,MISC,,,de,1.0
+Starke Regenfälle,Starke Regenfälle,MISC,,,de,1.0
+SMS,SMS,MISC,,,de,1.0
+Autobahnpolizei,Autobahnpolizei,MISC,,,de,1.0
+Erwärmung global,Erwärmung global,MISC,,,de,1.0
+Rekordtrockenheit,Rekordtrockenheit,MISC,,,de,1.0
+Wonnemonat Mai,Wonnemonat Mai,MISC,,,de,1.0
+Grand Prix am Sonntag,Grand Prix am Sonntag,MISC,,,de,1.0
 Temperatursturz im Anmarsch,Temperatursturz im Anmarsch,MISC,,,de,1.0
 ge…,ge…,MISC,,,de,1.0
+Extremwetter-Ereignisse,Extremwetter-Ereignisse,MISC,,,de,1.0
 burgenländische,burgenländische,MISC,,,de,1.0
-Unwetter-Folgen“,Unwetter-Folgen“,MISC,,,de,1.0
-Jahr Millionen-Schäden,Jahr Millionen-Schäden,MISC,,,de,1.0
-Que…,Que…,MISC,,,de,1.0
-WetterKnall,WetterKnall,MISC,,,de,1.0
+Ibiza Medieval,Ibiza Medieval,MISC,,,de,1.0
+England-Kracher,England-Kracher,MISC,,,de,1.0
+Formel-1-Rennen,Formel-1-Rennen,MISC,,,de,1.0
+Flutsaison“,Flutsaison“,MISC,,,de,1.0
+Das Jahr 2026,Das Jahr 2026,MISC,,,de,1.0
+NRW-Kommune,NRW-Kommune,MISC,,,de,1.0
 Hitze,Hitze,MISC,0.0,0.0,de,1.0
-Atempause gesorg…,Atempause gesorg…,MISC,,,de,1.0
 Gottes L…,Gottes L…,MISC,,,de,1.0
-Dienstagnachmittag die Gefahr von Schauern und Gewittern,Dienstagnachmittag die Gefahr von Schauern und Gewittern,MISC,,,de,1.0
+Spezial-Wagen,Spezial-Wagen,MISC,,,de,1.0
 Gottes Liebe,Gottes Liebe,MISC,,,de,1.0
-Familien-Ausflug,Familien-Ausflug,MISC,,,de,1.0
-Nordrhein-We…,Nordrhein-We…,MISC,,,de,1.0
-Rekordtrockenheit,Rekordtrockenheit,MISC,,,de,1.0
-Deutschland v,Deutschland v,MISC,,,de,1.0
 TTS-Player überspringenArtikel weiterlesenDie,TTS-Player überspringenArtikel weiterlesenDie,MISC,,,de,1.0
 Starkregen im Anmarsch,Starkregen im Anmarsch,MISC,,,de,1.0
-Joshua“,Joshua“,MISC,,,de,1.0
 F…,F…,MISC,0.0,0.0,de,1.0
-Rekord-Trockenheit,Rekord-Trockenheit,MISC,,,de,1.0
+Que…,Que…,MISC,,,de,1.0
+WetterKnall,WetterKnall,MISC,,,de,1.0
+Dienstagnachmittag die Gefahr von Schauern und Gewittern,Dienstagnachmittag die Gefahr von Schauern und Gewittern,MISC,,,de,1.0
 Wonnemonat,Wonnemonat,MISC,,,de,1.0
-deutsche Literaten,deutsche Literaten,MISC,,,de,1.0
-weiterlesenSorglos-Wetter,weiterlesenSorglos-Wetter,MISC,,,de,1.0
-Jahrhundertflut,Jahrhundertflut,MISC,,,de,1.0
-Jahrhundertf…,Jahrhundertf…,MISC,,,de,1.0
-Tag des Jahres,Tag des Jahres,MISC,,,de,1.0
-Erste Hitzewelle,Erste Hitzewelle,MISC,,,de,1.0
-Blitzeinschläge und Sturm,Blitzeinschläge und Sturm,MISC,,,de,1.0
-Temperaturen…,Temperaturen…,MISC,,,de,1.0
-Trotz Starkregens,Trotz Starkregens,MISC,,,de,1.0
-Erdrutsche un…,Erdrutsche un…,MISC,,,de,1.0
+Nordrhein-We…,Nordrhein-We…,MISC,,,de,1.0
+Der freundliche Frühling,Der freundliche Frühling,MISC,,,de,1.0
+E…,E…,MISC,,,de,1.0
+Jahr Millionen-Schäden,Jahr Millionen-Schäden,MISC,,,de,1.0
+WM-Geschichte,WM-Geschichte,MISC,,,de,1.0
+Auditori Caló de sOli 8,Auditori Caló de sOli 8,MISC,,,de,1.0
+Temperaturen u,Temperaturen u,MISC,,,de,1.0
 NINA,NINA,MISC,,,de,1.0
+Rekordhitze,Rekordhitze,MISC,-0.3035714285714286,0.0,de,1.0
+Rekord-Hitzewelle,Rekord-Hitzewelle,MISC,,,de,1.0
 JWST,JWST,MISC,,,de,1.0
 Unwet…,Unwet…,MISC,,,de,1.0
-Baden-Württemberg,Baden-Württemberg,MISC,-0.027999999999999994,0.039999999999999994,de,1.0
+Baden-Württemberg,Baden-Württemberg,MISC,-0.026119402985074622,0.03731343283582089,de,1.0
 picture alliance/Eibner-Pressefoto/Dimitri Drofit,picture alliance/Eibner-Pressefoto/Dimitri Drofit,MISC,,,de,1.0
+weiterlesenSorglos-Wetter,weiterlesenSorglos-Wetter,MISC,,,de,1.0
 Unwetter-Sicherheit,Unwetter-Sicherheit,MISC,,,de,1.0
+Trotz Starkregens,Trotz Starkregens,MISC,,,de,1.0
 italienische,italienische,MISC,,,de,1.0
 Un…,Un…,MISC,0.0,0.0,de,1.0
 Erste Hitzewelle des Jahres,Erste Hitzewelle des Jahres,MISC,,,de,1.0
 Woc…,Woc…,MISC,,,de,1.0
 gefröstelt,gefröstelt,MISC,,,de,1.0
-Hitze“,Hitze“,MISC,,,de,1.0
-Alice“,Alice“,MISC,,,de,1.0
-Tag des kalendarischen Sommeranfangs,Tag des kalendarischen Sommeranfangs,MISC,,,de,1.0
-v… Liebe Leser,v… Liebe Leser,MISC,,,de,1.0
-Rekordhitze,Rekordhitze,MISC,,,de,1.0
-Wetterprognose“,Wetterprognose“,MISC,,,de,1.0
-Langeweile,Langeweile,MISC,,,de,1.0
-Die Hitzewelle,Die Hitzewelle,MISC,,,de,1.0
-Vo…,Vo…,MISC,,,de,1.0
-WM-Geschichte,WM-Geschichte,MISC,,,de,1.0
-MagentaTV23.06.2026,MagentaTV23.06.2026,MISC,,,de,1.0
-Regen-Chaos,Regen-Chaos,MISC,,,de,1.0
-jedes Jahr …,jedes Jahr …,MISC,,,de,1.0
-WM-Spiele,WM-Spiele,MISC,,,de,1.0
-Tornado-Alarm,Tornado-Alarm,MISC,,,de,1.0
-Erdrutsche a,Erdrutsche a,MISC,,,de,1.0
-Regen“,Regen“,MISC,,,de,1.0
-Nacht he…,Nacht he…,MISC,,,de,1.0
-Betrof…,Betrof…,MISC,,,de,1.0
-Mittag in Berlin,Mittag in Berlin,MISC,,,de,1.0
 Urs…,Urs…,MISC,,,de,1.0
 Unfallermittler,Unfallermittler,MISC,,,de,1.0
-Wokandapix,Wokandapix,MISC,,,de,1.0
-Unwetterlage des Jahres,Unwetterlage des Jahres,MISC,,,de,1.0
-Starkregen und Sturm im Anmarsch,Starkregen und Sturm im Anmarsch,MISC,,,de,1.0
-Gewitter un,Gewitter un,MISC,,,de,1.0
-Schwere Gewitter“,Schwere Gewitter“,MISC,,,de,1.0
-Hundert…,Hundert…,MISC,,,de,1.0
-Gewitter und Starkregen,Gewitter und Starkregen,MISC,,,de,1.0
-Urlaubswetter,Urlaubswetter,MISC,,,de,1.0
-Sturmtief,Sturmtief,MISC,0.0,0.0,de,1.0
-Tagen st…,Tagen st…,MISC,,,de,1.0
-Stürmisches Wetter“,Stürmisches Wetter“,MISC,,,de,1.0
-Temperaturen u,Temperaturen u,MISC,,,de,1.0
-Wetteraussichten“,Wetteraussichten“,MISC,,,de,1.0
-Wetter-Aussichten,Wetter-Aussichten,MISC,,,de,1.0
-Sturm und Schnee,Sturm und Schnee,MISC,,,de,1.0
-Die Sturzflut,Die Sturzflut,MISC,,,de,1.0
-Zehn Jahre nach der Flut,Zehn Jahre nach der Flut,MISC,,,de,1.0
-Waymo-Robotaxis,Waymo-Robotaxis,MISC,,,de,1.0
-Heftiges Gewitter und Starkregen,Heftiges Gewitter und Starkregen,MISC,,,de,1.0
-Kräftiger Wind,Kräftiger Wind,MISC,,,de,1.0
 WM,WM,MISC,,,de,1.0
-Blau-grüne Infrastruktur“,Blau-grüne Infrastruktur“,MISC,,,de,1.0
+Wochenbeginn,Wochenbeginn,MISC,,,de,1.0
+Wetterprognose“,Wetterprognose“,MISC,,,de,1.0
+Mittwoch gibts,Mittwoch gibts,MISC,,,de,1.0
+Google,Google,MISC,,,de,1.0
+Rheinla…,Rheinla…,MISC,,,de,1.0
+Regen-Chaos,Regen-Chaos,MISC,,,de,1.0
+WM-Spiele,WM-Spiele,MISC,,,de,1.0
+Tornado-Alarm,Tornado-Alarm,MISC,,,de,1.0
+Vo…,Vo…,MISC,,,de,1.0
+Deutschland ächzt unter der Hitze,Deutschland ächzt unter der Hitze,MISC,,,de,1.0
+Historische Hitzewelle“,Historische Hitzewelle“,MISC,,,de,1.0
+Regen“,Regen“,MISC,,,de,1.0
+Mittag in Berlin,Mittag in Berlin,MISC,,,de,1.0
+Temperaturen…,Temperaturen…,MISC,,,de,1.0
+jedes Jahr …,jedes Jahr …,MISC,,,de,1.0
+Tag des kalendarischen Sommeranfangs,Tag des kalendarischen Sommeranfangs,MISC,,,de,1.0
+Hitzewelle am Sonntag,Hitzewelle am Sonntag,MISC,,,de,1.0
+Hitze“,Hitze“,MISC,,,de,1.0
+Tag des Jahres,Tag des Jahres,MISC,,,de,1.0
+Erste Hitzewelle,Erste Hitzewelle,MISC,,,de,1.0
+Blitzeinschläge und Sturm,Blitzeinschläge und Sturm,MISC,,,de,1.0
+Langeweile,Langeweile,MISC,,,de,1.0
 Blitzeinschläge nah des Stadions,Blitzeinschläge nah des Stadions,MISC,,,de,1.0
 Das Wetter in Berlin,Das Wetter in Berlin,MISC,,,de,1.0
 Deutschland-Spiel,Deutschland-Spiel,MISC,,,de,1.0
+Jahrhundertflut,Jahrhundertflut,MISC,,,de,1.0
+Unwetter-Folgen“,Unwetter-Folgen“,MISC,,,de,1.0
+Wetter-Aussichten,Wetter-Aussichten,MISC,,,de,1.0
+Star…,Star…,MISC,,,de,1.0
+Die Sturzflut,Die Sturzflut,MISC,,,de,1.0
+MagentaTV23.06.2026,MagentaTV23.06.2026,MISC,,,de,1.0
+Zehn Jahre nach der Flut,Zehn Jahre nach der Flut,MISC,,,de,1.0
+Waymo-Robotaxis,Waymo-Robotaxis,MISC,,,de,1.0
+Jahrhundertf…,Jahrhundertf…,MISC,,,de,1.0
+Atempause gesorg…,Atempause gesorg…,MISC,,,de,1.0
 Starkregens,Starkregens,MISC,,,de,1.0
+deutsche Literaten,deutsche Literaten,MISC,,,de,1.0
+A24,A24,MISC,0.25,0.0,de,1.0
+X/visegrad24,X/visegrad24,MISC,,,de,1.0
+Donnersta…,Donnersta…,MISC,,,de,1.0
+Ze…,Ze…,MISC,,,de,1.0
+niederösterreichischen,niederösterreichischen,MISC,,,de,1.0
+Sä…,Sä…,MISC,,,de,1.0
+Proteste“,Proteste“,MISC,,,de,1.0
+Wetteraussichten“,Wetteraussichten“,MISC,,,de,1.0
+Heftiges Gewitter und Starkregen,Heftiges Gewitter und Starkregen,MISC,,,de,1.0
+Unwetterlage des Jahres,Unwetterlage des Jahres,MISC,,,de,1.0
+Unwetter-Chaos,Unwetter-Chaos,MISC,,,de,1.0
 Rostock“,Rostock“,MISC,,,de,1.0
 Unfälle,Unfälle,MISC,0.0,0.0,de,1.0
 Risiko,Risiko,MISC,0.0,0.0,de,1.0
+Nacht he…,Nacht he…,MISC,,,de,1.0
+Blau-grüne Infrastruktur“,Blau-grüne Infrastruktur“,MISC,,,de,1.0
 Ein Unwetter mit Starkregen,Ein Unwetter mit Starkregen,MISC,,,de,1.0
-Unwetter-Chaos,Unwetter-Chaos,MISC,,,de,1.0
 Schwerin/Ludwigslust,Schwerin/Ludwigslust,MISC,,,de,1.0
-Naturkatastrophe“,Naturkatastrophe“,MISC,,,de,1.0
+Th…,Th…,MISC,,,de,1.0
 Tornado-Warnung,Tornado-Warnung,MISC,,,de,1.0
-Regenfällen in Mexiko,Regenfällen in Mexiko,MISC,,,de,1.0
-JavaScript,JavaScript,MISC,,,de,1.0
 Elementarschutz,Elementarschutz,MISC,0.7,0.0,de,1.0
-Browser,Browser,MISC,,,de,1.0
+Stürmisches Wetter“,Stürmisches Wetter“,MISC,,,de,1.0
+Wokandapix,Wokandapix,MISC,,,de,1.0
+Starkregen und Sturm im Anmarsch,Starkregen und Sturm im Anmarsch,MISC,,,de,1.0
+Gewitter un,Gewitter un,MISC,,,de,1.0
 Sonnenschein,Sonnenschein,MISC,0.0,0.0,de,1.0
-Umweltministerium am Samstag,Umweltministerium am Samstag,MISC,,,de,1.0
-02.04.2026,02.04.2026,MISC,,,de,1.0
-Starke Regenfälle,Starke Regenfälle,MISC,,,de,1.0
-kanarischen,kanarischen,MISC,,,de,1.0
-Bundesliga-Auftakt,Bundesliga-Auftakt,MISC,,,de,1.0
-Entwarnung für Berlin,Entwarnung für Berlin,MISC,,,de,1.0
-Unwetterwarnung für Küste,Unwetterwarnung für Küste,MISC,,,de,1.0
-Senat,Senat,MISC,,,de,1.0
-Sam…,Sam…,MISC,,,de,1.0
-Ein Supertaifun,Ein Supertaifun,MISC,,,de,1.0
-Klimarisiko,Klimarisiko,MISC,,,de,1.0
-Der Dauerregen,Der Dauerregen,MISC,,,de,1.0
-Vancouver,Vancouver,MISC,0.0,0.0,de,1.0
-Hambur…,Hambur…,MISC,,,de,1.0
-Erzgebirge“,Erzgebirge“,MISC,,,de,1.0
-Euro we…,Euro we…,MISC,,,de,1.0
-Glückssache,Glückssache,MISC,,,de,1.0
-Hauptreisezeit,Hauptreisezeit,MISC,,,de,1.0
-Überschw…,Überschw…,MISC,,,de,1.0
-Anfang des Jahres,Anfang des Jahres,MISC,,,de,1.0
-Drei Tote,Drei Tote,MISC,,,de,1.0
-Schöner Tag,Schöner Tag,MISC,,,de,1.0
-"Link2
-","Link2
-",MISC,,,de,1.0
-Gunda“,Gunda“,MISC,,,de,1.0
-Vier Tote,Vier Tote,MISC,,,de,1.0
-TAP gestern,TAP gestern,MISC,,,de,1.0
-Riesen-Regenchaos,Riesen-Regenchaos,MISC,,,de,1.0
-Glatteis“,Glatteis“,MISC,,,de,1.0
-Wegen Glatteis-Warnung,Wegen Glatteis-Warnung,MISC,,,de,1.0
-DWD-Meteorologin Sab…,DWD-Meteorologin Sab…,MISC,,,de,1.0
-Wetter-Geschehen,Wetter-Geschehen,MISC,,,de,1.0
-Bildungsministerium,Bildungsministerium,MISC,,,de,1.0
-Sturm reißt die Menschen ins Meer,Sturm reißt die Menschen ins Meer,MISC,,,de,1.0
-Glatteis-Gefahr“,Glatteis-Gefahr“,MISC,,,de,1.0
-Uh... Alarmstufe Orange,Uh... Alarmstufe Orange,MISC,,,de,1.0
-Die Schulen in Mecklenburg-Vorpommern,Die Schulen in Mecklenburg-Vorpommern,MISC,,,de,1.0
-NRW-Schulministerin,NRW-Schulministerin,MISC,,,de,1.0
-Gefahr für Leib und Leben auf den Straßen,Gefahr für Leib und Leben auf den Straßen,MISC,,,de,1.0
-Wegen der Gefahr,Wegen der Gefahr,MISC,,,de,1.0
-Glatteisgefahr,Glatteisgefahr,MISC,0.0,0.0,de,1.0
-Starke Regenfälle und Schnee,Starke Regenfälle und Schnee,MISC,,,de,1.0
-kalifornischen,kalifornischen,MISC,,,de,1.0
-US-W…,US-W…,MISC,,,de,1.0
-Alarm an der US-Westküste,Alarm an der US-Westküste,MISC,,,de,1.0
+Gewitter und Starkregen,Gewitter und Starkregen,MISC,,,de,1.0
+Urlaubswetter,Urlaubswetter,MISC,,,de,1.0
+Schwere Gewitter“,Schwere Gewitter“,MISC,,,de,1.0
+Todesfall,Todesfall,MISC,,,de,1.0
+Weather.com ha…,Weather.com ha…,MISC,,,de,1.0
+Möglicher Tornado,Möglicher Tornado,MISC,,,de,1.0
 Todesopfer in Asien,Todesopfer in Asien,MISC,,,de,1.0
 Erdrutschen u…,Erdrutschen u…,MISC,,,de,1.0
 Hochphas…,Hochphas…,MISC,,,de,1.0
@@ -340,113 +291,174 @@ dpa,dpa,MISC,,,de,1.0
 VermissteMehr,VermissteMehr,MISC,,,de,1.0
 Men…,Men…,MISC,,,de,1.0
 30.11.2025,30.11.2025,MISC,,,de,1.0
-Schlimmes Unwetter und Erdrutsche,Schlimmes Unwetter und Erdrutsche,MISC,,,de,1.0
-Der zweite Advent,Der zweite Advent,MISC,,,de,1.0
 Au…,Au…,MISC,,,de,1.0
 Flutkatastrophen,Flutkatastrophen,MISC,,,de,1.0
 DOK-FILM,DOK-FILM,MISC,,,de,1.0
 Die sintflutartige Regenfälle,Die sintflutartige Regenfälle,MISC,,,de,1.0
-Vietnam,Vietnam,MISC,-0.023419203747072605,0.0,de,1.0
-Tag davor turnt der spanische,Tag davor turnt der spanische,MISC,,,de,1.0
+Vietnam,Vietnam,MISC,-0.023474178403755874,0.0,de,1.0
+Ka…,Ka…,MISC,,,de,1.0
+Umweltministerium am Samstag,Umweltministerium am Samstag,MISC,,,de,1.0
 Na…,Na…,MISC,,,de,1.0
+Tag davor turnt der spanische,Tag davor turnt der spanische,MISC,,,de,1.0
+Schlimmes Unwetter und Erdrutsche,Schlimmes Unwetter und Erdrutsche,MISC,,,de,1.0
+Alarm an der US-Westküste,Alarm an der US-Westküste,MISC,,,de,1.0
 Sturm bedrohte am …,Sturm bedrohte am …,MISC,,,de,1.0
+Der Himmel über Bayern,Der Himmel über Bayern,MISC,,,de,1.0
+Der zweite Advent,Der zweite Advent,MISC,,,de,1.0
 Dauerregen“,Dauerregen“,MISC,,,de,1.0
-französische,französische,MISC,,,de,1.0
-Möglicher Tornado,Möglicher Tornado,MISC,,,de,1.0
-Kalmaegi“,Kalmaegi“,MISC,,,de,1.0
-Not…,Not…,MISC,,,de,1.0
-picture allian…,picture allian…,MISC,,,de,1.0
 Krieg,Krieg,MISC,,,de,1.0
+Glückssache,Glückssache,MISC,,,de,1.0
+Hauptreisezeit,Hauptreisezeit,MISC,,,de,1.0
+Überschw…,Überschw…,MISC,,,de,1.0
+Anfang des Jahres,Anfang des Jahres,MISC,,,de,1.0
+Starke Regenfälle und Schnee,Starke Regenfälle und Schnee,MISC,,,de,1.0
+kalifornischen,kalifornischen,MISC,,,de,1.0
+US-W…,US-W…,MISC,,,de,1.0
+französische,französische,MISC,,,de,1.0
 Wintersturm sucht zerstörtes Gaza,Wintersturm sucht zerstörtes Gaza,MISC,,,de,1.0
+Fr…,Fr…,MISC,,,de,1.0
 kanadischen,kanadischen,MISC,,,de,1.0
 demokratische,demokratische,MISC,,,de,1.0
 mi…,mi…,MISC,,,de,1.0
-portugiesischen,portugiesischen,MISC,,,de,1.0
 Krieg in Nahost,Krieg in Nahost,MISC,,,de,1.0
 palästinensischen,palästinensischen,MISC,,,de,1.0
 Klimawandel-Stresstest,Klimawandel-Stresstest,MISC,,,de,1.0
 Sonne“,Sonne“,MISC,,,de,1.0
 Wetterbericht“,Wetterbericht“,MISC,,,de,1.0
-Fr…,Fr…,MISC,,,de,1.0
-Der Himmel über Bayern,Der Himmel über Bayern,MISC,,,de,1.0
-Punk,Punk,MISC,,,de,1.0
-scheiße,scheiße,MISC,,,de,1.0
-Deutsche Laichen,Deutsche Laichen,MISC,,,de,1.0
-Pedro“,Pedro“,MISC,,,de,1.0
-peruanischen,peruanischen,MISC,,,de,1.0
-Gefahr für Häuser,Gefahr für Häuser,MISC,,,de,1.0
-Glatte Wege,Glatte Wege,MISC,,,de,1.0
-Unser Leser,Unser Leser,MISC,,,de,1.0
-Hochwasser“,Hochwasser“,MISC,,,de,1.0
+portugiesischen,portugiesischen,MISC,,,de,1.0
+picture allian…,picture allian…,MISC,,,de,1.0
+Hä…,Hä…,MISC,,,de,1.0
+Not…,Not…,MISC,,,de,1.0
+Familien-Ausflug,Familien-Ausflug,MISC,,,de,1.0
+Joshua“,Joshua“,MISC,,,de,1.0
+näc…,näc…,MISC,,,de,1.0
+Sturm,Sturm,MISC,0.0,0.0,de,1.0
+Ein Herbsts…,Ein Herbsts…,MISC,,,de,1.0
+Sturm und Schnee,Sturm und Schnee,MISC,,,de,1.0
+Tagen st…,Tagen st…,MISC,,,de,1.0
+Sturmtief,Sturmtief,MISC,0.0,0.0,de,1.0
+Kräftiger Wind,Kräftiger Wind,MISC,,,de,1.0
+Browser,Browser,MISC,,,de,1.0
+JavaScript,JavaScript,MISC,,,de,1.0
+Regenfällen in Mexiko,Regenfällen in Mexiko,MISC,,,de,1.0
+Naturkatastrophe“,Naturkatastrophe“,MISC,,,de,1.0
+Erdrutsche un…,Erdrutsche un…,MISC,,,de,1.0
+Alice“,Alice“,MISC,,,de,1.0
+Betrof…,Betrof…,MISC,,,de,1.0
+Erdrutsche a,Erdrutsche a,MISC,,,de,1.0
+v… Liebe Leser,v… Liebe Leser,MISC,,,de,1.0
+goldenen Herbst,goldenen Herbst,MISC,,,de,1.0
+Sturm auf Korsika,Sturm auf Korsika,MISC,,,de,1.0
+Tragödie auf Korsika,Tragödie auf Korsika,MISC,,,de,1.0
+kroatischen,kroatischen,MISC,,,de,1.0
+Riesen-Regenchaos,Riesen-Regenchaos,MISC,,,de,1.0
+Kalmaegi“,Kalmaegi“,MISC,,,de,1.0
+Ein Supertaifun,Ein Supertaifun,MISC,,,de,1.0
+Sam…,Sam…,MISC,,,de,1.0
+Unwetterwarnung für Küste,Unwetterwarnung für Küste,MISC,,,de,1.0
+kanarischen,kanarischen,MISC,,,de,1.0
+Drei Tote,Drei Tote,MISC,,,de,1.0
+Sturm reißt die Menschen ins Meer,Sturm reißt die Menschen ins Meer,MISC,,,de,1.0
+Uh... Alarmstufe Orange,Uh... Alarmstufe Orange,MISC,,,de,1.0
+IGSM,IGSM,MISC,,,de,1.0
+Das stürmische Wetter,Das stürmische Wetter,MISC,,,de,1.0
+Katastrophenschutzbehörde…,Katastrophenschutzbehörde…,MISC,,,de,1.0
+Todesopfer auf mindestens 40,Todesopfer auf mindestens 40,MISC,,,de,1.0
+russischen Angriffskrieg,russischen Angriffskrieg,MISC,,,de,1.0
 Ukraine-Krieg,Ukraine-Krieg,MISC,,,de,1.0
-Al…,Al…,MISC,0.0,0.0,de,1.0
-Die Ahrtal-Katastrophe,Die Ahrtal-Katastrophe,MISC,,,de,1.0
-Todesopfer auf 54,Todesopfer auf 54,MISC,,,de,1.0
-Ver…,Ver…,MISC,,,de,1.0
-TTS-Player überspringenArtikel weiterlesenMelendugno,TTS-Player überspringenArtikel weiterlesenMelendugno,MISC,,,de,1.0
-Fastnachtswetter“,Fastnachtswetter“,MISC,,,de,1.0
-Dauerregen dr,Dauerregen dr,MISC,,,de,1.0
-Frühlingsgefühlen,Frühlingsgefühlen,MISC,,,de,1.0
+Samstag…,Samstag…,MISC,,,de,1.0
+Unwetterkatastrophe,Unwetterkatastrophe,MISC,0.0,0.0,de,1.0
+Hurrikan,Hurrikan,MISC,,,de,1.0
+Wyk auf Föhr,Wyk auf Föhr,MISC,,,de,1.0
+Euro we…,Euro we…,MISC,,,de,1.0
+Erzgebirge“,Erzgebirge“,MISC,,,de,1.0
+Hambur…,Hambur…,MISC,,,de,1.0
+Vancouver,Vancouver,MISC,0.0,0.0,de,1.0
 Wetterlage,Wetterlage,MISC,,,de,1.0
 weiterlesenMünchen/Karlsruhe,weiterlesenMünchen/Karlsruhe,MISC,,,de,1.0
-peruanische,peruanische,MISC,,,de,1.0
-Grünes Wissen to go,Grünes Wissen to go,MISC,,,de,1.0
-ka…,ka…,MISC,,,de,1.0
-Hä…,Hä…,MISC,,,de,1.0
-SMS,SMS,MISC,,,de,1.0
-Autobahnpolizei,Autobahnpolizei,MISC,,,de,1.0
-kroatischen,kroatischen,MISC,,,de,1.0
-Das stürmische Wetter,Das stürmische Wetter,MISC,,,de,1.0
-Wyk auf Föhr,Wyk auf Föhr,MISC,,,de,1.0
-Hurrikan,Hurrikan,MISC,,,de,1.0
-Weather.com ha…,Weather.com ha…,MISC,,,de,1.0
-Ahrtal-Flut“,Ahrtal-Flut“,MISC,,,de,1.0
-Der Fotosynthese,Der Fotosynthese,MISC,,,de,1.0
-Unwetterkatastrophe,Unwetterkatastrophe,MISC,0.0,0.0,de,1.0
-Teneriffa-News,Teneriffa-News,MISC,,,de,1.0
-jetz…,jetz…,MISC,,,de,1.0
-Ka…,Ka…,MISC,,,de,1.0
-Samstag…,Samstag…,MISC,,,de,1.0
-Nie…,Nie…,MISC,,,de,1.0
-Widerstands…,Widerstands…,MISC,,,de,1.0
 Gefahr für Leib und Leben“,Gefahr für Leib und Leben“,MISC,,,de,1.0
+ka…,ka…,MISC,,,de,1.0
 Prognose“,Prognose“,MISC,,,de,1.0
-Regenfällen,Regenfällen,MISC,,,de,1.0
-L…,L…,MISC,,,de,1.0
-Leonardo,Leonardo,MISC,-0.05185185185185184,0.0,de,1.0
-BVG,BVG,MISC,0.0,0.0,de,1.0
-Tram-Ausfällen,Tram-Ausfällen,MISC,,,de,1.0
-BILD03.02.2026,BILD03.02.2026,MISC,,,de,1.0
-BILD-Busch-Experte John Puthenpurackal,BILD-Busch-Experte John Puthenpurackal,MISC,,,de,1.0
-Mi…,Mi…,MISC,,,de,1.0
-portugiesische,portugiesische,MISC,,,de,1.0
-Kristin“,Kristin“,MISC,,,de,1.0
-04.02.2026,04.02.2026,MISC,,,de,1.0
-Tag 5,Tag 5,MISC,,,de,1.0
-Alles über Tag 5 i… Taut,Alles über Tag 5 i… Taut,MISC,,,de,1.0
-Dschungelcamp,Dschungelcamp,MISC,,,de,1.0
-Joseph“,Joseph“,MISC,,,de,1.0
-Bolsonaro-Demo,Bolsonaro-Demo,MISC,,,de,1.0
-Gefahr auf den Straßen,Gefahr auf den Straßen,MISC,,,de,1.0
-T…,T…,MISC,,,de,1.0
-Leonardo“,Leonardo“,MISC,,,de,1.0
-Süde…,Süde…,MISC,,,de,1.0
-russischen Angriffskrieg,russischen Angriffskrieg,MISC,,,de,1.0
-Todesfall,Todesfall,MISC,,,de,1.0
-Todesopfer auf mindestens 40,Todesopfer auf mindestens 40,MISC,,,de,1.0
 deutschsprachige,deutschsprachige,MISC,,,de,1.0
 Erdrutsche is,Erdrutsche is,MISC,,,de,1.0
 08.02.2026,08.02.2026,MISC,,,de,1.0
 Atempause vom Regen,Atempause vom Regen,MISC,,,de,1.0
 Südeuropa“,Südeuropa“,MISC,,,de,1.0
 AFP/Cristina Quicler,AFP/Cristina Quicler,MISC,,,de,1.0
-Katastrophenschutzbehörde…,Katastrophenschutzbehörde…,MISC,,,de,1.0
-Beh…,Beh…,MISC,,,de,1.0
 Gefahr in Spanien,Gefahr in Spanien,MISC,,,de,1.0
 Glatteis-Risiko,Glatteis-Risiko,MISC,-0.7,0.0,de,1.0
-IGSM,IGSM,MISC,,,de,1.0
-Meteorologen,Meteorologen,MISC,0.10714285714285715,0.0,de,1.0
+Kälte“,Kälte“,MISC,,,de,1.0
+Meteorologen,Meteorologen,MISC,0.06521739130434782,0.0,de,1.0
 05.02.2026,05.02.2026,MISC,,,de,1.0
 AFP/Patricia de Melo Moreira,AFP/Patricia de Melo Moreira,MISC,,,de,1.0
 Starkregen und Sturm,Starkregen und Sturm,MISC,,,de,1.0
-Kälte“,Kälte“,MISC,,,de,1.0
+Beh…,Beh…,MISC,,,de,1.0
+Frühlingsgefühlen,Frühlingsgefühlen,MISC,,,de,1.0
+Dauerregen dr,Dauerregen dr,MISC,,,de,1.0
+Fastnachtswetter“,Fastnachtswetter“,MISC,,,de,1.0
+peruanische,peruanische,MISC,,,de,1.0
+Ahrtal-Flut“,Ahrtal-Flut“,MISC,,,de,1.0
+Teneriffa-News,Teneriffa-News,MISC,,,de,1.0
+jetz…,jetz…,MISC,,,de,1.0
+Nie…,Nie…,MISC,,,de,1.0
+Widerstands…,Widerstands…,MISC,,,de,1.0
+Der Fotosynthese,Der Fotosynthese,MISC,,,de,1.0
+Grünes Wissen to go,Grünes Wissen to go,MISC,,,de,1.0
+Todesopfer auf 54,Todesopfer auf 54,MISC,,,de,1.0
+peruanischen,peruanischen,MISC,,,de,1.0
+TTS-Player überspringenArtikel weiterlesenMelendugno,TTS-Player überspringenArtikel weiterlesenMelendugno,MISC,,,de,1.0
+Gefahr für Häuser,Gefahr für Häuser,MISC,,,de,1.0
+Glatte Wege,Glatte Wege,MISC,,,de,1.0
+Unser Leser,Unser Leser,MISC,,,de,1.0
+Hochwasser“,Hochwasser“,MISC,,,de,1.0
+Al…,Al…,MISC,0.0,0.0,de,1.0
+Pedro“,Pedro“,MISC,,,de,1.0
+Die Ahrtal-Katastrophe,Die Ahrtal-Katastrophe,MISC,,,de,1.0
+Ver…,Ver…,MISC,,,de,1.0
+Süde…,Süde…,MISC,,,de,1.0
+04.02.2026,04.02.2026,MISC,,,de,1.0
+Leonardo“,Leonardo“,MISC,,,de,1.0
+Gefahr für Leib und Leben auf den Straßen,Gefahr für Leib und Leben auf den Straßen,MISC,,,de,1.0
+Wegen Glatteis-Warnung,Wegen Glatteis-Warnung,MISC,,,de,1.0
+DWD-Meteorologin Sab…,DWD-Meteorologin Sab…,MISC,,,de,1.0
+Wetter-Geschehen,Wetter-Geschehen,MISC,,,de,1.0
+Gunda“,Gunda“,MISC,,,de,1.0
+Bildungsministerium,Bildungsministerium,MISC,,,de,1.0
+Glatteis-Gefahr“,Glatteis-Gefahr“,MISC,,,de,1.0
+Die Schulen in Mecklenburg-Vorpommern,Die Schulen in Mecklenburg-Vorpommern,MISC,,,de,1.0
+NRW-Schulministerin,NRW-Schulministerin,MISC,,,de,1.0
+Wegen der Gefahr,Wegen der Gefahr,MISC,,,de,1.0
+TAP gestern,TAP gestern,MISC,,,de,1.0
+Glatteisgefahr,Glatteisgefahr,MISC,0.0,0.0,de,1.0
+"Link2
+","Link2
+",MISC,,,de,1.0
+Schöner Tag,Schöner Tag,MISC,,,de,1.0
+Bundesliga-Auftakt,Bundesliga-Auftakt,MISC,,,de,1.0
+Entwarnung für Berlin,Entwarnung für Berlin,MISC,,,de,1.0
+Senat,Senat,MISC,,,de,1.0
+Klimarisiko,Klimarisiko,MISC,,,de,1.0
+Der Dauerregen,Der Dauerregen,MISC,,,de,1.0
+Glatteis“,Glatteis“,MISC,,,de,1.0
+Vier Tote,Vier Tote,MISC,,,de,1.0
+Leonardo,Leonardo,MISC,-0.05185185185185184,0.0,de,1.0
+Tag 5,Tag 5,MISC,,,de,1.0
+BVG,BVG,MISC,0.0,0.0,de,1.0
+Tram-Ausfällen,Tram-Ausfällen,MISC,,,de,1.0
+BILD03.02.2026,BILD03.02.2026,MISC,,,de,1.0
+BILD-Busch-Experte John Puthenpurackal,BILD-Busch-Experte John Puthenpurackal,MISC,,,de,1.0
+Mi…,Mi…,MISC,,,de,1.0
+portugiesische,portugiesische,MISC,,,de,1.0
+L…,L…,MISC,,,de,1.0
+Kristin“,Kristin“,MISC,,,de,1.0
+Alles über Tag 5 i… Taut,Alles über Tag 5 i… Taut,MISC,,,de,1.0
+Punk,Punk,MISC,,,de,1.0
+Dschungelcamp,Dschungelcamp,MISC,,,de,1.0
+Joseph“,Joseph“,MISC,,,de,1.0
+Bolsonaro-Demo,Bolsonaro-Demo,MISC,,,de,1.0
+Gefahr auf den Straßen,Gefahr auf den Straßen,MISC,,,de,1.0
+T…,T…,MISC,,,de,1.0
+Regenfällen,Regenfällen,MISC,,,de,1.0
+Deutsche Laichen,Deutsche Laichen,MISC,,,de,1.0
+scheiße,scheiße,MISC,,,de,1.0
+x.com04.07.2026,x.com04.07.2026,MISC,,,de,1.0
