@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Unwettergefahr',de,Mitigation,#679e2c,#61d01c,3,0.1309161675092996
 'Starkregen',de,Hazard,#4287f5,#638ed4,3,0.1306320172670894
+'Unwettergefahr',de,Mitigation,#679e2c,#61d01c,3,0.12032290647381375
 'Unwetterwarnung',de,Mitigation,#679e2c,#477515,3,0.1001389113874255
 'Unwetter Regen',de,Hazard,#a89216,#77731f,3,0.094090257431785
 'Kanalisation Regen',de,Impacts,#9e3215,#b55035,1,0.0869266645367061
