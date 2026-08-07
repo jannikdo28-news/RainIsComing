@@ -18,6 +18,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Regen Dachbegrünung',de,Mitigation,#679e2c,#61d01c,1,0.0040402097952017
 'Hochwasserwarnung Niederschlag',de,Mitigation,#a89216,#a89216,1,0.0023356685597128
 'Hangrutschung Niederschlag',de,Impacts,#679e2c,#679e2c,1,0.0012061136748777
-'Regenrückhalt',de,Mitigation,#9e3215,#f64118,1,0.0001172454329534
+'Regenrückhalt',de,Mitigation,#9e3215,#f64118,1,9.965861801039e-05
 'Starkniederschlag',de,Hazard,#9e3215,#9e3215,1,4.867869122715688e-05
-'Niederschlagstage',de,Hazard,#4277e5,#638ed4,1,3.9185920449758715e-05
+'Niederschlagstage',de,Hazard,#4277e5,#638ed4,1,3.918592044975872e-05
