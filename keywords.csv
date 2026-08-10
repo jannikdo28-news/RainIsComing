@@ -10,8 +10,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hochwasser Regen',de,Impacts,#4287f5,#022f78,2,0.0463061817629708
 'Erdrutsche Regen',de,Impacts,#9e3215,#802d16,1,0.0448647609024531
 'Extremwetter Regen',de,Hazard,#a89216,#c4b03b,1,0.0446250253160469
-'Hochwasser Starkregen',de,Hazard,#4287f5,#537ee4,2,0.0428995273254633
-'Regentage',de,Hazard,#6287e5,#638ed4,1,0.03343354222980417
+'Hochwasser Starkregen',de,Hazard,#4287f5,#537ee4,2,0.04126507822664381
+'Regentage',de,Hazard,#6287e5,#638ed4,1,0.0334335422298041
 'Überflutung Regen',de,Impacts,#4287f5,#315fa8,1,0.032639560168857
 'Pegelstände Dauerregen',de,Impacts,#a89216,#87830f,1,0.0246898818975384
 'Regenmassen',de,Hazard,#9e3215,#e64118,1,0.0166845960716919
