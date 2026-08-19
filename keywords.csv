@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Starkregen',de,Hazard,#4287f5,#638ed4,3,0.12172690267331648
+'Starkregen',de,Hazard,#4287f5,#638ed4,3,0.1217269026733164
 'Unwettergefahr',de,Mitigation,#679e2c,#61d01c,3,0.1205459951546687
 'Unwetter Regen',de,Hazard,#a89216,#77731f,3,0.0764686604795318
 'Dauerregen',de,Hazard,#3288e5,#638ed4,1,0.0759195218444819
@@ -19,5 +19,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hochwasserwarnung Niederschlag',de,Mitigation,#a89216,#a89216,1,0.0019853182757558
 'Hangrutschung Niederschlag',de,Impacts,#679e2c,#679e2c,1,0.001025196623646
 'Regenrückhalt',de,Mitigation,#9e3215,#f64118,1,8.47098253088315e-05
-'Starkniederschlag',de,Hazard,#9e3215,#9e3215,1,4.137688754308335e-05
+'Starkniederschlag',de,Hazard,#9e3215,#9e3215,1,3.517035441162085e-05
 'Niederschlagstage',de,Hazard,#4277e5,#638ed4,1,2.0455295386776867e-05
