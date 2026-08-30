@@ -14,7 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Überflutung Regen',de,Impacts,#4287f5,#315fa8,1,0.032639560168857
 'Regentage',de,Hazard,#6287e5,#638ed4,1,0.0244331391593783
 'Pegelstände Dauerregen',de,Impacts,#a89216,#87830f,1,0.0212864296129076
-'Regenmassen',de,Hazard,#9e3215,#e64118,1,0.005976382328908
+'Regenmassen',de,Hazard,#9e3215,#e64118,1,0.0052299399795718
 'Regen Dachbegrünung',de,Mitigation,#679e2c,#61d01c,1,0.0040402097952017
 'Hochwasserwarnung Niederschlag',de,Mitigation,#a89216,#a89216,1,0.0019853182757558
 'Hangrutschung Niederschlag',de,Impacts,#679e2c,#679e2c,1,0.001025196623646
