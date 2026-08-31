@@ -1,9 +1,9 @@
 ,phrase,label,sentiment,subjectivity,language,count
-DWD,DWD,ORG,-0.13421669370831021,0.07481521543176463,de,184.90000000000072
-Deutsche Wetterdienst,Deutsche Wetterdienst,ORG,-0.1638208364266265,0.045780747339767246,de,134.70000000000041
+DWD,DWD,ORG,-0.13292269237636076,0.07409391180146374,de,186.70000000000073
+Deutsche Wetterdienst,Deutsche Wetterdienst,ORG,-0.16166056166056111,0.04517704517704504,de,136.50000000000043
 Deutschen Wetterdienstes,Deutschen Wetterdienstes,ORG,-0.18195718654434254,0.015290519877675842,de,21.799999999999997
+TTS-Player,TTS-Player,ORG,0.14765100671140938,0.06711409395973153,de,14.900000000000004
 US-Wetterdienst,US-Wetterdienst,ORG,-0.28051643192488257,0.0,de,14.200000000000003
-TTS-Player,TTS-Player,ORG,0.0964285714285714,0.07142857142857141,de,14.000000000000004
 Deutschen Wetterdienst,Deutschen Wetterdienst,ORG,-0.11397058823529407,0.22058823529411759,de,13.600000000000003
 NWS,NWS,ORG,-0.04475308641975308,0.0,de,10.800000000000002
 GEO,GEO,ORG,1.1764705882352942,0.0,de,8.5
@@ -12,10 +12,10 @@ lby,lby,ORG,-0.3809523809523809,0.0,de,6.300000000000001
 MV,MV,ORG,-0.2719298245614034,0.0,de,5.700000000000001
 Der Deutsche Wetterdienst,Der Deutsche Wetterdienst,ORG,-0.45652173913043465,0.0,de,4.6000000000000005
 I Paper,I Paper,ORG,0.0,0.0,de,4.6
-GeoSphere Austria,GeoSphere Austria,ORG,0.0,0.0,de,3.6999999999999997
+GeoSphere Austria,GeoSphere Austria,ORG,0.0,0.0,de,4.6
+Geosphere Austria,Geosphere Austria,ORG,0.1891891891891892,0.0,de,3.6999999999999997
 GDV,GDV,ORG,0.0,0.30303030303030304,de,3.3
 Paraguay,Paraguay,ORG,0.0,0.0,de,2.8
-Geosphere Austria,Geosphere Austria,ORG,0.25,0.0,de,2.8
 DW…,DW…,ORG,0.0,0.0,de,2.8
 US-Medien,US-Medien,ORG,-0.7777777777777776,0.0,de,2.7
 lhe,lhe,ORG,-0.7115384615384616,0.0,de,2.6
@@ -91,8 +91,8 @@ Berlin …,Berlin …,ORG,0.0,0.0,de,1.0
 Sonnenstunden,Sonnenstunden,ORG,0.0,0.0,de,1.0
 Valencia,Valencia,ORG,0.0,0.0,de,1.0
 H…,H…,ORG,0.0,0.0,de,1.0
-Dernbacher Dreieck,Dernbacher Dreieck,ORG,0.0,0.0,de,1.0
 Starkregen…,Starkregen…,ORG,0.0,0.0,de,1.0
+Dernbacher Dreieck,Dernbacher Dreieck,ORG,0.0,0.0,de,1.0
 Südhälfte Brandenburgs …,Südhälfte Brandenburgs …,ORG,0.0,0.0,de,1.0
 Wintergetreide,Wintergetreide,ORG,0.0,0.0,de,1.0
 Mais,Mais,ORG,0.0,0.0,de,1.0
@@ -102,13 +102,13 @@ Brand…,Brand…,ORG,0.0,0.0,de,1.0
 Polizei…,Polizei…,ORG,0.0,0.0,de,1.0
 Freistaats,Freistaats,ORG,1.0,0.0,de,1.0
 SWNS1…,SWNS1…,ORG,0.0,0.0,de,1.0
-…,…,ORG,0.0,0.0,de,1.0
 lrs,lrs,ORG,0.2333333333333333,0.0,de,1.0
 Landesamt für Umwelt- und Arbeitsschutz Saarland,Landesamt für Umwelt- und Arbeitsschutz Saarland,ORG,0.2333333333333333,0.0,de,1.0
 "Link
 ","Link
 ",ORG,0.2333333333333333,0.0,de,1.0
 Landesamt…,Landesamt…,ORG,0.0,0.0,de,1.0
+…,…,ORG,0.0,0.0,de,1.0
 Schausteller,Schausteller,ORG,-0.5,0.0,de,1.0
 Jornades Flamenques,Jornades Flamenques,ORG,0.0,0.0,de,1.0
 DW,DW,ORG,0.0,0.0,de,1.0
