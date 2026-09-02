@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Starkregen',de,Hazard,#4287f5,#638ed4,3,0.1348489187962958
-'Dauerregen',de,Hazard,#3288e5,#638ed4,2,0.1109449624368333
+'Dauerregen',de,Hazard,#3288e5,#638ed4,2,0.11561742443494466
 'Unwettergefahr',de,Mitigation,#679e2c,#61d01c,3,0.1098931474114955
 'Unwetter Regen',de,Hazard,#a89216,#77731f,3,0.0764686604795318
 'Extremwetter Regen',de,Hazard,#a89216,#c4b03b,1,0.071240219638457
