@@ -20,4 +20,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hangrutschung Niederschlag',de,Impacts,#679e2c,#679e2c,1,0.001025196623646
 'Regenrückhalt',de,Mitigation,#9e3215,#f64118,1,5.202242146778615e-05
 'Starkniederschlag',de,Hazard,#9e3215,#9e3215,1,1.835914481758116e-05
-'Niederschlagstage',de,Hazard,#4277e5,#638ed4,1,1.0677792037493688e-05
+'Niederschlagstage',de,Hazard,#4277e5,#638ed4,1,9.076123231869634e-06
