@@ -12,12 +12,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Entsiegelung Regen',de,Mitigation,#679e2c,#61b00c,1,0.0351738160424867
 'Hochwasser Starkregen',de,Hazard,#4287f5,#537ee4,1,0.0350756164926472
 'Überflutung Regen',de,Impacts,#4287f5,#315fa8,1,0.032639560168857
-'Regentage',de,Hazard,#6287e5,#638ed4,1,0.02739725008913773
+'Regentage',de,Hazard,#6287e5,#638ed4,1,0.0273972500891377
 'Pegelstände Dauerregen',de,Impacts,#a89216,#87830f,1,0.0212864296129076
 'Regenmassen',de,Hazard,#9e3215,#e64118,1,0.0052299399795718
 'Regen Dachbegrünung',de,Mitigation,#679e2c,#61d01c,1,0.0040402097952017
 'Hochwasserwarnung Niederschlag',de,Mitigation,#a89216,#a89216,1,0.0016875205343924
 'Hangrutschung Niederschlag',de,Impacts,#679e2c,#679e2c,1,0.001025196623646
-'Regenrückhalt',de,Mitigation,#9e3215,#f64118,1,5.202242146778615e-05
+'Regenrückhalt',de,Mitigation,#9e3215,#f64118,1,4.421905824761823e-05
 'Starkniederschlag',de,Hazard,#9e3215,#9e3215,1,1.5605273094943985e-05
 'Niederschlagstage',de,Hazard,#4277e5,#638ed4,1,9.076123231869634e-06
