@@ -9,9 +9,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erdrutsche Regen',de,Impacts,#9e3215,#802d16,2,0.0512674499489033
 'Unwetterwarnung',de,Mitigation,#679e2c,#477515,1,0.0503418348576064
 'Hochwasser Regen',de,Impacts,#4287f5,#022f78,1,0.0393607494985251
-'Entsiegelung Regen',de,Mitigation,#679e2c,#61b00c,1,0.0351738160424867
 'Hochwasser Starkregen',de,Hazard,#4287f5,#537ee4,1,0.0350756164926472
 'Überflutung Regen',de,Impacts,#4287f5,#315fa8,1,0.032639560168857
+'Entsiegelung Regen',de,Mitigation,#679e2c,#61b00c,1,0.030347788636113694
 'Regentage',de,Hazard,#6287e5,#638ed4,1,0.0273972500891377
 'Pegelstände Dauerregen',de,Impacts,#a89216,#87830f,1,0.0212864296129076
 'Regenmassen',de,Hazard,#9e3215,#e64118,1,0.0052299399795718
