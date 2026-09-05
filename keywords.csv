@@ -11,7 +11,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hochwasser Regen',de,Impacts,#4287f5,#022f78,1,0.0393607494985251
 'Hochwasser Starkregen',de,Hazard,#4287f5,#537ee4,1,0.0350756164926472
 'Überflutung Regen',de,Impacts,#4287f5,#315fa8,1,0.032639560168857
-'Entsiegelung Regen',de,Mitigation,#679e2c,#61b00c,1,0.030347788636113694
+'Entsiegelung Regen',de,Mitigation,#679e2c,#61b00c,1,0.0303477886361136
 'Regentage',de,Hazard,#6287e5,#638ed4,1,0.0273972500891377
 'Pegelstände Dauerregen',de,Impacts,#a89216,#87830f,1,0.0212864296129076
 'Regenmassen',de,Hazard,#9e3215,#e64118,1,0.0052299399795718
@@ -20,4 +20,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hangrutschung Niederschlag',de,Impacts,#679e2c,#679e2c,1,0.001025196623646
 'Regenrückhalt',de,Mitigation,#9e3215,#f64118,1,4.421905824761823e-05
 'Starkniederschlag',de,Hazard,#9e3215,#9e3215,1,1.5605273094943985e-05
-'Niederschlagstage',de,Hazard,#4277e5,#638ed4,1,9.076123231869634e-06
+'Niederschlagstage',de,Hazard,#4277e5,#638ed4,1,7.714704747089189e-06
