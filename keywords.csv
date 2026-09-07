@@ -4,9 +4,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Unwettergefahr',de,Mitigation,#679e2c,#61d01c,3,0.1098931474114955
 'Unwetter Regen',de,Hazard,#a89216,#77731f,3,0.0764686604795318
 'Extremwetter Regen',de,Hazard,#a89216,#c4b03b,1,0.071240219638457
-'Kanalisation Regen',de,Impacts,#9e3215,#b55035,1,0.0559145816389849
 'Erdrutsche Regen',de,Impacts,#9e3215,#802d16,2,0.0512674499489033
 'Unwetterwarnung',de,Mitigation,#679e2c,#477515,1,0.0503418348576064
+'Kanalisation Regen',de,Impacts,#9e3215,#b55035,1,0.049477589393137164
 'Regenmengen',de,Impacts,#9e3215,#d64118,1,0.0478661256094939
 'Hochwasser Regen',de,Impacts,#4287f5,#022f78,1,0.0393607494985251
 'Hochwasser Starkregen',de,Hazard,#4287f5,#537ee4,1,0.0350756164926472
