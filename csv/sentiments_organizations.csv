@@ -1,6 +1,6 @@
 ,phrase,label,sentiment,subjectivity,language,count
-DWD,DWD,ORG,-0.13292269237636076,0.07409391180146374,de,186.70000000000073
-Deutsche Wetterdienst,Deutsche Wetterdienst,ORG,-0.16166056166056111,0.04517704517704504,de,136.50000000000043
+DWD,DWD,ORG,-0.13228500355365969,0.07373845060412196,de,187.60000000000073
+Deutsche Wetterdienst,Deutsche Wetterdienst,ORG,-0.16060164968461857,0.04488112566715173,de,137.40000000000043
 Deutschen Wetterdienstes,Deutschen Wetterdienstes,ORG,-0.18195718654434254,0.015290519877675842,de,21.799999999999997
 TTS-Player,TTS-Player,ORG,0.14765100671140938,0.06711409395973153,de,14.900000000000004
 US-Wetterdienst,US-Wetterdienst,ORG,-0.28051643192488257,0.0,de,14.200000000000003
@@ -48,9 +48,9 @@ picture alliance,picture alliance,ORG,0.0,0.0,de,1.9
 AEMET,AEMET,ORG,0.0,0.0,de,1.9
 Umweltministerium,Umweltministerium,ORG,-0.3684210526315789,0.0,de,1.9
 he…,he…,ORG,0.0,0.0,de,1.9
-Leipzig,Leipzig,ORG,0.0,0.0,de,1.8
 Umweltministerium am Donnerstag,Umweltministerium am Donnerstag,ORG,0.0,0.0,de,1.8
 Reg…,Reg…,ORG,-0.4722222222222222,0.0,de,1.8
+Leipzig,Leipzig,ORG,0.0,0.0,de,1.8
 Neue Woche,Neue Woche,ORG,-1.3124999999999998,0.0,de,1.6
 BER,BER,ORG,-0.875,0.0,de,1.5999999999999999
 ntv.de,ntv.de,ORG,-0.6666666666666666,0.0,de,1.5
@@ -62,10 +62,10 @@ Unwetter-Warnung,Unwetter-Warnung,ORG,0.0,0.0,de,1.2000000000000002
 Conference League,Conference League,ORG,0.0,0.8333333333333334,de,1.2
 HNK Rijeka,HNK Rijeka,ORG,0.0,0.8333333333333334,de,1.2
 Sparta Prag,Sparta Prag,ORG,0.0,0.8333333333333334,de,1.2
+of…,of…,ORG,0.0,0.0,de,1.2
 BVB,BVB,ORG,-0.7727272727272726,0.0,de,1.1
 Borussia Dortmund,Borussia Dortmund,ORG,0.0,0.0,de,1.1
 Dortmund,Dortmund,ORG,0.0,0.0,de,1.1
-of…,of…,ORG,0.0,0.0,de,1.1
 ge…,ge…,ORG,-0.9090909090909091,0.0,de,1.1
 Deutsche Wetterdienst erw…,Deutsche Wetterdienst erw…,ORG,0.0,0.0,de,1.1
 FDP,FDP,ORG,0.0,0.0,de,1.1
@@ -102,13 +102,13 @@ Brand…,Brand…,ORG,0.0,0.0,de,1.0
 Polizei…,Polizei…,ORG,0.0,0.0,de,1.0
 Freistaats,Freistaats,ORG,1.0,0.0,de,1.0
 SWNS1…,SWNS1…,ORG,0.0,0.0,de,1.0
+…,…,ORG,0.0,0.0,de,1.0
 lrs,lrs,ORG,0.2333333333333333,0.0,de,1.0
 Landesamt für Umwelt- und Arbeitsschutz Saarland,Landesamt für Umwelt- und Arbeitsschutz Saarland,ORG,0.2333333333333333,0.0,de,1.0
 "Link
 ","Link
 ",ORG,0.2333333333333333,0.0,de,1.0
 Landesamt…,Landesamt…,ORG,0.0,0.0,de,1.0
-…,…,ORG,0.0,0.0,de,1.0
 Schausteller,Schausteller,ORG,-0.5,0.0,de,1.0
 Jornades Flamenques,Jornades Flamenques,ORG,0.0,0.0,de,1.0
 DW,DW,ORG,0.0,0.0,de,1.0
@@ -176,11 +176,11 @@ As…,As…,ORG,0.0,0.0,de,1.0
 Versicherungsbranche,Versicherungsbranche,ORG,0.0,0.0,de,1.0
 Eintracht Frankf…,Eintracht Frankf…,ORG,0.0,0.0,de,1.0
 Ei…,Ei…,ORG,0.0,0.0,de,1.0
-Pandemie,Pandemie,ORG,0.0,0.0,de,1.0
 Die oppositionelle FDP,Die oppositionelle FDP,ORG,0.0,0.0,de,1.0
 la…,la…,ORG,0.0,0.0,de,1.0
-Verkeh…,Verkeh…,ORG,0.0,0.0,de,1.0
+Pandemie,Pandemie,ORG,0.0,0.0,de,1.0
 ADAC,ADAC,ORG,-1.0,0.0,de,1.0
+Verkeh…,Verkeh…,ORG,0.0,0.0,de,1.0
 G…,G…,ORG,-1.0,0.0,de,1.0
 angeor…,angeor…,ORG,1.0,0.0,de,1.0
 Teile Mecklenburg-Vorpommerns,Teile Mecklenburg-Vorpommerns,ORG,0.0,0.0,de,1.0
@@ -226,7 +226,7 @@ Le…,Le…,ORG,0.0,0.0,de,1.0
 Fegebank,Fegebank,ORG,-0.35,0.0,de,1.0
 Sonntag …,Sonntag …,ORG,0.0,0.0,de,1.0
 Jahrhundertflut,Jahrhundertflut,ORG,-0.5666666666666667,0.0,de,1.0
-Rostock,Rostock,ORG,0.0,0.0,de,1.0
+Zoologi…,Zoologi…,ORG,0.0,0.0,de,1.0
 au…,au…,ORG,0.0,0.0,de,1.0
 ve…,ve…,ORG,0.0,0.0,de,1.0
 di…,di…,ORG,0.0,0.0,de,1.0
@@ -254,7 +254,7 @@ Hitze,Hitze,ORG,0.0,0.0,de,1.0
 Pl…,Pl…,ORG,0.0,0.0,de,1.0
 Progr…,Progr…,ORG,0.0,0.0,de,1.0
 "Hessische Landesamt für Naturschutz, Umwelt und Geologie","Hessische Landesamt für Naturschutz, Umwelt und Geologie",ORG,0.0,0.0,de,1.0
-Zoologi…,Zoologi…,ORG,0.0,0.0,de,1.0
+Rostock,Rostock,ORG,0.0,0.0,de,1.0
 Hochw…,Hochw…,ORG,0.7,0.0,de,1.0
 Deutsc…,Deutsc…,ORG,0.0,0.0,de,1.0
 verg…,verg…,ORG,0.0,0.0,de,1.0
