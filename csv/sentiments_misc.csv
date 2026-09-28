@@ -63,8 +63,8 @@ Euro,Euro,MISC,,,de,2.8
 we…,we…,MISC,,,de,2.7
 Unwetter in der Ägäis,Unwetter in der Ägäis,MISC,,,de,2.6
 marokkanischen,marokkanischen,MISC,,,de,2.6
-Tornado,Tornado,MISC,,,de,2.3000000000000003
 Deutschem,Deutschem,MISC,,,de,2.3000000000000003
+Tornado,Tornado,MISC,,,de,2.2
 Berliner,Berliner,MISC,,,de,2.2
 Verkehr“,Verkehr“,MISC,,,de,2.1999999999999997
 südchinesischen,südchinesischen,MISC,,,de,2.1
@@ -91,17 +91,21 @@ Die Hitzewelle,Die Hitzewelle,MISC,,,de,1.9
 Klimakrise,Klimakrise,MISC,0.0,0.0,de,1.9
 Deutschem …,Deutschem …,MISC,,,de,1.9
 A81,A81,MISC,,,de,1.9
-DWD-Prognose,DWD-Prognose,MISC,,,de,1.9
 Krieg,Krieg,MISC,,,de,1.9
 Risikos von Überflutungen und Erdrutschen,Risikos von Überflutungen und Erdrutschen,MISC,,,de,1.9
 Milliarden-Schäden,Milliarden-Schäden,MISC,,,de,1.9
 mexikanischen,mexikanischen,MISC,,,de,1.9
 worst case“,worst case“,MISC,,,de,1.9
 Wetterprognose“,Wetterprognose“,MISC,,,de,1.9
+DWD-Prognose,DWD-Prognose,MISC,,,de,1.9
 Zweitligist Dynamo Dresden,Zweitligist Dynamo Dresden,MISC,,,de,1.9
-Unfälle,Unfälle,MISC,0.0,0.0,de,1.9
 andalusische,andalusische,MISC,,,de,1.9
+Wetterlage,Wetterlage,MISC,,,de,1.9
+Katastrophe,Katastrophe,MISC,,,de,1.9
+tunesische,tunesische,MISC,,,de,1.9
+Warnung vor Sturm,Warnung vor Sturm,MISC,,,de,1.9
 …,…,MISC,0.0,0.0,de,1.9
+Oberleitun…,Oberleitun…,MISC,,,de,1.9
 El Niño,El Niño,MISC,,,de,1.9
 türkischen,türkischen,MISC,,,de,1.9
 steirischen,steirischen,MISC,,,de,1.9
@@ -109,46 +113,43 @@ Wiener,Wiener,MISC,,,de,1.9
 WM-Partie,WM-Partie,MISC,,,de,1.9
 Kommune“,Kommune“,MISC,,,de,1.9
 Mexiko-Spiel,Mexiko-Spiel,MISC,,,de,1.9
-Katastrophe,Katastrophe,MISC,,,de,1.9
+Unfälle,Unfälle,MISC,0.0,0.0,de,1.9
 Ein Jahr nach dem schweren Zugunglück von Riedlingen,Ein Jahr nach dem schweren Zugunglück von Riedlingen,MISC,,,de,1.9
-D…,D…,MISC,0.0,0.0,de,1.9
-Sommer-Monsun,Sommer-Monsun,MISC,,,de,1.9
-Warnung vor Sturm,Warnung vor Sturm,MISC,,,de,1.9
-Ersehnter Dauerregen,Ersehnter Dauerregen,MISC,,,de,1.9
-T…,T…,MISC,,,de,1.9
-tunesische,tunesische,MISC,,,de,1.9
+Weltmarktpreise,Weltmarktpreise,MISC,,,de,1.9
 Frühlingsfreude,Frühlingsfreude,MISC,,,de,1.9
 NZZ Format,NZZ Format,MISC,,,de,1.9
-Weltmarktpreise,Weltmarktpreise,MISC,,,de,1.9
-Wetterlage,Wetterlage,MISC,,,de,1.9
-Oberleitun…,Oberleitun…,MISC,,,de,1.9
+Sommer-Monsun,Sommer-Monsun,MISC,,,de,1.9
+Ersehnter Dauerregen,Ersehnter Dauerregen,MISC,,,de,1.9
+T…,T…,MISC,,,de,1.9
+D…,D…,MISC,0.0,0.0,de,1.9
 philippinische,philippinische,MISC,,,de,1.8
 Hochwassersaison in China,Hochwassersaison in China,MISC,,,de,1.8
 Meteorologen,Meteorologen,MISC,0.04687500000000001,0.0,de,1.8
-Wetter-Alarm in der Ägäis,Wetter-Alarm in der Ägäis,MISC,,,de,1.8
-Instagram,Instagram,MISC,,,de,1.8
+Fastnachts-Wochenende,Fastnachts-Wochenende,MISC,,,de,1.8
 NINA-Warn-App,NINA-Warn-App,MISC,,,de,1.8
-Außenwelt,Außenwelt,MISC,0.0,0.21978021978021978,de,1.8
-s…,s…,MISC,,,de,1.8
-James-Webb-Teleskop,James-Webb-Teleskop,MISC,,,de,1.8
-Flut-Hölle,Flut-Hölle,MISC,,,de,1.8
 Regenzeit,Regenzeit,MISC,,,de,1.8
+Instagram,Instagram,MISC,,,de,1.8
 Plötzlich rauschen Wasserfälle,Plötzlich rauschen Wasserfälle,MISC,,,de,1.8
+Flut-Hölle,Flut-Hölle,MISC,,,de,1.8
+James-Webb-Teleskop,James-Webb-Teleskop,MISC,,,de,1.8
+Außenwelt,Außenwelt,MISC,0.0,0.21978021978021978,de,1.8
+Wetter-Alarm in der Ägäis,Wetter-Alarm in der Ägäis,MISC,,,de,1.8
+s…,s…,MISC,,,de,1.8
 Sachsen,Sachsen,MISC,0.012244897959183678,0.0,de,1.6000000000000003
 Taifun in diesem Jahr,Taifun in diesem Jahr,MISC,,,de,1.6
 Unwetterschäden,Unwetterschäden,MISC,,,de,1.6
-Qualifying,Qualifying,MISC,,,de,1.5
 Warnstufe Gelb,Warnstufe Gelb,MISC,,,de,1.5
+Qualifying,Qualifying,MISC,,,de,1.5
 Bürger,Bürger,MISC,,,de,1.5
 Glätte-Warnung,Glätte-Warnung,MISC,-0.7,0.0,de,1.4000000000000004
 Winterwetter“,Winterwetter“,MISC,,,de,1.4000000000000001
 Glatteis-Gefahr,Glatteis-Gefahr,MISC,-0.5384615384615383,0.0,de,1.3000000000000003
-Pegelstände</li><li,Pegelstände</li><li,MISC,,,de,1.3
-Katastrophen-Rangliste,Katastrophen-Rangliste,MISC,,,de,1.3
 Schnee und Regen,Schnee und Regen,MISC,,,de,1.3
-Schwerin,Schwerin,MISC,0.0,0.0,de,1.3
+Pegelstände</li><li,Pegelstände</li><li,MISC,,,de,1.3
 Glatteis-Warnungen,Glatteis-Warnungen,MISC,,,de,1.3
+Schwerin,Schwerin,MISC,0.0,0.0,de,1.3
 tü…,tü…,MISC,,,de,1.3
+Katastrophen-Rangliste,Katastrophen-Rangliste,MISC,,,de,1.3
 Münchner,Münchner,MISC,,,de,1.2000000000000002
 eisglatt,eisglatt,MISC,,,de,1.2000000000000002
 Gefährlicher Wettermix,Gefährlicher Wettermix,MISC,,,de,1.2000000000000002
@@ -157,22 +158,21 @@ MV“,MV“,MISC,,,de,1.2000000000000002
 Winter“,Winter“,MISC,,,de,1.2000000000000002
 Der Deutsche Wetterdienst,Der Deutsche Wetterdienst,MISC,,,de,1.1
 Neue Woche,Neue Woche,MISC,,,de,1.1
-Fastnachts-Wochenende,Fastnachts-Wochenende,MISC,,,de,1.1
 Wetter-Extreme,Wetter-Extreme,MISC,,,de,1.1
 DWD-Meteorologin,DWD-Meteorologin,MISC,,,de,1.1
+Rote Glatteiswarnung,Rote Glatteiswarnung,MISC,,,de,1.1
 Buslinien,Buslinien,MISC,,,de,1.1
 Gefahr für Leib und Leben,Gefahr für Leib und Leben,MISC,,,de,1.1
-Rote Glatteiswarnung,Rote Glatteiswarnung,MISC,,,de,1.1
-NINA,NINA,MISC,,,de,1.0
-Unwetter-Sicherheit,Unwetter-Sicherheit,MISC,,,de,1.0
 jedes Jahr …,jedes Jahr …,MISC,,,de,1.0
-Gefahrenindex…,Gefahrenindex…,MISC,,,de,1.0
+Unwetter-Sicherheit,Unwetter-Sicherheit,MISC,,,de,1.0
 Tag des kalendarischen Sommeranfangs,Tag des kalendarischen Sommeranfangs,MISC,,,de,1.0
-Hitze“,Hitze“,MISC,,,de,1.0
+Gefahrenindex…,Gefahrenindex…,MISC,,,de,1.0
+NINA,NINA,MISC,,,de,1.0
 picture alliance/Eibner-Pressefoto/Dimitri Drofit,picture alliance/Eibner-Pressefoto/Dimitri Drofit,MISC,,,de,1.0
 Baden-Württemberg,Baden-Württemberg,MISC,-0.011945392491467581,0.01706484641638226,de,1.0
 Unwet…,Unwet…,MISC,,,de,1.0
 Ibiza Medieval,Ibiza Medieval,MISC,,,de,1.0
+Hitze“,Hitze“,MISC,,,de,1.0
 Tag des Jahres,Tag des Jahres,MISC,,,de,1.0
 JWST,JWST,MISC,,,de,1.0
 Morg…,Morg…,MISC,,,de,1.0
@@ -375,14 +375,14 @@ Wegen Glatteis-Warnung,Wegen Glatteis-Warnung,MISC,,,de,1.0
 DWD-Meteorologin Sab…,DWD-Meteorologin Sab…,MISC,,,de,1.0
 Wetter-Geschehen,Wetter-Geschehen,MISC,,,de,1.0
 Gunda“,Gunda“,MISC,,,de,1.0
-Erdrutsche un…,Erdrutsche un…,MISC,,,de,1.0
-Die Schulen in Mecklenburg-Vorpommern,Die Schulen in Mecklenburg-Vorpommern,MISC,,,de,1.0
 Bildungsministerium,Bildungsministerium,MISC,,,de,1.0
 Glatteis-Gefahr“,Glatteis-Gefahr“,MISC,,,de,1.0
+Erdrutsche un…,Erdrutsche un…,MISC,,,de,1.0
+Die Schulen in Mecklenburg-Vorpommern,Die Schulen in Mecklenburg-Vorpommern,MISC,,,de,1.0
 NRW-Schulministerin,NRW-Schulministerin,MISC,,,de,1.0
 Gefahr für Leib und Leben auf den Straßen,Gefahr für Leib und Leben auf den Straßen,MISC,,,de,1.0
-Glatteisgefahr,Glatteisgefahr,MISC,0.0,0.0,de,1.0
 Wegen der Gefahr,Wegen der Gefahr,MISC,,,de,1.0
+Glatteisgefahr,Glatteisgefahr,MISC,0.0,0.0,de,1.0
 "Link2
 ","Link2
 ",MISC,,,de,1.0
@@ -479,8 +479,8 @@ Starkregen im Anmarsch,Starkregen im Anmarsch,MISC,,,de,1.0
 Rekord-Trockenheit,Rekord-Trockenheit,MISC,,,de,1.0
 Deutschland v,Deutschland v,MISC,,,de,1.0
 Rekordtrockenheit,Rekordtrockenheit,MISC,,,de,1.0
-Nordrhein-We…,Nordrhein-We…,MISC,,,de,1.0
 Erdrutsche a,Erdrutsche a,MISC,,,de,1.0
+Nordrhein-We…,Nordrhein-We…,MISC,,,de,1.0
 Dienstagnachmittag die Gefahr von Schauern und Gewittern,Dienstagnachmittag die Gefahr von Schauern und Gewittern,MISC,,,de,1.0
 WetterKnall,WetterKnall,MISC,,,de,1.0
 Que…,Que…,MISC,,,de,1.0
@@ -546,8 +546,8 @@ Dauerregen dr,Dauerregen dr,MISC,,,de,1.0
 Frühlingsgefühlen,Frühlingsgefühlen,MISC,,,de,1.0
 weiterlesenMünchen/Karlsruhe,weiterlesenMünchen/Karlsruhe,MISC,,,de,1.0
 Gefahr für Leib und Leben“,Gefahr für Leib und Leben“,MISC,,,de,1.0
-ka…,ka…,MISC,,,de,1.0
 Prognose“,Prognose“,MISC,,,de,1.0
+ka…,ka…,MISC,,,de,1.0
 deutschsprachige,deutschsprachige,MISC,,,de,1.0
 Erdrutsche is,Erdrutsche is,MISC,,,de,1.0
 08.02.2026,08.02.2026,MISC,,,de,1.0
