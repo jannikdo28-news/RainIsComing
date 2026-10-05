@@ -8,8 +8,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Unwetterwarnung',de,Mitigation,#679e2c,#477515,1,0.0503418348576064
 'Regenmengen',de,Impacts,#9e3215,#d64118,1,0.0478661256094939
 'Erdrutsche Regen',de,Impacts,#9e3215,#802d16,1,0.0435777524565678
-'Kanalisation Regen',de,Impacts,#9e3215,#b55035,1,0.0434060859841665
 'Hochwasser Regen',de,Impacts,#4287f5,#022f78,1,0.0393607494985251
+'Kanalisation Regen',de,Impacts,#9e3215,#b55035,1,0.03749523308654153
 'Hochwasser Starkregen',de,Hazard,#4287f5,#537ee4,1,0.0350756164926472
 'Entsiegelung Regen',de,Mitigation,#679e2c,#61b00c,1,0.022331317789592
 'Regentage',de,Hazard,#6287e5,#638ed4,1,0.0205160759212178
