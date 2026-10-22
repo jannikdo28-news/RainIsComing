@@ -19,5 +19,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hochwasserwarnung Niederschlag',de,Mitigation,#a89216,#a89216,1,0.0014343924542335
 'Hangrutschung Niederschlag',de,Impacts,#679e2c,#679e2c,1,0.0007407045605842
 'Starkniederschlag',de,Hazard,#9e3215,#9e3215,1,0.0006271650584823
-'Regenrückhalt',de,Mitigation,#9e3215,#f64118,1,7.399760640056422e-06
+'Regenrückhalt',de,Mitigation,#9e3215,#f64118,1,6.289796544047959e-06
 'Niederschlagstage',de,Hazard,#4277e5,#638ed4,1,2.4731575847713893e-06
