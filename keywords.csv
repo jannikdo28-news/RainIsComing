@@ -11,7 +11,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hochwasser Starkregen',de,Hazard,#4287f5,#537ee4,1,0.0350756164926472
 'Extremwetter Regen',de,Hazard,#a89216,#c4b03b,1,0.0344246841411251
 'Überflutung Regen',de,Impacts,#4287f5,#315fa8,1,0.0336309677578351
-'Regentage',de,Hazard,#6287e5,#638ed4,1,0.019238844533035128
+'Regentage',de,Hazard,#6287e5,#638ed4,1,0.01830321285307983
 'Entsiegelung Regen',de,Mitigation,#679e2c,#61b00c,1,0.0142501491250331
 'Pegelstände Dauerregen',de,Impacts,#a89216,#87830f,1,0.0131809144235267
 'Regenmassen',de,Hazard,#9e3215,#e64118,1,0.0040561593852406
